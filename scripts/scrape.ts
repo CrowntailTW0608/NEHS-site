@@ -102,7 +102,14 @@ async function scrape(): Promise<Student[]> {
     }
   }
 
+  const anonymize = (name: string) => {
+    if (name.length < 2) return name;
+    const mid = Math.floor(name.length / 2);
+    return name.slice(0, mid) + "O" + name.slice(mid + 1);
+  };
+
   const result = Array.from(studentsMap.values());
+  result.forEach(s => { s.name = anonymize(s.name); });
   result.sort((a, b) => {
     if (a.className !== b.className) return a.className.localeCompare(b.className);
     return a.seatNumber - b.seatNumber;
