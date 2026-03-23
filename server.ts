@@ -150,6 +150,8 @@ async function fetchHonors(): Promise<Student[]> {
 }
 
 async function startServer() {
+  app.use("/files", express.static(path.join(process.cwd(), "src/files")));
+
   app.get("/api/honors", async (req, res) => {
     const data = await fetchHonors();
     res.json({

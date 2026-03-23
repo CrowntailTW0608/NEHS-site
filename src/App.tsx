@@ -22,6 +22,8 @@ import {
   Phone,
   BookOpen,
   Image as ImageIcon,
+  FileText,
+  Globe,
   Facebook,
   Mail,
   User
@@ -53,21 +55,22 @@ export default function App() {
   const [selectedStudent, setSelectedStudent] = useState<Student | null>(null);
   const [viewMode, setViewMode] = useState<"grid" | "list">("grid");
   const [isSidebarOpen, setIsSidebarOpen] = useState(true);
-  const [activeTab, setActiveTab] = useState("honors");
+  const [activeTab, setActiveTab] = useState("home");
 
   const proxyImageUrl = (url: string) => `/api/proxy-image?url=${encodeURIComponent(url)}`;
 
   const sidebarItems = [
-    { id: "home", label: "首頁", icon: Home, type: "tab" },
-    { id: "honors", label: "榮譽榜", icon: Trophy, type: "tab" },
+    { id: "home", label: "校務佈告欄", icon: Home, type: "tab" },
     { id: "schedule", label: "作息時間表", icon: Clock, type: "tab" },
     { id: "calendar", label: "行事曆", icon: Calendar, type: "tab" },
+    { id: "honors", label: "榮譽榜", icon: Trophy, type: "tab" },
     { id: "extensions", label: "校內分機", icon: Phone, type: "tab" },
+    { id: "textbooks", label: "教科書選用", icon: FileText, type: "tab" },
     { id: "course_plan", label: "課程計畫", icon: BookOpen, type: "link", url: "https://sites.google.com/nehs.tc.edu.tw/elem/%E8%AA%B2%E7%A8%8B%E8%A8%88%E7%95%AB%E5%85%AC%E9%96%8B%E8%B3%87%E6%96%99" },
     { id: "photos", label: "照片錦集", icon: ImageIcon, type: "link", url: "https://drive.google.com/drive/folders/1AYfxyl38OH3lo7NgCh1wFzGSbFm6QgKZ" },
     { id: "facebook", label: "官方臉書", icon: Facebook, type: "link", url: "https://www.facebook.com/people/%E5%9C%8B%E7%AB%8B%E4%B8%AD%E7%A7%91%E5%AF%A6%E4%B8%AD-%E5%9C%8B%E5%B0%8F%E9%83%A8/61567154196139/?locale=zh_TW" },
-    { id: "info", label: "關於我們", icon: Info, type: "tab" },
-    { id: "settings", label: "設定", icon: Settings, type: "tab" },
+    { id: "milk", label: "台中有鈣讚", icon: Globe, type: "link", url: "https://milkgood.tc.edu.tw/" },
+    { id: "cloud_school", label: "台中雲端校務系統", icon: Globe, type: "link", url: "https://school.tc.edu.tw/" },
   ];
 
   const extensionsData = [
@@ -252,34 +255,36 @@ export default function App() {
                 </div>
               </div>
               
-              <div className="flex items-center gap-4">
-                {lastUpdated && (
-                  <p className="hidden md:block text-[10px] text-slate-400 font-medium bg-slate-50 px-2 py-1 rounded-lg border border-slate-100">
-                    最後更新: {lastUpdated}
-                  </p>
-                )}
-                <button 
-                  onClick={fetchData}
-                  className="p-2 text-slate-400 hover:text-slate-900 hover:bg-slate-50 rounded-full transition-colors"
-                  title="重新整理"
-                >
-                  <RefreshCw className={`w-5 h-5 ${loading ? 'animate-spin' : ''}`} />
-                </button>
-                <div className="hidden sm:flex items-center gap-2 bg-slate-50 p-1 rounded-xl border border-slate-100">
-                  <button 
-                    onClick={() => setViewMode("grid")}
-                    className={`p-1.5 rounded-lg transition-all ${viewMode === "grid" ? "bg-white shadow-sm text-slate-900" : "text-slate-400 hover:text-slate-600"}`}
+              {activeTab === "honors" && (
+                <div className="flex items-center gap-4">
+                  {lastUpdated && (
+                    <p className="hidden md:block text-[10px] text-slate-400 font-medium bg-slate-50 px-2 py-1 rounded-lg border border-slate-100">
+                      最後更新: {lastUpdated}
+                    </p>
+                  )}
+                  <button
+                    onClick={fetchData}
+                    className="p-2 text-slate-400 hover:text-slate-900 hover:bg-slate-50 rounded-full transition-colors"
+                    title="重新整理"
                   >
-                    <LayoutGrid className="w-4 h-4" />
+                    <RefreshCw className={`w-5 h-5 ${loading ? 'animate-spin' : ''}`} />
                   </button>
-                  <button 
-                    onClick={() => setViewMode("list")}
-                    className={`p-1.5 rounded-lg transition-all ${viewMode === "list" ? "bg-white shadow-sm text-slate-900" : "text-slate-400 hover:text-slate-600"}`}
-                  >
-                    <ListIcon className="w-4 h-4" />
-                  </button>
+                  <div className="hidden sm:flex items-center gap-2 bg-slate-50 p-1 rounded-xl border border-slate-100">
+                    <button
+                      onClick={() => setViewMode("grid")}
+                      className={`p-1.5 rounded-lg transition-all ${viewMode === "grid" ? "bg-white shadow-sm text-slate-900" : "text-slate-400 hover:text-slate-600"}`}
+                    >
+                      <LayoutGrid className="w-4 h-4" />
+                    </button>
+                    <button
+                      onClick={() => setViewMode("list")}
+                      className={`p-1.5 rounded-lg transition-all ${viewMode === "list" ? "bg-white shadow-sm text-slate-900" : "text-slate-400 hover:text-slate-600"}`}
+                    >
+                      <ListIcon className="w-4 h-4" />
+                    </button>
+                  </div>
                 </div>
-              </div>
+              )}
             </div>
           </div>
         </header>
@@ -415,31 +420,23 @@ export default function App() {
                     <Clock className="w-6 h-6 text-slate-400" />
                     作息時間表
                   </h2>
-                  <a 
-                    href="https://lh3.googleusercontent.com/sitesv/APaQ0SQXpL2OmF1ceof_sJhb4vQO3A60APPMS6NPmAQcD5oPadPTD9SBI2wBB0nZDz5zPTZVAy7GOkRSntOekpcwXWIwKPqoqaGwQeC0HyX1W0EDnZuSj_MuxhF44r0-3-pFFKZJaUyXnRhKjvQZnXm_vpd86QI1Z_OzXfbdlynLNMzNg3rpxQt4oklJGSKEX2GoZMHL420IvweG7Y-0OP1WfyZsrqlGsrlrtKPYQSY=w1280"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-xs text-blue-600 hover:underline flex items-center gap-1"
-                  >
-                    無法顯示圖片？點此開啟 <ExternalLink className="w-3 h-3" />
-                  </a>
+                  <div className="flex items-center gap-2">
+                    <span className="text-xs text-slate-400">更新時間 2026/3/23 12:00（請以官網為主）</span>
+                    <a
+                      href="https://sites.google.com/nehs.tc.edu.tw/elem/%E5%9C%8B%E5%B0%8F%E9%83%A8%E4%B8%80%E9%80%B1%E4%BD%9C%E6%81%AF%E6%99%82%E9%96%93%E8%A1%A8"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-xs text-blue-600 hover:underline flex items-center gap-1"
+                    >
+                      查看原始頁面 <ExternalLink className="w-3 h-3" />
+                    </a>
+                  </div>
                 </div>
-                <div className="rounded-2xl overflow-hidden border border-slate-100 bg-slate-50 min-h-[400px] flex items-center justify-center">
-                  <img 
-                    src={proxyImageUrl("https://lh3.googleusercontent.com/sitesv/APaQ0SQYyqJnIlVwMIxxi0rK4hmimHSS1iFe_NV2SzAwxbG3Cay6HuMxNnYSkwiGHNUgDhsidY2nloup1CQ4ujGoSNwVkiDTEEjSGfIarJOjCqjJKfzbLdGSucPgvdC7Ns0Bfp1dBPIJncWlr77yMZUD5ISbnXlqcRrvKO5mCs6lTCMxfTDGYP-_XUhNBY2DyYvc8E_RaZdF4_SWticXeiumQLvnn6nmPSmVVTzjCfg=w1280")} 
-                    alt="作息時間表" 
+                <div className="rounded-2xl overflow-hidden border border-slate-100 bg-slate-50 p-4">
+                  <img
+                    src="/files/國小部一週作息時間表.jpg"
+                    alt="作息時間表"
                     className="w-full h-auto"
-                    referrerPolicy="no-referrer"
-                    onError={(e) => {
-                      (e.target as HTMLImageElement).style.display = 'none';
-                      const parent = (e.target as HTMLImageElement).parentElement;
-                      if (parent) {
-                        const msg = document.createElement('div');
-                        msg.className = 'text-center p-8';
-                        msg.innerHTML = '<p class="text-slate-400 mb-2">圖片載入失敗 (可能是權限限制)</p><a href="https://lh3.googleusercontent.com/sitesv/APaQ0SQXpL2OmF1ceof_sJhb4vQO3A60APPMS6NPmAQcD5oPadPTD9SBI2wBB0nZDz5zPTZVAy7GOkRSntOekpcwXWIwKPqoqaGwQeC0HyX1W0EDnZuSj_MuxhF44r0-3-pFFKZJaUyXnRhKjvQZnXm_vpd86QI1Z_OzXfbdlynLNMzNg3rpxQt4oklJGSKEX2GoZMHL420IvweG7Y-0OP1WfyZsrqlGsrlrtKPYQSY=w1280" target="_blank" class="text-blue-600 font-bold hover:underline">點此直接開啟圖片</a>';
-                        parent.appendChild(msg);
-                      }
-                    }}
                   />
                 </div>
               </div>
@@ -452,31 +449,23 @@ export default function App() {
                     <Calendar className="w-6 h-6 text-slate-400" />
                     行事曆
                   </h2>
-                  <a 
-                    href="https://lh3.googleusercontent.com/sitesv/APaQ0ST3PBSsa6VI5vjQemgeogl0PKeede0QBUuKPbFDUxtbk0XSreDQBfpJYrWY3GEUK1gV2Z_FFyq3eNAHcNHSq5qzRYqtiLKzjXVT_15Mz1C9T7J0Psfo676JFNbgsTKCkdvl1_tOBwc7G4tsVIdJNW1bdeuV4cKv-V0Cnh5_uuhWDnI1of3APsoFrtAoUYpD0tEH8V4r8ei4CCm-Xd1n-j0VpLxObNz-Oug-XA0=w1280"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-xs text-blue-600 hover:underline flex items-center gap-1"
-                  >
-                    無法顯示圖片？點此開啟 <ExternalLink className="w-3 h-3" />
-                  </a>
+                  <div className="flex items-center gap-2">
+                    <span className="text-xs text-slate-400">更新時間 2026/3/23 12:00（請以官網為主）</span>
+                    <a
+                      href="https://sites.google.com/nehs.tc.edu.tw/elem/%E5%9C%8B%E5%B0%8F%E9%83%A8%E7%B0%A1%E6%98%8E%E8%A1%8C%E4%BA%8B%E6%9B%86"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-xs text-blue-600 hover:underline flex items-center gap-1"
+                    >
+                      查看原始頁面 <ExternalLink className="w-3 h-3" />
+                    </a>
+                  </div>
                 </div>
-                <div className="rounded-2xl overflow-hidden border border-slate-100 bg-slate-50 min-h-[400px] flex items-center justify-center">
-                  <img 
-                    src={proxyImageUrl("https://lh3.googleusercontent.com/sitesv/APaQ0SRwCRwAlPYbOjvmjKgD1zh9ANaNMmfXQ0i5hVEetTzO2eAJ0_R1mJULo5bhnDa_ica-DALMyZIuarOR41Vu0FmJLbRk3yFOfBbYIEVbsLd13Xeewd84Uusxl9NquCxwp-GP8yJtnGUvRYZ75qfS6CoiJm_sZp_niTPPtK-sOuTPmIfviX1MUX4gzwyVA_5J2V7sqFwVHds15-lKR-pC6jmVsPsgtBAiWD_Q0sw=w1280")} 
-                    alt="行事曆" 
+                <div className="rounded-2xl overflow-hidden border border-slate-100 bg-slate-50 p-4">
+                  <img
+                    src="/files/國小部簡明行事曆.jpg"
+                    alt="行事曆"
                     className="w-full h-auto"
-                    referrerPolicy="no-referrer"
-                    onError={(e) => {
-                      (e.target as HTMLImageElement).style.display = 'none';
-                      const parent = (e.target as HTMLImageElement).parentElement;
-                      if (parent) {
-                        const msg = document.createElement('div');
-                        msg.className = 'text-center p-8';
-                        msg.innerHTML = '<p class="text-slate-400 mb-2">圖片載入失敗 (可能是權限限制)</p><a href="https://lh3.googleusercontent.com/sitesv/APaQ0ST3PBSsa6VI5vjQemgeogl0PKeede0QBUuKPbFDUxtbk0XSreDQBfpJYrWY3GEUK1gV2Z_FFyq3eNAHcNHSq5qzRYqtiLKzjXVT_15Mz1C9T7J0Psfo676JFNbgsTKCkdvl1_tOBwc7G4tsVIdJNW1bdeuV4cKv-V0Cnh5_uuhWDnI1of3APsoFrtAoUYpD0tEH8V4r8ei4CCm-Xd1n-j0VpLxObNz-Oug-XA0=w1280" target="_blank" class="text-blue-600 font-bold hover:underline">點此直接開啟圖片</a>';
-                        parent.appendChild(msg);
-                      }
-                    }}
                   />
                 </div>
               </div>
@@ -484,10 +473,15 @@ export default function App() {
           ) : activeTab === "extensions" ? (
             <div className="flex flex-col gap-8">
               <div className="flex items-center justify-between">
-                <h2 className="text-3xl font-bold text-slate-900 flex items-center gap-3">
-                  <Phone className="w-8 h-8 text-slate-400" />
-                  業務執掌與分機
-                </h2>
+                <div>
+                  <h2 className="text-3xl font-bold text-slate-900 flex items-center gap-3">
+                    <Phone className="w-8 h-8 text-slate-400" />
+                    業務執掌與分機
+                  </h2>
+                  <a href="tel:0425686850" className="mt-1 ml-11 text-slate-500 text-sm font-medium hover:text-slate-900 transition-colors">
+                    04-25686850
+                  </a>
+                </div>
                 <a 
                   href="https://sites.google.com/nehs.tc.edu.tw/elem/%E6%A5%AD%E5%8B%99%E5%9F%B7%E6%8E%8C%E5%88%86%E6%A9%9F"
                   target="_blank"
@@ -505,6 +499,19 @@ export default function App() {
                       <h3 className="text-white font-bold text-lg">{group.category}</h3>
                     </div>
                     <div className="p-6 space-y-4">
+                      {group.category === "教室分機" && (
+                        <div className="bg-amber-50 border border-amber-100 p-4 rounded-2xl flex items-start gap-3">
+                          <div className="bg-amber-100 p-2 rounded-xl">
+                            <Info className="w-4 h-4 text-amber-600" />
+                          </div>
+                          <div>
+                            <h4 className="font-bold text-amber-900 text-sm mb-0.5">注意事項</h4>
+                            <p className="text-amber-800 text-xs leading-relaxed">
+                              請勿於「上課時間」撥打教室分機，感謝您的配合與體諒。
+                            </p>
+                          </div>
+                        </div>
+                      )}
                       {group.items.map((item, iIdx) => (
                         <div key={iIdx} className="p-4 bg-slate-50 rounded-2xl border border-slate-100 hover:border-slate-300 transition-all group">
                           <div className="flex justify-between items-start mb-2">
@@ -537,17 +544,45 @@ export default function App() {
                 ))}
               </div>
               
-              <div className="bg-amber-50 border border-amber-100 p-6 rounded-[2rem] flex items-start gap-4">
-                <div className="bg-amber-100 p-3 rounded-2xl">
-                  <Info className="w-6 h-6 text-amber-600" />
-                </div>
-                <div>
-                  <h4 className="font-bold text-amber-900 mb-1">注意事項</h4>
-                  <p className="text-amber-800 text-sm leading-relaxed">
-                    請勿於「上課時間」撥打教室分機，感謝您的配合與體諒。
-                  </p>
+            </div>
+          ) : activeTab === "textbooks" ? (
+            <div className="flex flex-col gap-4 h-full">
+              <div className="flex items-center justify-between">
+                <h2 className="text-3xl font-bold text-slate-900 flex items-center gap-3">
+                  <FileText className="w-8 h-8 text-slate-400" />
+                  教科書選用
+                </h2>
+                <div className="flex items-center gap-2">
+                  <span className="text-xs text-slate-400">更新時間 2026/3/23 12:00（請以官網為主）</span>
+                  <a
+                    href="https://sites.google.com/nehs.tc.edu.tw/elem/%E8%AA%B2%E7%A8%8B%E8%A8%88%E7%95%AB%E5%85%AC%E9%96%8B%E8%B3%87%E6%96%99"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-xs text-blue-600 hover:underline flex items-center gap-1"
+                  >
+                    查看原始頁面 <ExternalLink className="w-3 h-3" />
+                  </a>
                 </div>
               </div>
+              <iframe
+                src="/files/114_國立中科實中國小部_教科書選用版本暨自編教材一覽表.pdf"
+                className="w-full flex-1 rounded-[2rem] border border-slate-200 shadow-sm"
+                style={{ minHeight: "75vh" }}
+                title="教科書選用"
+              />
+            </div>
+          ) : activeTab === "home" ? (
+            <div className="flex flex-col gap-4 h-full">
+              <h2 className="text-3xl font-bold text-slate-900 flex items-center gap-3">
+                <Home className="w-8 h-8 text-slate-400" />
+                校務佈告欄
+              </h2>
+              <iframe
+                src="https://school.tc.edu.tw/open-message/060323b"
+                className="w-full flex-1 rounded-[2rem] border border-slate-200 shadow-sm"
+                style={{ minHeight: "75vh" }}
+                title="校務佈告欄"
+              />
             </div>
           ) : (() => {
             const activeItem = sidebarItems.find(i => i.id === activeTab);
@@ -579,13 +614,13 @@ export default function App() {
           <p className="text-slate-400 text-sm flex items-center justify-center gap-2">
             <ExternalLink className="w-4 h-4" />
             資訊來源：
-            <a 
-              href="https://school.tc.edu.tw/open-honor/060323b?level=" 
-              target="_blank" 
+            <a
+              href="https://sites.google.com/nehs.tc.edu.tw/elem/"
+              target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 hover:text-blue-800 underline underline-offset-4 transition-colors"
             >
-              臺中市學校學生榮譽榜 (中科實中國小部)
+              國立中科實驗高級中學 國小部 官網
             </a>
           </p>
           <p className="text-slate-300 text-xs mt-2">
