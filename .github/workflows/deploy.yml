@@ -3,8 +3,6 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [master]
-  schedule:
-    - cron: '0 20 * * *'  # 每日台灣時間 04:00（UTC 20:00）
   workflow_dispatch:
 
 permissions:
