@@ -87,9 +87,12 @@ export default function App() {
   const extensionsData = [
     { category: "行政人員", items: [
       { role: "國小部主任", name: "陳主任", ext: "5100", email: "elem5100@nehs.tc.edu.tw", duty: "綜理國小部業務；校內事務溝通協調。" },
-      { role: "教務組長", name: "蔡組長", ext: "5110", email: "elem5110@nehs.tc.edu.tw", duty: "課表安排、調代課協調支援、代理代課教支教師管理及鐘點費計算、規劃與執行教學業務、數位融入教學、評量命題事宜、辦理語文競賽、教師研習" },
-      { role: "學務組長", name: "林組長", ext: "5120", email: "elem5120@nehs.tc.edu.tw", duty: "學生生活輔導、社團活動、體育競賽、衛生保健、環境教育、校園安全" },
-      { role: "輔導組長", name: "王組長", ext: "5130", email: "elem5130@nehs.tc.edu.tw", duty: "學生輔導諮商、特教業務、親師溝通、生命教育、性別平等教育" },
+      { role: "教務組長", name: "蔡組長", ext: "5110", email: "elem5110@nehs.tc.edu.tw", duty: "課表安排、代課協調、教學業務規劃、數位融入教學、評量命題、語文競賽、教師研習、閱讀教育推動、教科書管理" },
+      { role: "學務組長", name: "莊組長", ext: "5120", email: "elem5120@nehs.tc.edu.tw", duty: "品德教育、生活常規、學生獎懲、校安通報、性平霸凌業務、體育競賽、衛生健康、午餐業務" },
+      { role: "輔導組長", name: "柯組長", ext: "5130", email: "elem5130@nehs.tc.edu.tw", duty: "學生諮商輔導、親師溝通、特教業務、學習扶助、教育志工管理" },
+      { role: "訓育組長", name: "許組長", ext: "5140", email: "elem5140@nehs.tc.edu.tw", duty: "各項活動辦理、課後照顧班業務、課後社團業務" },
+      { role: "助理員", name: "劉小姐", ext: "5150", email: "elem5150@nehs.tc.edu.tw", duty: "註冊業務、請購行政、差旅費請領、文書紀錄、器材管理" },
+      { role: "健康中心", name: "蔡護理師", ext: "5160", email: "elem5160@nehs.tc.edu.tw", duty: "健康檢查、緊急事故處置、醫藥用品管理、防疫工作、健康教育推進" },
     ]},
     { category: "教室分機", items: [
       { role: "一年一班", ext: "5011" },
@@ -167,11 +170,19 @@ export default function App() {
 
   return (
     <div className="flex min-h-screen bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 font-sans antialiased">
+      {/* Mobile backdrop */}
+      {isSidebarOpen && (
+        <div
+          className="fixed inset-0 z-30 bg-black/40 md:hidden"
+          onClick={() => setIsSidebarOpen(false)}
+        />
+      )}
+
       {/* Sidebar */}
       <aside
         className={`
-          fixed left-0 top-0 h-full bg-white dark:bg-slate-900 border-r border-slate-200 dark:border-slate-700 z-40 transition-all duration-300 ease-in-out
-          ${isSidebarOpen ? "w-64" : "w-20"}
+          fixed left-0 top-0 h-full w-64 bg-white dark:bg-slate-900 border-r border-slate-200 dark:border-slate-700 z-40 transition-all duration-300 ease-in-out
+          ${isSidebarOpen ? "translate-x-0" : "-translate-x-full md:translate-x-0 md:w-20"}
         `}
       >
         <div className="flex flex-col h-full">
@@ -182,13 +193,16 @@ export default function App() {
                 <Trophy className="w-5 h-5 text-white dark:text-slate-900" />
               </div>
               {isSidebarOpen && (
-                <motion.span
+                <motion.a
+                  href="https://sites.google.com/nehs.tc.edu.tw/elem/"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   initial={{ opacity: 0 }}
                   animate={{ opacity: 1 }}
-                  className="font-bold text-slate-900 dark:text-slate-100 whitespace-nowrap"
+                  className="font-bold text-slate-900 dark:text-slate-100 whitespace-nowrap hover:underline"
                 >
                   中科實中(國小部)
-                </motion.span>
+                </motion.a>
               )}
             </div>
             {isSidebarOpen && (
@@ -219,6 +233,7 @@ export default function App() {
                     window.open(item.url, "_blank");
                   } else {
                     setActiveTab(item.id);
+                    setIsSidebarOpen(false);
                   }
                 }}
                 className={`
@@ -262,17 +277,21 @@ export default function App() {
       </aside>
 
       {/* Main Content Area */}
-      <div className={`flex-1 flex flex-col transition-all duration-300 ${isSidebarOpen ? "ml-64" : "ml-20"}`}>
+      <div className={`flex-1 flex flex-col transition-all duration-300 ml-0 ${isSidebarOpen ? "md:ml-64" : "md:ml-20"}`}>
         {/* Header */}
         <header className="bg-white/70 dark:bg-slate-900/70 backdrop-blur-xl border-b border-slate-100 dark:border-slate-800 sticky top-0 z-30">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex justify-between items-center h-16">
-              <div className="flex items-center gap-4">
-                <div>
-                  <h1 className="text-xl font-bold tracking-tight text-slate-900 dark:text-slate-100">
-                    國小部 <span className="text-slate-500 dark:text-slate-400 font-medium">{sidebarItems.find(i => i.id === activeTab)?.label}</span>
-                  </h1>
-                </div>
+              <div className="flex items-center gap-3">
+                <button
+                  onClick={() => setIsSidebarOpen(true)}
+                  className="md:hidden p-2 text-slate-400 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-slate-800 rounded-xl transition-all"
+                >
+                  <Menu className="w-5 h-5" />
+                </button>
+                <h1 className="text-xl font-bold tracking-tight text-slate-900 dark:text-slate-100">
+                  國小部 <span className="text-slate-500 dark:text-slate-400 font-medium">{sidebarItems.find(i => i.id === activeTab)?.label}</span>
+                </h1>
               </div>
 
               {activeTab === "honors" && (
@@ -522,57 +541,86 @@ export default function App() {
                 </a>
               </div>
 
-              <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-                {extensionsData.map((group, gIdx) => (
+              {/* 行政人員 */}
+              {extensionsData.filter(g => g.category === "行政人員").map((group, gIdx) => (
+                <div key={gIdx} className="bg-white dark:bg-slate-800 rounded-[2rem] border border-slate-200 dark:border-slate-700 shadow-sm overflow-hidden">
+                  <div className="bg-slate-900 dark:bg-slate-700 px-6 py-4">
+                    <h3 className="text-white font-bold text-lg">{group.category}</h3>
+                  </div>
+                  <div className="p-6 space-y-4">
+                    {group.items.map((item, iIdx) => (
+                      <div key={iIdx} className="p-4 bg-slate-50 dark:bg-slate-900 rounded-2xl border border-slate-100 dark:border-slate-700 hover:border-slate-300 dark:hover:border-slate-600 transition-all group">
+                        <div className="flex justify-between items-start mb-2">
+                          <div className="flex items-center gap-2">
+                            <span className="bg-white dark:bg-slate-800 px-2 py-1 rounded-lg border border-slate-200 dark:border-slate-600 text-xs font-bold text-slate-500 dark:text-slate-400">
+                              {item.role}
+                            </span>
+                            {item.name && <span className="font-bold text-slate-900 dark:text-slate-100">{item.name}</span>}
+                          </div>
+                          <div className="flex items-center gap-1.5 text-blue-600 dark:text-blue-400 font-mono font-bold">
+                            <Phone className="w-3.5 h-3.5" />
+                            {item.ext}
+                          </div>
+                        </div>
+                        {item.duty && (
+                          <p className="text-sm text-slate-500 dark:text-slate-400 leading-relaxed mb-3">
+                            {item.duty}
+                          </p>
+                        )}
+                        {item.email && (
+                          <div className="flex items-center gap-2 text-xs text-slate-400">
+                            <Mail className="w-3.5 h-3.5" />
+                            {item.email}
+                          </div>
+                        )}
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              ))}
+
+              {/* 教室分機 */}
+              {extensionsData.filter(g => g.category === "教室分機").map((group, gIdx) => {
+                const byGrade: Record<string, typeof group.items> = {};
+                group.items.forEach(item => {
+                  const grade = item.role.match(/^([一二三四五六]年)/)?.[1] ?? "其他";
+                  if (!byGrade[grade]) byGrade[grade] = [];
+                  byGrade[grade].push(item);
+                });
+                return (
                   <div key={gIdx} className="bg-white dark:bg-slate-800 rounded-[2rem] border border-slate-200 dark:border-slate-700 shadow-sm overflow-hidden">
                     <div className="bg-slate-900 dark:bg-slate-700 px-6 py-4">
                       <h3 className="text-white font-bold text-lg">{group.category}</h3>
                     </div>
-                    <div className="p-6 space-y-4">
-                      {group.category === "教室分機" && (
-                        <div className="bg-amber-50 dark:bg-amber-900/20 border border-amber-100 dark:border-amber-800/50 p-4 rounded-2xl flex items-start gap-3">
-                          <div className="bg-amber-100 dark:bg-amber-900/40 p-2 rounded-xl">
-                            <Info className="w-4 h-4 text-amber-600 dark:text-amber-400" />
-                          </div>
-                          <div>
-                            <h4 className="font-bold text-amber-900 dark:text-amber-200 text-sm mb-0.5">注意事項</h4>
-                            <p className="text-amber-800 dark:text-amber-300 text-xs leading-relaxed">
-                              請勿於「上課時間」撥打教室分機，感謝您的配合與體諒。
-                            </p>
-                          </div>
+                    <div className="p-6 space-y-5">
+                      <div className="bg-amber-50 dark:bg-amber-900/20 border border-amber-100 dark:border-amber-800/50 p-4 rounded-2xl flex items-start gap-3">
+                        <div className="bg-amber-100 dark:bg-amber-900/40 p-2 rounded-xl">
+                          <Info className="w-4 h-4 text-amber-600 dark:text-amber-400" />
                         </div>
-                      )}
-                      {group.items.map((item, iIdx) => (
-                        <div key={iIdx} className="p-4 bg-slate-50 dark:bg-slate-900 rounded-2xl border border-slate-100 dark:border-slate-700 hover:border-slate-300 dark:hover:border-slate-600 transition-all group">
-                          <div className="flex justify-between items-start mb-2">
-                            <div className="flex items-center gap-2">
-                              <span className="bg-white dark:bg-slate-800 px-2 py-1 rounded-lg border border-slate-200 dark:border-slate-600 text-xs font-bold text-slate-500 dark:text-slate-400">
-                                {item.role}
-                              </span>
-                              {item.name && <span className="font-bold text-slate-900 dark:text-slate-100">{item.name}</span>}
-                            </div>
-                            <div className="flex items-center gap-1.5 text-blue-600 dark:text-blue-400 font-mono font-bold">
-                              <Phone className="w-3.5 h-3.5" />
-                              {item.ext}
-                            </div>
+                        <div>
+                          <h4 className="font-bold text-amber-900 dark:text-amber-200 text-sm mb-0.5">注意事項</h4>
+                          <p className="text-amber-800 dark:text-amber-300 text-xs leading-relaxed">
+                            請勿於「上課時間」撥打教室分機，感謝您的配合與體諒。
+                          </p>
+                        </div>
+                      </div>
+                      {Object.entries(byGrade).map(([grade, items]) => (
+                        <div key={grade}>
+                          <div className="text-xs font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider mb-2 px-1">{grade}</div>
+                          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-2">
+                            {items.map((item, iIdx) => (
+                              <div key={iIdx} className="flex items-center justify-between px-3 py-2 bg-slate-50 dark:bg-slate-900 rounded-xl border border-slate-100 dark:border-slate-700 hover:border-slate-300 dark:hover:border-slate-600 transition-all">
+                                <span className="text-xs font-medium text-slate-600 dark:text-slate-300">{item.role.replace(/[一二三四五六]年/, "")}</span>
+                                <span className="text-xs font-mono font-bold text-blue-600 dark:text-blue-400 ml-2">{item.ext}</span>
+                              </div>
+                            ))}
                           </div>
-                          {item.duty && (
-                            <p className="text-sm text-slate-500 dark:text-slate-400 leading-relaxed mb-3">
-                              {item.duty}
-                            </p>
-                          )}
-                          {item.email && (
-                            <div className="flex items-center gap-2 text-xs text-slate-400">
-                              <Mail className="w-3.5 h-3.5" />
-                              {item.email}
-                            </div>
-                          )}
                         </div>
                       ))}
                     </div>
                   </div>
-                ))}
-              </div>
+                );
+              })}
 
             </div>
           ) : activeTab === "textbooks" ? (
@@ -654,7 +702,7 @@ export default function App() {
             </a>
           </p>
           <p className="text-slate-300 dark:text-slate-600 text-xs mt-2">
-            &copy; 2026 學生榮譽可視化看板
+            ---
           </p>
         </footer>
       </div>
