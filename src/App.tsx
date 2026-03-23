@@ -27,8 +27,15 @@ import {
   Mail,
   Sun,
   Moon,
+  Newspaper,
 } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";
+
+interface BulletinPost {
+  title: string;
+  url: string;
+  date: string;
+}
 
 interface HonorDetail {
   title: string;
@@ -54,6 +61,9 @@ export default function App() {
   const [selectedClass, setSelectedClass] = useState<string>("all");
   const [selectedStudent, setSelectedStudent] = useState<Student | null>(null);
   const [viewMode, setViewMode] = useState<"grid" | "list">("grid");
+  const [bulletinPosts, setBulletinPosts] = useState<BulletinPost[]>([]);
+  const [bulletinLastUpdated, setBulletinLastUpdated] = useState("");
+  const [bulletinLoading, setBulletinLoading] = useState(true);
   const [isSidebarOpen, setIsSidebarOpen] = useState(true);
   const [activeTab, setActiveTab] = useState("home");
   const [isDark, setIsDark] = useState(() => {
@@ -72,6 +82,7 @@ export default function App() {
 
   const sidebarItems = [
     { id: "home", label: "校務佈告欄", icon: Home, type: "tab" },
+    { id: "bulletin", label: "招生資訊", icon: Newspaper, type: "tab" },
     { id: "schedule", label: "作息時間表", icon: Clock, type: "tab" },
     { id: "calendar", label: "行事曆", icon: Calendar, type: "tab" },
     { id: "honors", label: "榮譽榜", icon: Trophy, type: "tab" },
@@ -110,6 +121,10 @@ export default function App() {
 
   useEffect(() => {
     fetchData();
+    fetch(`${import.meta.env.BASE_URL}bulletin.json`)
+      .then(r => r.json())
+      .then(d => { setBulletinPosts(d.posts || []); setBulletinLastUpdated(d.lastUpdated || ""); setBulletinLoading(false); })
+      .catch(() => setBulletinLoading(false));
   }, []);
 
   const fetchData = async () => {
@@ -649,6 +664,49 @@ export default function App() {
                 style={{ minHeight: "75vh" }}
                 title="教科書選用"
               />
+            </div>
+          ) : activeTab === "bulletin" ? (
+            <div className="flex flex-col gap-6">
+              <div className="flex items-center justify-between">
+                <h2 className="text-3xl font-bold text-slate-900 dark:text-slate-100 flex items-center gap-3">
+                  <Newspaper className="w-8 h-8 text-slate-400" />
+                  招生資訊
+                </h2>
+                <div className="flex items-center gap-3">
+                  {bulletinLastUpdated && (
+                    <span className="text-xs text-slate-400">更新時間 {bulletinLastUpdated}（請以官網為主）</span>
+                  )}
+                  <a
+                    href="https://www.nehs.tc.edu.tw/%e6%8b%9b%e7%94%9f%e8%b3%87%e8%a8%8a%e5%9c%8b%e5%b0%8f%e9%83%a8/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex items-center gap-2 text-blue-600 dark:text-blue-400 font-bold hover:underline bg-blue-50 dark:bg-blue-900/20 px-4 py-2 rounded-xl transition-all shrink-0"
+                  >
+                    查看原始網頁 <ExternalLink className="w-4 h-4" />
+                  </a>
+                </div>
+              </div>
+              <div className="bg-white dark:bg-slate-800 rounded-[2rem] border border-slate-200 dark:border-slate-700 shadow-sm overflow-hidden">
+                <ul className="divide-y divide-slate-100 dark:divide-slate-700">
+                  {bulletinLoading ? (
+                    <li className="px-6 py-12 text-center text-slate-400">載入中...</li>
+                  ) : bulletinPosts.length === 0 ? (
+                    <li className="px-6 py-12 text-center text-slate-400">暫無資料</li>
+                  ) : bulletinPosts.map((post, i) => (
+                    <li key={i}>
+                      <a
+                        href={post.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="flex items-center justify-between gap-4 px-6 py-4 hover:bg-slate-50 dark:hover:bg-slate-700/50 transition-colors group"
+                      >
+                        <span className="text-sm font-medium text-slate-800 dark:text-slate-200 leading-snug group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">{post.title}</span>
+                        <span className="text-xs text-slate-400 shrink-0">{post.date}</span>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </div>
             </div>
           ) : activeTab === "home" ? (
             <div className="flex flex-col gap-4 h-full">

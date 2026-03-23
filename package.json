@@ -10,7 +10,9 @@
     "preview": "vite preview",
     "clean": "rm -rf dist",
     "lint": "tsc --noEmit",
-    "scrape": "tsx scripts/scrape.ts"
+    "scrape": "tsx scripts/scrape.ts",
+    "scrape:honors": "tsx scripts/scrape-honors.ts",
+    "scrape:bulletin": "tsx scripts/scrape-bulletin.ts"
   },
   "dependencies": {
 "@tailwindcss/vite": "^4.1.14",
