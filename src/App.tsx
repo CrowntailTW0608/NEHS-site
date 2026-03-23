@@ -65,10 +65,19 @@ export default function App() {
   const [bulletinLastUpdated, setBulletinLastUpdated] = useState("");
   const [bulletinLoading, setBulletinLoading] = useState(true);
   const [isSidebarOpen, setIsSidebarOpen] = useState(true);
-  const [activeTab, setActiveTab] = useState("home");
+  const [activeTab, setActiveTab] = useState(() => {
+    const param = new URLSearchParams(window.location.search).get("tab");
+    return param ?? "home";
+  });
   const [isDark, setIsDark] = useState(() => {
     return localStorage.getItem("theme") === "dark";
   });
+
+  useEffect(() => {
+    const url = new URL(window.location.href);
+    url.searchParams.set("tab", activeTab);
+    window.history.replaceState(null, "", url.toString());
+  }, [activeTab]);
 
   useEffect(() => {
     if (isDark) {
