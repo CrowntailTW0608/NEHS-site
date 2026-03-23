@@ -173,7 +173,7 @@ export default function App() {
                   animate={{ opacity: 1 }}
                   className="font-bold text-slate-900 whitespace-nowrap"
                 >
-                  中科實中
+                  中科實中(國小部)
                 </motion.span>
               )}
             </div>
@@ -441,7 +441,7 @@ export default function App() {
                 </div>
                 <div className="rounded-2xl overflow-hidden border border-slate-100 bg-slate-50 p-4">
                   <img
-                    src="/files/國小部一週作息時間表.jpg"
+                    src={`${import.meta.env.BASE_URL}files/國小部一週作息時間表.jpg`}
                     alt="作息時間表"
                     className="w-full h-auto"
                   />
@@ -470,7 +470,7 @@ export default function App() {
                 </div>
                 <div className="rounded-2xl overflow-hidden border border-slate-100 bg-slate-50 p-4">
                   <img
-                    src="/files/國小部簡明行事曆.jpg"
+                    src={`${import.meta.env.BASE_URL}files/國小部簡明行事曆.jpg`}
                     alt="行事曆"
                     className="w-full h-auto"
                   />
@@ -572,7 +572,7 @@ export default function App() {
                 </div>
               </div>
               <iframe
-                src="/files/114_國立中科實中國小部_教科書選用版本暨自編教材一覽表.pdf"
+                src={`${import.meta.env.BASE_URL}files/114_國立中科實中國小部_教科書選用版本暨自編教材一覽表.pdf`}
                 className="w-full flex-1 rounded-[2rem] border border-slate-200 shadow-sm"
                 style={{ minHeight: "75vh" }}
                 title="教科書選用"
