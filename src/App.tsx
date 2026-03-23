@@ -213,7 +213,7 @@ export default function App() {
                   animate={{ opacity: 1 }}
                   className="font-bold text-slate-900 dark:text-slate-100 whitespace-nowrap hover:underline px-1"
                 >
-                  中科實中(國小部)
+                  中科實中-國小部(非官方)
                 </motion.a>
                 <button
                   onClick={() => setIsSidebarOpen(false)}
