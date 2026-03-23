@@ -98,7 +98,7 @@ export default function App() {
   const fetchData = async () => {
     setLoading(true);
     try {
-      const response = await fetch("/honors.json");
+      const response = await fetch(`${import.meta.env.BASE_URL}honors.json`);
       const result = await response.json();
       setStudents(result.students || []);
       setLastUpdated(result.lastUpdated || "");
