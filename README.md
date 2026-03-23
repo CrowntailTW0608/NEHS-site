@@ -1,20 +1,31 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 國立中科實驗高級中學 國小部 入口網站
 
-# Run and deploy your AI Studio app
+國小部資訊整合入口，提供校務佈告欄、榮譽榜、行事曆、作息時間表、校內分機等功能。
 
-This contains everything you need to run your app locally.
+**線上網址：** https://crowntailtw0608.github.io/NEHS-site/
 
-View your app in AI Studio: https://ai.studio/apps/11b5197d-5535-48d7-8bf7-8cc9277135d9
+## 本地開發
 
-## Run Locally
+**前置需求：** Node.js
 
-**Prerequisites:**  Node.js
+```bash
+npm install       # 安裝依賴
+npm run scrape    # 爬取榮譽榜資料（首次或需更新時執行）
+npm run dev       # 啟動開發伺服器 http://localhost:3000
+```
 
+## 建置與部署
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+```bash
+npm run build     # 建置前端至 dist/
+```
+
+部署至 GitHub Pages 由 `.github/workflows/deploy.yml` 自動處理（push to master 觸發）。
+
+榮譽榜資料由 `.github/workflows/scrape.yml` 每日台灣時間 10:00 自動更新。
+
+## 技術架構
+
+- **前端**：React 19 + TypeScript + Vite + Tailwind CSS
+- **後端（本地開發）**：Express + Cheerio（爬蟲）
+- **部署**：GitHub Pages（靜態）
