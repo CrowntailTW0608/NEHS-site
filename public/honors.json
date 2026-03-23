@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026/03/23 15:49",
+  "lastUpdated": "2026/03/23 16:01",
   "students": [
     {
       "id": "122",
@@ -577,6 +577,280 @@
       ]
     },
     {
+      "id": "172",
+      "name": "游騏佑",
+      "className": "一年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第二名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "179",
+      "name": "莊秉澤",
+      "className": "一年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期寒假作業優秀名單",
+          "date": "2026-03-10",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第二名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "187",
+      "name": "陳文寧",
+      "className": "一年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期寒假作業優秀名單",
+          "date": "2026-03-10",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "196",
+      "name": "林芮安",
+      "className": "一年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期寒假作業優秀名單",
+          "date": "2026-03-10",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
+        }
+      ]
+    },
+    {
+      "id": "182",
+      "name": "林哲立",
+      "className": "一年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        }
+      ]
+    },
+    {
+      "id": "191",
+      "name": "劉品嫻",
+      "className": "一年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        }
+      ]
+    },
+    {
+      "id": "192",
+      "name": "趙于晞",
+      "className": "一年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "193",
+      "name": "周思瑀",
+      "className": "一年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        }
+      ]
+    },
+    {
+      "id": "194",
+      "name": "林珈汶",
+      "className": "一年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        }
+      ]
+    },
+    {
+      "id": "189",
+      "name": "郭玶汘",
+      "className": "一年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "184",
+      "name": "許詠晴",
+      "className": "一年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "188",
+      "name": "薛筑勻",
+      "className": "一年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "181",
+      "name": "陳永汯",
+      "className": "一年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第二名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "176",
+      "name": "楊濬齊",
+      "className": "一年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第二名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "190",
+      "name": "廖梓妤",
+      "className": "一年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第二名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
       "id": "150",
       "name": "林宥維",
       "className": "一年二班",
@@ -869,280 +1143,6 @@
       "id": "162",
       "name": "戴妤庭",
       "className": "一年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第二名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
-      "id": "172",
-      "name": "游騏佑",
-      "className": "一年三班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第二名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
-      "id": "179",
-      "name": "莊秉澤",
-      "className": "一年三班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114學年度第二學期寒假作業優秀名單",
-          "date": "2026-03-10",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第二名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
-      "id": "187",
-      "name": "陳文寧",
-      "className": "一年三班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114學年度第二學期寒假作業優秀名單",
-          "date": "2026-03-10",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
-      "id": "196",
-      "name": "林芮安",
-      "className": "一年三班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114學年度第二學期寒假作業優秀名單",
-          "date": "2026-03-10",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
-        }
-      ]
-    },
-    {
-      "id": "182",
-      "name": "林哲立",
-      "className": "一年三班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        }
-      ]
-    },
-    {
-      "id": "191",
-      "name": "劉品嫻",
-      "className": "一年三班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        }
-      ]
-    },
-    {
-      "id": "192",
-      "name": "趙于晞",
-      "className": "一年三班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
-      "id": "193",
-      "name": "周思瑀",
-      "className": "一年三班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        }
-      ]
-    },
-    {
-      "id": "194",
-      "name": "林珈汶",
-      "className": "一年三班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        }
-      ]
-    },
-    {
-      "id": "189",
-      "name": "郭玶汘",
-      "className": "一年三班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
-      "id": "184",
-      "name": "許詠晴",
-      "className": "一年三班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
-      "id": "188",
-      "name": "薛筑勻",
-      "className": "一年三班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
-      "id": "181",
-      "name": "陳永汯",
-      "className": "一年三班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第二名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
-      "id": "176",
-      "name": "楊濬齊",
-      "className": "一年三班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第二名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
-      "id": "190",
-      "name": "廖梓妤",
-      "className": "一年三班",
       "seatNumber": 0,
       "honors": [
         {
@@ -1900,896 +1900,6 @@
           "date": "2025-10-21",
           "category": "1年級",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
-      "id": "17",
-      "name": "賴亮宇",
-      "className": "二年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "人氣獎",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "期中定評成績優異同學",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "2年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
-        }
-      ]
-    },
-    {
-      "id": "42",
-      "name": "張顥騰",
-      "className": "二年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "人氣獎",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "2年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
-        }
-      ]
-    },
-    {
-      "id": "53",
-      "name": "陳芃蓁",
-      "className": "二年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "人氣獎",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        }
-      ]
-    },
-    {
-      "id": "75",
-      "name": "蒲永晨",
-      "className": "二年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "人氣獎",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第二學期寒假作業優秀名單",
-          "date": "2026-03-10",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
-        },
-        {
-          "title": "",
-          "achievement": "卓越盃閱讀全國競賽二年級優選獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=22"
-        },
-        {
-          "title": "",
-          "achievement": "114第一學期定考成績進步前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        },
-        {
-          "title": "",
-          "achievement": "卓越盃全國競賽數學二年級銀質獎",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=14"
-        }
-      ]
-    },
-    {
-      "id": "107",
-      "name": "張芊妤",
-      "className": "二年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "人氣獎",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        }
-      ]
-    },
-    {
-      "id": "110",
-      "name": "李品希",
-      "className": "二年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "人氣獎",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        }
-      ]
-    },
-    {
-      "id": "50",
-      "name": "林孟綱",
-      "className": "二年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第二學期寒假作業優秀名單",
-          "date": "2026-03-10",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "2年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
-        }
-      ]
-    },
-    {
-      "id": "54",
-      "name": "陳禹蓁",
-      "className": "二年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "",
-          "achievement": "114第一學期定考成績進步前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        }
-      ]
-    },
-    {
-      "id": "91",
-      "name": "陳宥心",
-      "className": "二年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        }
-      ]
-    },
-    {
-      "id": "74",
-      "name": "梁桓瑜",
-      "className": "二年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114學年度第二學期寒假作業優秀名單",
-          "date": "2026-03-10",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "2年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
-        }
-      ]
-    },
-    {
-      "id": "49",
-      "name": "岳哲宇",
-      "className": "二年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "",
-          "achievement": "卓越盃全國競賽數學二年級銅質獎",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=19"
-        },
-        {
-          "title": "",
-          "achievement": "卓越盃閱讀全國競賽二年級銅質獎",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=15"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "2年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
-        }
-      ]
-    },
-    {
-      "id": "103",
-      "name": "陳宥廷",
-      "className": "二年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "期中定評成績優異同學",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        }
-      ]
-    },
-    {
-      "id": "73",
-      "name": "施宥彤",
-      "className": "二年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "2年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
-        }
-      ]
-    },
-    {
-      "id": "22",
-      "name": "陳禹維",
-      "className": "二年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114第一學期定考成績進步前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
-        }
-      ]
-    },
-    {
-      "id": "93",
-      "name": "謝承羲",
-      "className": "二年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度第1學期",
-          "achievement": "2025國際資優數學聯賽(IML)成績表現優異",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "114年度臺中市議長盃擊劍錦標賽二年級第五名",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "2年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
-        }
-      ]
-    },
-    {
-      "id": "40",
-      "name": "廖均益",
-      "className": "二年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度第1學期",
-          "achievement": "期中定評成績優異同學",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "2年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
-        }
-      ]
-    },
-    {
-      "id": "15",
-      "name": "黃愉捷",
-      "className": "二年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "2年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
-        }
-      ]
-    },
-    {
-      "id": "21",
-      "name": "李彥錞",
-      "className": "二年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "2年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
-        }
-      ]
-    },
-    {
-      "id": "43",
-      "name": "楊偲睿",
-      "className": "二年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "2年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
-        }
-      ]
-    },
-    {
-      "id": "44",
-      "name": "楊偲嫙",
-      "className": "二年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        }
-      ]
-    },
-    {
-      "id": "100",
-      "name": "邱湛緯",
-      "className": "二年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第二學期寒假作業優秀名單",
-          "date": "2026-03-10",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
-        },
-        {
-          "title": "",
-          "achievement": "臺中市卓越盃音樂公開賽國小二年級組小提琴獨奏第一名",
-          "date": "2026-02-24",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=26"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "2年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
-        }
-      ]
-    },
-    {
-      "id": "28",
-      "name": "張硯翔",
-      "className": "二年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第二學期寒假作業優秀名單",
-          "date": "2026-03-10",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
-        }
-      ]
-    },
-    {
-      "id": "8",
-      "name": "張恩睿",
-      "className": "二年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114學年度第二學期寒假作業優秀名單",
-          "date": "2026-03-10",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
-        }
-      ]
-    },
-    {
-      "id": "29",
-      "name": "蔡岱霖",
-      "className": "二年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "期中定評成績優異同學",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "2年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
-        }
-      ]
-    },
-    {
-      "id": "102",
-      "name": "陳正庭",
-      "className": "二年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        }
-      ]
-    },
-    {
-      "id": "104",
-      "name": "蔡昕緹",
-      "className": "二年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        }
-      ]
-    },
-    {
-      "id": "55",
-      "name": "黃子懿",
-      "className": "二年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "國語日報小作家刊登-綠美圖好驚豔",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=21"
-        },
-        {
-          "title": "",
-          "achievement": "卓越盃閱讀全國競賽二年級銅質獎",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=15"
-        },
-        {
-          "title": "",
-          "achievement": "卓越盃全國競賽數學二年級銀質獎",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=14"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "國語日報周刊小作家",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "期中定評成績優異同學",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "國語文教育中心舉辦造詞造句比賽優勝獎",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "2年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
-        }
-      ]
-    },
-    {
-      "id": "106",
-      "name": "柯隆尼",
-      "className": "二年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114第一學期定考成績進步前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
-        }
-      ]
-    },
-    {
-      "id": "16",
-      "name": "廖頤綾",
-      "className": "二年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114第一學期定考成績進步前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
-        }
-      ]
-    },
-    {
-      "id": "7",
-      "name": "張羽芯",
-      "className": "二年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114第一學期定考成績進步前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "2年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
-        }
-      ]
-    },
-    {
-      "id": "25",
-      "name": "王睿煦",
-      "className": "二年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度第1學期",
-          "achievement": "期中定評成績優異同學",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        }
-      ]
-    },
-    {
-      "id": "99",
-      "name": "張喬甯",
-      "className": "二年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "2年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
-        }
-      ]
-    },
-    {
-      "id": "27",
-      "name": "陳宣菀",
-      "className": "二年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "2年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
-        }
-      ]
-    },
-    {
-      "id": "9",
-      "name": "劉品志",
-      "className": "二年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "2年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
-        }
-      ]
-    },
-    {
-      "id": "6",
-      "name": "李昱曈",
-      "className": "二年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "2年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
-        }
-      ]
-    },
-    {
-      "id": "48",
-      "name": "沈昊寬",
-      "className": "二年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "2年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
         }
       ]
     },
@@ -4258,6 +3368,896 @@
           "date": "2025-11-07",
           "category": "3年級",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "賴亮宇",
+      "className": "二年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "人氣獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "期中定評成績優異同學",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第二名",
+          "date": "2025-11-07",
+          "category": "2年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "name": "張顥騰",
+      "className": "二年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "人氣獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第二名",
+          "date": "2025-11-07",
+          "category": "2年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "name": "陳芃蓁",
+      "className": "二年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "人氣獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        }
+      ]
+    },
+    {
+      "id": "75",
+      "name": "蒲永晨",
+      "className": "二年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "人氣獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第二學期寒假作業優秀名單",
+          "date": "2026-03-10",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
+        },
+        {
+          "title": "",
+          "achievement": "卓越盃閱讀全國競賽二年級優選獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=22"
+        },
+        {
+          "title": "",
+          "achievement": "114第一學期定考成績進步前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        },
+        {
+          "title": "",
+          "achievement": "卓越盃全國競賽數學二年級銀質獎",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=14"
+        }
+      ]
+    },
+    {
+      "id": "107",
+      "name": "張芊妤",
+      "className": "二年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "人氣獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        }
+      ]
+    },
+    {
+      "id": "110",
+      "name": "李品希",
+      "className": "二年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "人氣獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "name": "林孟綱",
+      "className": "二年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第二學期寒假作業優秀名單",
+          "date": "2026-03-10",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-11-07",
+          "category": "2年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "name": "陳禹蓁",
+      "className": "二年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "",
+          "achievement": "114第一學期定考成績進步前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        }
+      ]
+    },
+    {
+      "id": "91",
+      "name": "陳宥心",
+      "className": "二年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        }
+      ]
+    },
+    {
+      "id": "74",
+      "name": "梁桓瑜",
+      "className": "二年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期寒假作業優秀名單",
+          "date": "2026-03-10",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-11-07",
+          "category": "2年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "name": "岳哲宇",
+      "className": "二年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "",
+          "achievement": "卓越盃全國競賽數學二年級銅質獎",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=19"
+        },
+        {
+          "title": "",
+          "achievement": "卓越盃閱讀全國競賽二年級銅質獎",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=15"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第二名",
+          "date": "2025-11-07",
+          "category": "2年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
+        }
+      ]
+    },
+    {
+      "id": "103",
+      "name": "陳宥廷",
+      "className": "二年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "期中定評成績優異同學",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        }
+      ]
+    },
+    {
+      "id": "73",
+      "name": "施宥彤",
+      "className": "二年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-11-07",
+          "category": "2年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "name": "陳禹維",
+      "className": "二年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第一學期定考成績進步前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
+        }
+      ]
+    },
+    {
+      "id": "93",
+      "name": "謝承羲",
+      "className": "二年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度第1學期",
+          "achievement": "2025國際資優數學聯賽(IML)成績表現優異",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "114年度臺中市議長盃擊劍錦標賽二年級第五名",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第二名",
+          "date": "2025-11-07",
+          "category": "2年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "name": "廖均益",
+      "className": "二年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度第1學期",
+          "achievement": "期中定評成績優異同學",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-11-07",
+          "category": "2年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "黃愉捷",
+      "className": "二年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-11-07",
+          "category": "2年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "name": "李彥錞",
+      "className": "二年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第二名",
+          "date": "2025-11-07",
+          "category": "2年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "name": "楊偲睿",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-11-07",
+          "category": "2年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "name": "楊偲嫙",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        }
+      ]
+    },
+    {
+      "id": "100",
+      "name": "邱湛緯",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第二學期寒假作業優秀名單",
+          "date": "2026-03-10",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
+        },
+        {
+          "title": "",
+          "achievement": "臺中市卓越盃音樂公開賽國小二年級組小提琴獨奏第一名",
+          "date": "2026-02-24",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=26"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-11-07",
+          "category": "2年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "name": "張硯翔",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第二學期寒假作業優秀名單",
+          "date": "2026-03-10",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "張恩睿",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期寒假作業優秀名單",
+          "date": "2026-03-10",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "name": "蔡岱霖",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "期中定評成績優異同學",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第二名",
+          "date": "2025-11-07",
+          "category": "2年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
+        }
+      ]
+    },
+    {
+      "id": "102",
+      "name": "陳正庭",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        }
+      ]
+    },
+    {
+      "id": "104",
+      "name": "蔡昕緹",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "name": "黃子懿",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "國語日報小作家刊登-綠美圖好驚豔",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=21"
+        },
+        {
+          "title": "",
+          "achievement": "卓越盃閱讀全國競賽二年級銅質獎",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=15"
+        },
+        {
+          "title": "",
+          "achievement": "卓越盃全國競賽數學二年級銀質獎",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=14"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "國語日報周刊小作家",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "期中定評成績優異同學",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "國語文教育中心舉辦造詞造句比賽優勝獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-11-07",
+          "category": "2年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
+        }
+      ]
+    },
+    {
+      "id": "106",
+      "name": "柯隆尼",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第一學期定考成績進步前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "廖頤綾",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第一學期定考成績進步前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "張羽芯",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第一學期定考成績進步前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-11-07",
+          "category": "2年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "name": "王睿煦",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度第1學期",
+          "achievement": "期中定評成績優異同學",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        }
+      ]
+    },
+    {
+      "id": "99",
+      "name": "張喬甯",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-11-07",
+          "category": "2年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "name": "陳宣菀",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第二名",
+          "date": "2025-11-07",
+          "category": "2年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "劉品志",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第二名",
+          "date": "2025-11-07",
+          "category": "2年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "李昱曈",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第二名",
+          "date": "2025-11-07",
+          "category": "2年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "name": "沈昊寬",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第二名",
+          "date": "2025-11-07",
+          "category": "2年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
         }
       ]
     },
