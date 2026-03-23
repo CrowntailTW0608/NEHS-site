@@ -15,7 +15,6 @@ import {
   ExternalLink,
   Menu,
   Home,
-  Settings,
   Info,
   ChevronLeft,
   Clock,
@@ -26,7 +25,6 @@ import {
   Globe,
   Facebook,
   Mail,
-  User
 } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";
 
@@ -57,7 +55,6 @@ export default function App() {
   const [isSidebarOpen, setIsSidebarOpen] = useState(true);
   const [activeTab, setActiveTab] = useState("home");
 
-  const proxyImageUrl = (url: string) => `/api/proxy-image?url=${encodeURIComponent(url)}`;
 
   const sidebarItems = [
     { id: "home", label: "校務佈告欄", icon: Home, type: "tab" },
@@ -101,7 +98,7 @@ export default function App() {
   const fetchData = async () => {
     setLoading(true);
     try {
-      const response = await fetch("/api/honors");
+      const response = await fetch("/honors.json");
       const result = await response.json();
       setStudents(result.students || []);
       setLastUpdated(result.lastUpdated || "");
@@ -258,9 +255,19 @@ export default function App() {
               {activeTab === "honors" && (
                 <div className="flex items-center gap-4">
                   {lastUpdated && (
-                    <p className="hidden md:block text-[10px] text-slate-400 font-medium bg-slate-50 px-2 py-1 rounded-lg border border-slate-100">
-                      最後更新: {lastUpdated}
-                    </p>
+                    <div className="hidden md:flex items-center gap-2">
+                      <p className="text-[10px] text-slate-400 font-medium bg-slate-50 px-2 py-1 rounded-lg border border-slate-100">
+                        更新時間 {lastUpdated}（請以官網為主）
+                      </p>
+                      <a
+                        href="https://sites.google.com/nehs.tc.edu.tw/elem/%E4%B8%AD%E7%A7%91%E5%AF%A6%E4%B8%AD%E5%9C%8B%E5%B0%8F%E9%83%A8"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-xs text-blue-600 hover:underline flex items-center gap-1"
+                      >
+                        查看原始頁面 <ExternalLink className="w-3 h-3" />
+                      </a>
+                    </div>
                   )}
                   <button
                     onClick={fetchData}
