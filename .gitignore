@@ -7,6 +7,9 @@ coverage/
 .env*
 !.env.example
 
+# Honor roll data (generated at deploy time, not stored in repo)
+public/honors.json
+
 # Claude Code settings
 .claude/
 CLAUDE.md
