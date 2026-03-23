@@ -1,0 +1,5 @@
+{
+  "name": "中科實中國小部榮譽看板",
+  "description": "視覺化呈現學生榮譽榜資料，提供班級分組、排序與詳細內容查詢功能。",
+  "requestFramePermissions": []
+}
