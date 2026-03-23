@@ -187,79 +187,80 @@ export default function App() {
       >
         <div className="flex flex-col h-full">
           {/* Sidebar Header */}
-          <div className="h-16 flex items-center justify-between px-4 border-b border-slate-100 dark:border-slate-800">
-            <div className="flex items-center gap-3 overflow-hidden">
-              <div className="bg-slate-900 dark:bg-slate-100 p-2 rounded-xl shrink-0">
-                <Trophy className="w-5 h-5 text-white dark:text-slate-900" />
-              </div>
-              {isSidebarOpen && (
+          <div className="h-16 flex items-center justify-between px-3 border-b border-slate-100 dark:border-slate-800 shrink-0">
+            {isSidebarOpen ? (
+              <>
                 <motion.a
                   href="https://sites.google.com/nehs.tc.edu.tw/elem/"
                   target="_blank"
                   rel="noopener noreferrer"
                   initial={{ opacity: 0 }}
                   animate={{ opacity: 1 }}
-                  className="font-bold text-slate-900 dark:text-slate-100 whitespace-nowrap hover:underline"
+                  className="font-bold text-slate-900 dark:text-slate-100 whitespace-nowrap hover:underline px-1"
                 >
                   中科實中(國小部)
                 </motion.a>
-              )}
-            </div>
-            {isSidebarOpen && (
+                <button
+                  onClick={() => setIsSidebarOpen(false)}
+                  className="p-2 text-slate-400 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-slate-800 rounded-xl transition-all shrink-0"
+                >
+                  <ChevronLeft className="w-5 h-5" />
+                </button>
+              </>
+            ) : (
               <button
-                onClick={() => setIsSidebarOpen(false)}
-                className="p-2 text-slate-400 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-slate-800 rounded-xl transition-all"
+                onClick={() => setIsSidebarOpen(true)}
+                className="w-full flex items-center justify-center p-2 text-slate-400 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-slate-800 rounded-xl transition-all"
               >
-                <ChevronLeft className="w-5 h-5" />
+                <Menu className="w-5 h-5" />
               </button>
             )}
           </div>
 
           {/* Sidebar Navigation */}
-          <nav className="flex-1 py-6 px-3 space-y-1 overflow-y-auto custom-scrollbar">
-            {!isSidebarOpen && (
-              <button
-                onClick={() => setIsSidebarOpen(true)}
-                className="w-full flex items-center justify-center p-3 mb-4 text-slate-400 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-slate-800 rounded-xl transition-all"
-              >
-                <Menu className="w-5 h-5" />
-              </button>
-            )}
+          <nav className={`flex-1 py-6 px-3 space-y-1 custom-scrollbar ${isSidebarOpen ? "overflow-y-auto" : "overflow-visible"}`}>
             {sidebarItems.map((item) => (
-              <button
-                key={item.id}
-                onClick={() => {
-                  if (item.type === "link") {
-                    window.open(item.url, "_blank");
-                  } else {
-                    setActiveTab(item.id);
-                    setIsSidebarOpen(false);
-                  }
-                }}
-                className={`
-                  w-full flex items-center gap-3 px-3 py-3 rounded-xl transition-all group
-                  ${activeTab === item.id
-                    ? "bg-slate-900 dark:bg-slate-100 text-white dark:text-slate-900 shadow-lg shadow-slate-200 dark:shadow-slate-900"
-                    : "text-slate-500 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 hover:text-slate-900 dark:hover:text-white"
-                  }
-                `}
-              >
-                <item.icon className={`w-5 h-5 shrink-0 ${activeTab === item.id ? "text-white dark:text-slate-900" : "group-hover:text-slate-900 dark:group-hover:text-white"}`} />
-                {isSidebarOpen && (
-                  <div className="flex items-center justify-between w-full">
-                    <motion.span
-                      initial={{ opacity: 0 }}
-                      animate={{ opacity: 1 }}
-                      className="font-medium whitespace-nowrap"
-                    >
-                      {item.label}
-                    </motion.span>
-                    {item.type === "link" && (
-                      <ExternalLink className="w-3 h-3 opacity-50" />
-                    )}
+              <div key={item.id} className="relative group/nav">
+                <button
+                  onClick={() => {
+                    if (item.type === "link") {
+                      window.open(item.url, "_blank");
+                    } else {
+                      setActiveTab(item.id);
+                      if (window.innerWidth < 768) setIsSidebarOpen(false);
+                    }
+                  }}
+                  className={`
+                    w-full flex items-center gap-3 px-3 py-3 rounded-xl transition-all group
+                    ${activeTab === item.id
+                      ? "bg-slate-900 dark:bg-slate-100 text-white dark:text-slate-900 shadow-lg shadow-slate-200 dark:shadow-slate-900"
+                      : "text-slate-500 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 hover:text-slate-900 dark:hover:text-white"
+                    }
+                  `}
+                >
+                  <item.icon className={`w-5 h-5 shrink-0 ${activeTab === item.id ? "text-white dark:text-slate-900" : "group-hover:text-slate-900 dark:group-hover:text-white"}`} />
+                  {isSidebarOpen && (
+                    <div className="flex items-center justify-between w-full">
+                      <motion.span
+                        initial={{ opacity: 0 }}
+                        animate={{ opacity: 1 }}
+                        className="font-medium whitespace-nowrap"
+                      >
+                        {item.label}
+                      </motion.span>
+                      {item.type === "link" && (
+                        <ExternalLink className="w-3 h-3 opacity-50" />
+                      )}
+                    </div>
+                  )}
+                </button>
+                {/* Collapsed tooltip */}
+                {!isSidebarOpen && (
+                  <div className="pointer-events-none absolute left-full top-1/2 -translate-y-1/2 ml-3 px-2.5 py-1.5 bg-slate-900 dark:bg-slate-100 text-white dark:text-slate-900 text-xs font-medium rounded-lg whitespace-nowrap opacity-0 group-hover/nav:opacity-100 transition-opacity z-50 shadow-lg">
+                    {item.label}
                   </div>
                 )}
-              </button>
+              </div>
             ))}
           </nav>
 
