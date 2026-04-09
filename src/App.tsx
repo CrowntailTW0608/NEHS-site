@@ -307,7 +307,7 @@ export default function App() {
       </aside>
 
       {/* Main Content Area */}
-      <div className={`flex-1 flex flex-col transition-all duration-300 ml-0 ${isSidebarOpen ? "md:ml-64" : "md:ml-20"}`}>
+      <div className={`flex-1 flex flex-col transition-all duration-300 ml-0 overflow-x-hidden ${isSidebarOpen ? "md:ml-64" : "md:ml-20"}`}>
         {/* Header */}
         <header className="bg-white/70 dark:bg-slate-900/70 backdrop-blur-xl border-b border-slate-100 dark:border-slate-800 sticky top-0 z-30">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -827,7 +827,7 @@ export default function App() {
                                     <td key={grade} className="px-2 py-2 text-center">
                                       {cell ? (
                                         <div className={`rounded-xl border px-2 py-2 ${subjectColor[cell.subject] ?? "bg-slate-50 dark:bg-slate-700 border-slate-200 dark:border-slate-600 text-slate-700 dark:text-slate-300"}`}>
-                                          <div className="font-bold text-sm leading-tight">{cell.subject}<span className="font-normal opacity-60">｜{cell.publisher}</span></div>
+                                          <div className="font-bold text-sm leading-tight">{cell.subject}<span className="font-normal opacity-60"><span className="hidden sm:inline">｜</span><br className="sm:hidden" />{cell.publisher}</span></div>
                                           <div className="text-xs opacity-70 mt-0.5">
                                             {cell.range.split("+").map((part, i) => (
                                               <span key={i}>{i > 0 && <><br />+</>}{part}</span>
