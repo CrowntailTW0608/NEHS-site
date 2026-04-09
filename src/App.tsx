@@ -830,7 +830,7 @@ export default function App() {
                                           <div className="font-bold text-sm leading-tight">{cell.subject}<span className="font-normal opacity-60"><span className="hidden sm:inline">｜</span><br className="sm:hidden" />{cell.publisher}</span></div>
                                           <div className="text-xs opacity-70 mt-0.5">
                                             {cell.range.split("+").map((part, i) => (
-                                              <span key={i}>{i > 0 && <><br />+</>}{part}</span>
+                                              <span key={i}>{i > 0 && <><br />+<br className="sm:hidden" /></>}{part}</span>
                                             ))}
                                           </div>
                                         </div>
