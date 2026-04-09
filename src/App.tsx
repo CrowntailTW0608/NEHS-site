@@ -322,21 +322,6 @@ export default function App() {
 
               {activeTab === "honors" && (
                 <div className="flex items-center gap-4">
-                  {lastUpdated && (
-                    <div className="hidden md:flex items-center gap-2">
-                      <p className="text-[10px] text-slate-400 font-medium bg-slate-50 dark:bg-slate-800 px-2 py-1 rounded-lg border border-slate-100 dark:border-slate-700">
-                        更新時間 {lastUpdated}（請以官網為主）
-                      </p>
-                      <a
-                        href="https://sites.google.com/nehs.tc.edu.tw/elem/%E4%B8%AD%E7%A7%91%E5%AF%A6%E4%B8%AD%E5%9C%8B%E5%B0%8F%E9%83%A8"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="text-xs text-blue-600 dark:text-blue-400 hover:underline flex items-center gap-1"
-                      >
-                        查看原始頁面 <ExternalLink className="w-3 h-3" />
-                      </a>
-                    </div>
-                  )}
                   <button
                     onClick={fetchData}
                     className="p-2 text-slate-400 hover:text-slate-900 dark:hover:text-white hover:bg-slate-50 dark:hover:bg-slate-800 rounded-full transition-colors"
@@ -368,6 +353,21 @@ export default function App() {
           {activeTab === "honors" ? (
             <>
               {/* Honors Content */}
+              {lastUpdated && (
+                <div className="flex items-center gap-2 mb-3">
+                  <p className="text-[10px] text-slate-400 font-medium bg-slate-50 dark:bg-slate-800 px-2 py-1 rounded-lg border border-slate-100 dark:border-slate-700">
+                    更新時間 {lastUpdated}（請以官網為主）
+                  </p>
+                  <a
+                    href="https://sites.google.com/nehs.tc.edu.tw/elem/%E4%B8%AD%E7%A7%91%E5%AF%A6%E4%B8%AD%E5%9C%8B%E5%B0%8F%E9%83%A8"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-xs text-blue-600 dark:text-blue-400 hover:underline flex items-center gap-1"
+                  >
+                    查看原始頁面 <ExternalLink className="w-3 h-3" />
+                  </a>
+                </div>
+              )}
               <div className="flex flex-col md:flex-row gap-4 mb-8">
                 <div className="relative flex-1">
                   <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-slate-400" />
