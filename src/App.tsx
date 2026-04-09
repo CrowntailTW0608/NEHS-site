@@ -567,7 +567,7 @@ export default function App() {
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 text-blue-600 dark:text-blue-400 font-bold hover:underline bg-blue-50 dark:bg-blue-900/20 px-4 py-2 rounded-xl transition-all"
                 >
-                  查看原始網頁 <ExternalLink className="w-4 h-4" />
+                  原始網頁 <ExternalLink className="w-4 h-4" />
                 </a>
               </div>
 
@@ -696,7 +696,7 @@ export default function App() {
                     rel="noopener noreferrer"
                     className="flex items-center gap-2 text-blue-600 dark:text-blue-400 font-bold hover:underline bg-blue-50 dark:bg-blue-900/20 px-4 py-2 rounded-xl transition-all shrink-0"
                   >
-                    查看原始網頁 <ExternalLink className="w-4 h-4" />
+                    原始網頁 <ExternalLink className="w-4 h-4" />
                   </a>
                 </div>
               </div>
@@ -738,7 +738,7 @@ export default function App() {
                     rel="noopener noreferrer"
                     className="flex items-center gap-2 text-blue-600 dark:text-blue-400 font-bold hover:underline bg-blue-50 dark:bg-blue-900/20 px-4 py-2 rounded-xl transition-all shrink-0"
                   >
-                    查看原始網頁 <ExternalLink className="w-4 h-4" />
+                    原始網頁 <ExternalLink className="w-4 h-4" />
                   </a>
                 </div>
               </div>
