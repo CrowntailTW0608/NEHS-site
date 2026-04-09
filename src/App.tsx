@@ -788,7 +788,8 @@ export default function App() {
                   "社會": "bg-orange-50 dark:bg-orange-900/30 border-orange-200 dark:border-orange-800 text-orange-800 dark:text-orange-300",
                 };
                 return (
-                  <div className="bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700 overflow-x-auto">
+                  <div className="rounded-2xl border border-slate-200 dark:border-slate-700 overflow-x-auto">
+                    <div className="bg-white dark:bg-slate-800 w-max min-w-full rounded-2xl">
                     <table className="w-full text-sm min-w-[420px]">
                       <thead>
                         <tr className="border-b border-slate-200 dark:border-slate-700">
@@ -816,7 +817,10 @@ export default function App() {
                                 </tr>
                               )}
                               <tr key={si} className="border-b border-slate-100 dark:border-slate-700/50 last:border-0">
-                                <td className="px-4 py-3 text-xs text-slate-400 whitespace-nowrap">{slot.period}</td>
+                                <td className="px-2 sm:px-4 py-3 text-xs text-slate-400 whitespace-nowrap">
+                                  <span className="sm:hidden" style={{ writingMode: "vertical-rl", textOrientation: "mixed" }}>{slot.period}</span>
+                                  <span className="hidden sm:inline">{slot.period}</span>
+                                </td>
                                 {grades.map(grade => {
                                   const cell = slot.cells[grade];
                                   return (
@@ -842,6 +846,7 @@ export default function App() {
                         })}
                       </tbody>
                     </table>
+                    </div>
                   </div>
                 );
               })()}
