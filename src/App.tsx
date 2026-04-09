@@ -64,7 +64,7 @@ export default function App() {
   const [bulletinPosts, setBulletinPosts] = useState<BulletinPost[]>([]);
   const [bulletinLastUpdated, setBulletinLastUpdated] = useState("");
   const [bulletinLoading, setBulletinLoading] = useState(true);
-  const [isSidebarOpen, setIsSidebarOpen] = useState(true);
+  const [isSidebarOpen, setIsSidebarOpen] = useState(() => window.innerWidth >= 768);
   const [activeTab, setActiveTab] = useState(() => {
     const param = new URLSearchParams(window.location.search).get("tab");
     return param ?? "home";
