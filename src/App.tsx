@@ -1,4 +1,4 @@
-import { useState, useEffect, useMemo } from "react";
+import { useState, useEffect, useMemo, Fragment } from "react";
 import {
   Search,
   Filter,
@@ -806,9 +806,9 @@ export default function App() {
                             ? "bg-blue-500"
                             : "bg-violet-500";
                           return (
-                            <>
+                            <Fragment key={si}>
                               {isNewDate && (
-                                <tr key={`date-${si}`} className="border-b border-slate-100 dark:border-slate-700/50">
+                                <tr className="border-b border-slate-100 dark:border-slate-700/50">
                                   <td colSpan={5} className="px-4 py-2">
                                     <div className={`w-4/5 mx-auto text-center text-xs font-bold text-white py-1 rounded-full ${dateColor}`}>
                                       {slot.date}
@@ -816,7 +816,7 @@ export default function App() {
                                   </td>
                                 </tr>
                               )}
-                              <tr key={si} className="border-b border-slate-100 dark:border-slate-700/50 last:border-0">
+                              <tr className="border-b border-slate-100 dark:border-slate-700/50 last:border-0">
                                 <td className="px-2 sm:px-4 py-3 text-xs text-slate-400 whitespace-nowrap">
                                   <span className="sm:hidden" style={{ writingMode: "vertical-rl", textOrientation: "mixed" }}>{slot.period}</span>
                                   <span className="hidden sm:inline">{slot.period}</span>
@@ -841,7 +841,7 @@ export default function App() {
                                   );
                                 })}
                               </tr>
-                            </>
+                            </Fragment>
                           );
                         })}
                       </tbody>
