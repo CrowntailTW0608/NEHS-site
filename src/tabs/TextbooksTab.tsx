@@ -1,4 +1,4 @@
-import { FileText, ExternalLink } from "lucide-react";
+import { FileText, ExternalLink, Download } from "lucide-react";
 
 export default function TextbooksTab() {
   return (
@@ -19,6 +19,18 @@ export default function TextbooksTab() {
             查看原始頁面 <ExternalLink className="w-3 h-3" />
           </a>
         </div>
+      </div>
+      <div className="flex items-center gap-3 bg-blue-50 dark:bg-blue-900/20 border border-blue-100 dark:border-blue-800/50 rounded-2xl px-4 py-3">
+        <Download className="w-4 h-4 text-blue-600 dark:text-blue-400 shrink-0" />
+        <span className="text-sm text-blue-800 dark:text-blue-300">PDF 無法在行動裝置顯示時，請</span>
+        <a
+          href={`${import.meta.env.BASE_URL}files/114_國立中科實中國小部_教科書選用版本暨自編教材一覽表.pdf`}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-sm font-bold text-blue-600 dark:text-blue-400 hover:underline"
+        >
+          點此開啟 PDF
+        </a>
       </div>
       <iframe
         src={`${import.meta.env.BASE_URL}files/114_國立中科實中國小部_教科書選用版本暨自編教材一覽表.pdf`}
