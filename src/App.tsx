@@ -40,6 +40,9 @@ export default function App() {
     const url = new URL(window.location.href);
     url.searchParams.set("tab", activeTab);
     window.history.replaceState(null, "", url.toString());
+
+    const label = sidebarItems.find(i => i.id === activeTab)?.label;
+    document.title = label ? `${label} ｜ 國小部` : "國小部";
   }, [activeTab]);
 
   useEffect(() => {
