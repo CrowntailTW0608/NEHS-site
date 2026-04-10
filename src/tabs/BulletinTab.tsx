@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Newspaper, ExternalLink } from "lucide-react";
+import { Newspaper, ExternalLink, RefreshCw } from "lucide-react";
 
 interface BulletinPost {
   title: string;
@@ -11,13 +11,18 @@ export default function BulletinTab() {
   const [posts, setPosts] = useState<BulletinPost[]>([]);
   const [lastUpdated, setLastUpdated] = useState("");
   const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(false);
 
-  useEffect(() => {
+  const fetchData = () => {
+    setLoading(true);
+    setError(false);
     fetch(`${import.meta.env.BASE_URL}bulletin.json`)
       .then(r => r.json())
       .then(d => { setPosts(d.posts || []); setLastUpdated(d.lastUpdated || ""); setLoading(false); })
-      .catch(() => setLoading(false));
-  }, []);
+      .catch(() => { setError(true); setLoading(false); });
+  };
+
+  useEffect(() => { fetchData(); }, []);
 
   return (
     <div className="flex flex-col gap-6">
@@ -44,6 +49,17 @@ export default function BulletinTab() {
         <ul className="divide-y divide-slate-100 dark:divide-slate-700">
           {loading ? (
             <li className="px-6 py-12 text-center text-slate-400">載入中...</li>
+          ) : error ? (
+            <li className="px-6 py-12 text-center">
+              <p className="text-slate-400 mb-3">載入失敗，請檢查網路連線</p>
+              <button
+                onClick={fetchData}
+                className="inline-flex items-center gap-2 px-5 py-2 bg-slate-900 dark:bg-slate-100 text-white dark:text-slate-900 rounded-xl font-bold text-sm hover:bg-slate-800 dark:hover:bg-slate-200 transition-all active:scale-95"
+              >
+                <RefreshCw className="w-4 h-4" />
+                重新嘗試
+              </button>
+            </li>
           ) : posts.length === 0 ? (
             <li className="px-6 py-12 text-center text-slate-400">暫無資料</li>
           ) : posts.map((post, i) => (
