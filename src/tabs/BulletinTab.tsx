@@ -33,7 +33,11 @@ export default function BulletinTab() {
         </h2>
         <div className="flex items-center gap-3">
           {lastUpdated && (
-            <span className="text-xs text-slate-400">更新時間 {lastUpdated}（請以官網為主）</span>
+            <span className="text-xs text-slate-400 leading-relaxed">
+              更新時間{" "}<br className="sm:hidden" />
+              {lastUpdated}{" "}<br className="sm:hidden" />
+              （請以官網為主）
+            </span>
           )}
           <a
             href="https://www.nehs.tc.edu.tw/%e6%8b%9b%e7%94%9f%e8%b3%87%e8%a8%8a%e5%9c%8b%e5%b0%8f%e9%83%a8/"

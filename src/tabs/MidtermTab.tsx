@@ -52,7 +52,11 @@ export default function MidtermTab() {
           期中考公告
         </h2>
         <div className="flex items-center gap-3">
-          <span className="text-xs text-slate-400">更新時間 2026/04/09 04:51（請以官網為主）</span>
+          <span className="text-xs text-slate-400 leading-relaxed">
+            更新時間{" "}<br className="sm:hidden" />
+            2026/04/09 04:51{" "}<br className="sm:hidden" />
+            （請以官網為主）
+          </span>
           <a
             href="https://sites.google.com/nehs.tc.edu.tw/elem/"
             target="_blank"

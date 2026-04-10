@@ -10,7 +10,11 @@ export default function CalendarTab() {
             行事曆
           </h2>
           <div className="flex items-center gap-2">
-            <span className="text-xs text-slate-400">更新時間 2026/3/23 12:00（請以官網為主）</span>
+            <span className="text-xs text-slate-400 leading-relaxed">
+              更新時間{" "}<br className="sm:hidden" />
+              2026/3/23 12:00{" "}<br className="sm:hidden" />
+              （請以官網為主）
+            </span>
             <a
               href="https://sites.google.com/nehs.tc.edu.tw/elem/%E5%9C%8B%E5%B0%8F%E9%83%A8%E7%B0%A1%E6%98%8E%E8%A1%8C%E4%BA%8B%E6%9B%86"
               target="_blank"

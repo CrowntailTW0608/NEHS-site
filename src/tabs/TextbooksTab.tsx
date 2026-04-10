@@ -1,6 +1,9 @@
+import { useState } from "react";
 import { FileText, ExternalLink, Download } from "lucide-react";
 
 export default function TextbooksTab() {
+  const [loaded, setLoaded] = useState(false);
+
   return (
     <div className="flex flex-col gap-4 h-full">
       <div className="flex items-center justify-between">
@@ -9,7 +12,11 @@ export default function TextbooksTab() {
           教科書選用
         </h2>
         <div className="flex items-center gap-2">
-          <span className="text-xs text-slate-400">更新時間 2026/3/23 12:00（請以官網為主）</span>
+          <span className="text-xs text-slate-400 leading-relaxed">
+            更新時間{" "}<br className="sm:hidden" />
+            2026/3/23 12:00{" "}<br className="sm:hidden" />
+            （請以官網為主）
+          </span>
           <a
             href="https://sites.google.com/nehs.tc.edu.tw/elem/%E8%AA%B2%E7%A8%8B%E8%A8%88%E7%95%AB%E5%85%AC%E9%96%8B%E8%B3%87%E6%96%99"
             target="_blank"
@@ -32,12 +39,20 @@ export default function TextbooksTab() {
           點此開啟 PDF
         </a>
       </div>
-      <iframe
-        src={`${import.meta.env.BASE_URL}files/114_國立中科實中國小部_教科書選用版本暨自編教材一覽表.pdf`}
-        className="w-full flex-1 rounded-[2rem] border border-slate-200 dark:border-slate-700 shadow-sm"
-        style={{ minHeight: "75vh" }}
-        title="教科書選用"
-      />
+      <div className="relative flex-1" style={{ minHeight: "75vh" }}>
+        {!loaded && (
+          <div className="absolute inset-0 flex flex-col items-center justify-center bg-white dark:bg-slate-800 rounded-[2rem] border border-slate-200 dark:border-slate-700">
+            <div className="w-10 h-10 border-4 border-slate-100 dark:border-slate-700 border-t-slate-900 dark:border-t-slate-300 rounded-full animate-spin mb-3" />
+            <p className="text-sm text-slate-400">載入中...</p>
+          </div>
+        )}
+        <iframe
+          src={`${import.meta.env.BASE_URL}files/114_國立中科實中國小部_教科書選用版本暨自編教材一覽表.pdf`}
+          className="w-full h-full rounded-[2rem] border border-slate-200 dark:border-slate-700 shadow-sm"
+          title="教科書選用"
+          onLoad={() => setLoaded(true)}
+        />
+      </div>
     </div>
   );
 }

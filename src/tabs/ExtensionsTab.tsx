@@ -37,14 +37,21 @@ export default function ExtensionsTab() {
             04-25686850
           </a>
         </div>
-        <a
-          href="https://sites.google.com/nehs.tc.edu.tw/elem/%E6%A5%AD%E5%8B%99%E5%9F%B7%E6%8E%8C%E5%88%86%E6%A9%9F"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="flex items-center gap-2 text-blue-600 dark:text-blue-400 font-bold hover:underline bg-blue-50 dark:bg-blue-900/20 px-4 py-2 rounded-xl transition-all"
-        >
-          原始網頁 <ExternalLink className="w-4 h-4" />
-        </a>
+        <div className="flex items-center gap-2">
+          <span className="text-xs text-slate-400 leading-relaxed">
+            更新時間{" "}<br className="sm:hidden" />
+            2026/3/23 12:00{" "}<br className="sm:hidden" />
+            （請以官網為主）
+          </span>
+          <a
+            href="https://sites.google.com/nehs.tc.edu.tw/elem/%E6%A5%AD%E5%8B%99%E5%9F%B7%E6%8E%8C%E5%88%86%E6%A9%9F"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-2 text-blue-600 dark:text-blue-400 font-bold hover:underline bg-blue-50 dark:bg-blue-900/20 px-4 py-2 rounded-xl transition-all shrink-0"
+          >
+            原始網頁 <ExternalLink className="w-4 h-4" />
+          </a>
+        </div>
       </div>
 
       {/* 行政人員 */}

@@ -10,7 +10,11 @@ export default function ScheduleTab() {
             作息時間表
           </h2>
           <div className="flex items-center gap-2">
-            <span className="text-xs text-slate-400">更新時間 2026/3/23 12:00（請以官網為主）</span>
+            <span className="text-xs text-slate-400 leading-relaxed">
+              更新時間{" "}<br className="sm:hidden" />
+              2026/3/23 12:00{" "}<br className="sm:hidden" />
+              （請以官網為主）
+            </span>
             <a
               href="https://sites.google.com/nehs.tc.edu.tw/elem/%E5%9C%8B%E5%B0%8F%E9%83%A8%E4%B8%80%E9%80%B1%E4%BD%9C%E6%81%AF%E6%99%82%E9%96%93%E8%A1%A8"
               target="_blank"
