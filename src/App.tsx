@@ -16,6 +16,9 @@ import {
   Sun,
   Moon,
   Newspaper,
+  LayoutGrid,
+  List as ListIcon,
+  RefreshCw,
 } from "lucide-react";
 import { motion } from "motion/react";
 
@@ -35,6 +38,9 @@ export default function App() {
     return param ?? "home";
   });
   const [isDark, setIsDark] = useState(() => localStorage.getItem("theme") === "dark");
+  const [honorsViewMode, setHonorsViewMode] = useState<"grid" | "list">("grid");
+  const [honorsLoading, setHonorsLoading] = useState(false);
+  const [honorsRefreshKey, setHonorsRefreshKey] = useState(0);
 
   useEffect(() => {
     const url = new URL(window.location.href);
@@ -185,20 +191,50 @@ export default function App() {
       </aside>
 
       {/* Main Content Area */}
-      <div className={`flex-1 flex flex-col transition-all duration-300 ml-0 overflow-x-clip ${isSidebarOpen ? "md:ml-64" : "md:ml-20"}`}>
+      <div className={`flex-1 flex flex-col transition-all duration-300 ml-0 overflow-x-hidden ${isSidebarOpen ? "md:ml-64" : "md:ml-20"}`}>
         {/* Header */}
         <header className="bg-white/70 dark:bg-slate-900/70 backdrop-blur-xl border-b border-slate-100 dark:border-slate-800 sticky top-0 z-30">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="flex items-center h-16">
-              <button
-                onClick={() => setIsSidebarOpen(true)}
-                className="md:hidden p-2 text-slate-400 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-slate-800 rounded-xl transition-all mr-3"
-              >
-                <Menu className="w-5 h-5" />
-              </button>
-              <h1 className="text-xl font-bold tracking-tight text-slate-900 dark:text-slate-100">
-                國小部 <span className="text-slate-500 dark:text-slate-400 font-medium">{sidebarItems.find(i => i.id === activeTab)?.label}</span>
-              </h1>
+            <div className="flex items-center justify-between h-16">
+              <div className="flex items-center">
+                <button
+                  onClick={() => setIsSidebarOpen(true)}
+                  className="md:hidden p-2 text-slate-400 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-slate-800 rounded-xl transition-all mr-3"
+                >
+                  <Menu className="w-5 h-5" />
+                </button>
+                <h1 className="text-xl font-bold tracking-tight text-slate-900 dark:text-slate-100">
+                  國小部 <span className="text-slate-500 dark:text-slate-400 font-medium">{sidebarItems.find(i => i.id === activeTab)?.label}</span>
+                </h1>
+              </div>
+              {activeTab === "honors" && (
+                <div className="flex items-center gap-2">
+                  <button
+                    onClick={() => setHonorsRefreshKey(k => k + 1)}
+                    disabled={honorsLoading}
+                    className="p-2 text-slate-400 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-slate-800 rounded-xl transition-all disabled:opacity-50"
+                    title="重新整理"
+                  >
+                    <RefreshCw className={`w-4 h-4 ${honorsLoading ? "animate-spin" : ""}`} />
+                  </button>
+                  <div className="flex bg-slate-100 dark:bg-slate-800 rounded-xl p-1 gap-1">
+                    <button
+                      onClick={() => setHonorsViewMode("grid")}
+                      className={`p-1.5 rounded-lg transition-all ${honorsViewMode === "grid" ? "bg-white dark:bg-slate-700 shadow-sm text-slate-900 dark:text-slate-100" : "text-slate-400 hover:text-slate-600 dark:hover:text-slate-300"}`}
+                      title="格狀檢視"
+                    >
+                      <LayoutGrid className="w-4 h-4" />
+                    </button>
+                    <button
+                      onClick={() => setHonorsViewMode("list")}
+                      className={`p-1.5 rounded-lg transition-all ${honorsViewMode === "list" ? "bg-white dark:bg-slate-700 shadow-sm text-slate-900 dark:text-slate-100" : "text-slate-400 hover:text-slate-600 dark:hover:text-slate-300"}`}
+                      title="清單檢視"
+                    >
+                      <ListIcon className="w-4 h-4" />
+                    </button>
+                  </div>
+                </div>
+              )}
             </div>
           </div>
         </header>
@@ -209,7 +245,7 @@ export default function App() {
            activeTab === "midterm" ? <MidtermTab /> :
            activeTab === "schedule" ? <ScheduleTab /> :
            activeTab === "calendar" ? <CalendarTab /> :
-           activeTab === "honors" ? <HonorsTab /> :
+           activeTab === "honors" ? <HonorsTab viewMode={honorsViewMode} onViewModeChange={setHonorsViewMode} refreshKey={honorsRefreshKey} onLoadingChange={setHonorsLoading} /> :
            activeTab === "extensions" ? <ExtensionsTab /> :
            activeTab === "textbooks" ? <TextbooksTab /> :
            (() => {
