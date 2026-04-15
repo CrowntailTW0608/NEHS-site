@@ -19,6 +19,7 @@ import {
   LayoutGrid,
   List as ListIcon,
   RefreshCw,
+  Library,
 } from "lucide-react";
 import { motion } from "motion/react";
 
@@ -30,6 +31,7 @@ import CalendarTab from "./tabs/CalendarTab";
 import HonorsTab from "./tabs/HonorsTab";
 import ExtensionsTab from "./tabs/ExtensionsTab";
 import TextbooksTab from "./tabs/TextbooksTab";
+import KonoTab from "./tabs/KonoTab";
 
 export default function App() {
   const [isSidebarOpen, setIsSidebarOpen] = useState(() => window.innerWidth >= 768);
@@ -64,6 +66,7 @@ export default function App() {
   const sidebarItems = [
     { id: "home", label: "校務佈告欄", icon: Home, type: "tab" },
     ...(new Date() < new Date("2026-04-23") ? [{ id: "midterm", label: "期中考公告", icon: FileText, type: "tab", hot: true }] : []),
+    { id: "kono", label: "KONO 電子雜誌", icon: Library, type: "tab", hot: true },
     { id: "bulletin", label: "招生資訊", icon: Newspaper, type: "tab" },
     { id: "schedule", label: "作息時間表", icon: Clock, type: "tab" },
     { id: "calendar", label: "行事曆", icon: Calendar, type: "tab" },
@@ -248,6 +251,7 @@ export default function App() {
            activeTab === "honors" ? <HonorsTab viewMode={honorsViewMode} onViewModeChange={setHonorsViewMode} refreshKey={honorsRefreshKey} onLoadingChange={setHonorsLoading} /> :
            activeTab === "extensions" ? <ExtensionsTab /> :
            activeTab === "textbooks" ? <TextbooksTab /> :
+           activeTab === "kono" ? <KonoTab /> :
            (() => {
              const activeItem = sidebarItems.find(i => i.id === activeTab);
              const Icon = activeItem ? activeItem.icon : Trophy;
