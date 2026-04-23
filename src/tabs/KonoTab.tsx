@@ -1,4 +1,4 @@
-import { Library, ExternalLink, Monitor, Smartphone, Youtube, Info } from "lucide-react";
+import { Library, ExternalLink, Monitor, Smartphone, PlayCircle, Info } from "lucide-react";
 
 export default function KonoTab() {
   return (
@@ -75,7 +75,9 @@ export default function KonoTab() {
             className="flex items-center justify-between px-6 py-4 hover:bg-slate-50 dark:hover:bg-slate-700/50 transition-colors group"
           >
             <div className="flex items-center gap-3">
-              <span className="text-2xl">🍎</span>
+              <svg className="w-6 h-6 text-slate-700 dark:text-slate-300" viewBox="0 0 814 1000" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                <path d="M788.1 340.9c-5.8 4.5-108.2 62.2-108.2 190.5 0 148.4 130.3 200.9 134.2 202.2-.6 3.2-20.7 71.9-68.7 141.9-42.8 61.6-87.5 123.1-155.5 123.1s-85.5-39.5-164-39.5c-76 0-103.7 40.8-165.9 40.8s-105-42.4-150.3-109.9C85.4 774.5 48 661.2 48 552.1 48 366.4 165.1 267 280.4 267c61.6 0 113.1 40.2 150.7 40.2 35.1 0 91.1-42.4 156.8-42.4 24.9 0 108.2 2.6 168.9 80.8zm-234.1-167.3c28.3-34.1 48.1-81.4 48.1-128.8 0-6.4-.6-13.4-1.9-19.2-45.5 1.8-99.6 30.3-132.3 70.2-26.8 31.4-51.7 78.8-51.7 127.1 0 7 1.2 14 1.9 16.4 3.2.6 8.3 1.3 13.4 1.3 40.8 0 89.5-27 122.5-67z"/>
+              </svg>
               <span className="font-medium text-slate-700 dark:text-slate-300">iOS（App Store）</span>
             </div>
             <ExternalLink className="w-4 h-4 text-slate-400 group-hover:text-slate-600 dark:group-hover:text-slate-300 transition-colors" />
@@ -87,7 +89,12 @@ export default function KonoTab() {
             className="flex items-center justify-between px-6 py-4 hover:bg-slate-50 dark:hover:bg-slate-700/50 transition-colors group"
           >
             <div className="flex items-center gap-3">
-              <span className="text-2xl">🤖</span>
+              <svg className="w-6 h-6" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+                <path fill="#FBBC05" d="M14.222 9.374c1.037-.61 1.037-2.137 0-2.748L11.528 5.04 8.32 8l3.207 2.96z"/>
+                <path fill="#EA4335" d="M10.627 11.49L7.583 8.68 1.03 14.73c.201 1.029 1.36 1.61 2.303 1.055z"/>
+                <path fill="#4285F4" d="M1 13.396V2.603L6.846 8z"/>
+                <path fill="#34A853" d="M1.03 1.27l6.553 6.05 3.044-2.81L3.333.215C2.39-.341 1.231.24 1.03 1.27"/>
+              </svg>
               <span className="font-medium text-slate-700 dark:text-slate-300">Android（Google Play）</span>
             </div>
             <ExternalLink className="w-4 h-4 text-slate-400 group-hover:text-slate-600 dark:group-hover:text-slate-300 transition-colors" />
@@ -98,7 +105,7 @@ export default function KonoTab() {
       {/* Tutorial */}
       <div className="bg-white dark:bg-slate-800 rounded-[2rem] border border-slate-200 dark:border-slate-700 shadow-sm overflow-hidden">
         <div className="px-6 py-5 border-b border-slate-100 dark:border-slate-700 flex items-center gap-3">
-          <Youtube className="w-5 h-5 text-slate-400" />
+          <PlayCircle className="w-5 h-5 text-slate-400" />
           <h3 className="font-bold text-slate-900 dark:text-slate-100 text-lg">操作教學影片</h3>
         </div>
         <div className="px-6 py-5">
@@ -108,6 +115,10 @@ export default function KonoTab() {
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-blue-600 dark:text-blue-400 font-medium hover:underline"
           >
+            <svg className="w-5 h-5 shrink-0" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+              <path fill="#FF0000" d="M23.5 6.19a3.02 3.02 0 0 0-2.12-2.14C19.54 3.5 12 3.5 12 3.5s-7.54 0-9.38.55A3.02 3.02 0 0 0 .5 6.19 31.6 31.6 0 0 0 0 12a31.6 31.6 0 0 0 .5 5.81 3.02 3.02 0 0 0 2.12 2.14C4.46 20.5 12 20.5 12 20.5s7.54 0 9.38-.55a3.02 3.02 0 0 0 2.12-2.14A31.6 31.6 0 0 0 24 12a31.6 31.6 0 0 0-.5-5.81z"/>
+              <path fill="#FFFFFF" d="M9.75 15.5V8.5l6.5 3.5-6.5 3.5z"/>
+            </svg>
             https://youtu.be/oqGXUnKd96s
             <ExternalLink className="w-4 h-4 shrink-0" />
           </a>
