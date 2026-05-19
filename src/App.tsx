@@ -20,6 +20,7 @@ import {
   List as ListIcon,
   RefreshCw,
   Library,
+  Sparkles,
 } from "lucide-react";
 import { motion } from "motion/react";
 
@@ -32,6 +33,32 @@ import HonorsTab from "./tabs/HonorsTab";
 import ExtensionsTab from "./tabs/ExtensionsTab";
 import TextbooksTab from "./tabs/TextbooksTab";
 import KonoTab from "./tabs/KonoTab";
+import SummerClubTab from "./tabs/SummerClubTab";
+
+const hiddenTabItems = [
+  { id: "kono", label: "KONO 電子雜誌", icon: Library, type: "tab" as const, hot: true },
+];
+
+const sidebarItems = [
+  { id: "home", label: "校務佈告欄", icon: Home, type: "tab" as const },
+  { id: "summer_club", label: "暑期社團活動", icon: Sparkles, type: "tab" as const, hot: true },
+  ...(new Date() < new Date("2026-04-24") ? [{ id: "midterm", label: "期中考公告", icon: FileText, type: "tab" as const, hot: true }] : []),
+  { id: "bulletin", label: "招生資訊", icon: Newspaper, type: "tab" as const },
+  { id: "schedule", label: "作息時間表", icon: Clock, type: "tab" as const },
+  { id: "calendar", label: "行事曆", icon: Calendar, type: "tab" as const },
+  { id: "honors", label: "榮譽榜", icon: Trophy, type: "tab" as const },
+  { id: "extensions", label: "校內分機", icon: Phone, type: "tab" as const },
+  { id: "textbooks", label: "教科書選用", icon: FileText, type: "tab" as const },
+  { id: "course_plan", label: "課程計畫", icon: BookOpen, type: "link" as const, url: "https://sites.google.com/nehs.tc.edu.tw/elem/%E8%AA%B2%E7%A8%8B%E8%A8%88%E7%95%AB%E5%85%AC%E9%96%8B%E8%B3%87%E6%96%99" },
+  { id: "photos", label: "照片錦集", icon: ImageIcon, type: "link" as const, url: "https://drive.google.com/drive/folders/1AYfxyl38OH3lo7NgCh1wFzGSbFm6QgKZ" },
+  { id: "facebook", label: "官方臉書", icon: Facebook, type: "link" as const, url: "https://www.facebook.com/people/%E5%9C%8B%E7%AB%8B%E4%B8%AD%E7%A7%91%E5%AF%A6%E4%B8%AD-%E5%9C%8B%E5%B0%8F%E9%83%A8/61567154196139/?locale=zh_TW" },
+  { id: "milk", label: "台中有鈣讚", icon: Globe, type: "link" as const, url: "https://milkgood.tc.edu.tw/" },
+  { id: "cloud_school", label: "台中雲端校務系統", icon: Globe, type: "link" as const, url: "https://school.tc.edu.tw/" },
+  { id: "csp", label: "中科實小課程報名系統", icon: Globe, type: "link" as const, url: "https://school.tc.edu.tw/csp/talent/060323b" },
+  { id: "nehs", label: "中科實驗中學官網", icon: Globe, type: "link" as const, url: "https://www.nehs.tc.edu.tw/" },
+];
+
+const allTabItems = [...sidebarItems, ...hiddenTabItems];
 
 export default function App() {
   const [isSidebarOpen, setIsSidebarOpen] = useState(() => window.innerWidth >= 768);
@@ -49,7 +76,7 @@ export default function App() {
     url.searchParams.set("tab", activeTab);
     window.history.replaceState(null, "", url.toString());
 
-    const label = sidebarItems.find(i => i.id === activeTab)?.label;
+    const label = allTabItems.find(i => i.id === activeTab)?.label;
     document.title = label ? `${label} ｜ 國小部` : "國小部";
   }, [activeTab]);
 
@@ -62,24 +89,6 @@ export default function App() {
       localStorage.setItem("theme", "light");
     }
   }, [isDark]);
-
-  const sidebarItems = [
-    { id: "home", label: "校務佈告欄", icon: Home, type: "tab" },
-    ...(new Date() < new Date("2026-04-24") ? [{ id: "midterm", label: "期中考公告", icon: FileText, type: "tab", hot: true }] : []),
-    { id: "kono", label: "KONO 電子雜誌", icon: Library, type: "tab", hot: true },
-    { id: "bulletin", label: "招生資訊", icon: Newspaper, type: "tab" },
-    { id: "schedule", label: "作息時間表", icon: Clock, type: "tab" },
-    { id: "calendar", label: "行事曆", icon: Calendar, type: "tab" },
-    { id: "honors", label: "榮譽榜", icon: Trophy, type: "tab" },
-    { id: "extensions", label: "校內分機", icon: Phone, type: "tab" },
-    { id: "textbooks", label: "教科書選用", icon: FileText, type: "tab" },
-    { id: "course_plan", label: "課程計畫", icon: BookOpen, type: "link", url: "https://sites.google.com/nehs.tc.edu.tw/elem/%E8%AA%B2%E7%A8%8B%E8%A8%88%E7%95%AB%E5%85%AC%E9%96%8B%E8%B3%87%E6%96%99" },
-    { id: "photos", label: "照片錦集", icon: ImageIcon, type: "link", url: "https://drive.google.com/drive/folders/1AYfxyl38OH3lo7NgCh1wFzGSbFm6QgKZ" },
-    { id: "facebook", label: "官方臉書", icon: Facebook, type: "link", url: "https://www.facebook.com/people/%E5%9C%8B%E7%AB%8B%E4%B8%AD%E7%A7%91%E5%AF%A6%E4%B8%AD-%E5%9C%8B%E5%B0%8F%E9%83%A8/61567154196139/?locale=zh_TW" },
-    { id: "milk", label: "台中有鈣讚", icon: Globe, type: "link", url: "https://milkgood.tc.edu.tw/" },
-    { id: "cloud_school", label: "台中雲端校務系統", icon: Globe, type: "link", url: "https://school.tc.edu.tw/" },
-    { id: "nehs", label: "中科實驗中學官網", icon: Globe, type: "link", url: "https://www.nehs.tc.edu.tw/" },
-  ];
 
   return (
     <div className="flex min-h-screen bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 font-sans antialiased">
@@ -207,7 +216,7 @@ export default function App() {
                   <Menu className="w-5 h-5" />
                 </button>
                 <h1 className="text-xl font-bold tracking-tight text-slate-900 dark:text-slate-100">
-                  國小部 <span className="text-slate-500 dark:text-slate-400 font-medium">{sidebarItems.find(i => i.id === activeTab)?.label}</span>
+                  國小部 <span className="text-slate-500 dark:text-slate-400 font-medium">{allTabItems.find(i => i.id === activeTab)?.label}</span>
                 </h1>
               </div>
               {activeTab === "honors" && (
@@ -244,6 +253,7 @@ export default function App() {
 
         <main className="max-w-7xl mx-auto w-full px-4 sm:px-6 lg:px-8 py-8 flex-1">
           {activeTab === "home" ? <HomeTab /> :
+           activeTab === "summer_club" ? <SummerClubTab /> :
            activeTab === "bulletin" ? <BulletinTab /> :
            activeTab === "midterm" ? <MidtermTab /> :
            activeTab === "schedule" ? <ScheduleTab /> :
