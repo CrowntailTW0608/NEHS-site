@@ -34,6 +34,7 @@ import ExtensionsTab from "./tabs/ExtensionsTab";
 import TextbooksTab from "./tabs/TextbooksTab";
 import KonoTab from "./tabs/KonoTab";
 import SummerClubTab from "./tabs/SummerClubTab";
+import NewUniformTab from "./tabs/NewUniformTab";
 
 const hiddenTabItems = [
   { id: "kono", label: "KONO 電子雜誌", icon: Library, type: "tab" as const, hot: true },
@@ -45,6 +46,7 @@ const sidebarItems = [
   ...(new Date() < new Date("2026-04-24") ? [{ id: "midterm", label: "期中考公告", icon: FileText, type: "tab" as const, hot: true }] : []),
   { id: "bulletin", label: "招生資訊", icon: Newspaper, type: "tab" as const },
   { id: "schedule", label: "作息時間表", icon: Clock, type: "tab" as const },
+  { id: "new_uniform", label: "國小部運動服", icon: Library, type: "tab" as const, hot: true },
   { id: "calendar", label: "行事曆", icon: Calendar, type: "tab" as const },
   { id: "honors", label: "榮譽榜", icon: Trophy, type: "tab" as const },
   { id: "extensions", label: "校內分機", icon: Phone, type: "tab" as const },
@@ -257,6 +259,7 @@ export default function App() {
            activeTab === "bulletin" ? <BulletinTab /> :
            activeTab === "midterm" ? <MidtermTab /> :
            activeTab === "schedule" ? <ScheduleTab /> :
+           activeTab === "new_uniform" ? <NewUniformTab /> :
            activeTab === "calendar" ? <CalendarTab /> :
            activeTab === "honors" ? <HonorsTab viewMode={honorsViewMode} onViewModeChange={setHonorsViewMode} refreshKey={honorsRefreshKey} onLoadingChange={setHonorsLoading} /> :
            activeTab === "extensions" ? <ExtensionsTab /> :
