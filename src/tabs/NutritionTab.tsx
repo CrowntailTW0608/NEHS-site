@@ -1,0 +1,86 @@
+import { useState, useEffect } from "react";
+import { Newspaper, ExternalLink, RefreshCw } from "lucide-react";
+
+interface BulletinPost {
+  title: string;
+  url: string;
+  date: string;
+}
+
+export default function NutritionTab() {
+  const [posts, setPosts] = useState<BulletinPost[]>([]);
+  const [lastUpdated, setLastUpdated] = useState("");
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(false);
+
+  const fetchData = () => {
+    setLoading(true);
+    setError(false);
+    fetch(`${import.meta.env.BASE_URL}lunch.json`)
+      .then(r => r.json())
+      .then(d => { setPosts(d.posts || []); setLastUpdated(d.lastUpdated || ""); setLoading(false); })
+      .catch(() => { setError(true); setLoading(false); });
+  };
+
+  useEffect(() => { fetchData(); }, []);
+
+  return (
+    <div className="flex flex-col gap-6">
+      <div className="flex items-center justify-between">
+        <h2 className="text-3xl font-bold text-slate-900 dark:text-slate-100 flex items-center gap-3">
+          <Newspaper className="w-8 h-8 text-slate-400" />
+          營養午餐
+        </h2>
+        <div className="flex items-center gap-3">
+          {lastUpdated && (
+            <span className="text-xs text-slate-400 leading-relaxed">
+              更新時間{" "}<br className="sm:hidden" />
+              {lastUpdated}{" "}<br className="sm:hidden" />
+              （請以官網為主）
+            </span>
+          )}
+          <a
+            href="https://www.nehs.tc.edu.tw/category/stud00/stud04/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-2 text-blue-600 dark:text-blue-400 font-bold hover:underline bg-blue-50 dark:bg-blue-900/20 px-4 py-2 rounded-xl transition-all shrink-0"
+          >
+            原始網頁 <ExternalLink className="w-4 h-4" />
+          </a>
+        </div>
+      </div>
+      <div className="bg-white dark:bg-slate-800 rounded-[2rem] border border-slate-200 dark:border-slate-700 shadow-sm overflow-hidden">
+        <ul className="divide-y divide-slate-100 dark:divide-slate-700">
+          {loading ? (
+            <li className="px-6 py-12 text-center text-slate-400">載入中...</li>
+          ) : error ? (
+            <li className="px-6 py-12 text-center">
+              <p className="text-slate-400 mb-3">載入失敗，請檢查網路連線</p>
+              <button
+                onClick={fetchData}
+                className="inline-flex items-center gap-2 px-5 py-2 bg-slate-900 dark:bg-slate-100 text-white dark:text-slate-900 rounded-xl font-bold text-sm hover:bg-slate-800 dark:hover:bg-slate-200 transition-all active:scale-95"
+              >
+                <RefreshCw className="w-4 h-4" />
+                重新嘗試
+              </button>
+            </li>
+          ) : posts.length === 0 ? (
+            <li className="px-6 py-12 text-center text-slate-400">暫無資料</li>
+          ) : posts.map((post, i) => (
+            <li key={i}>
+              <a
+                href={post.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center justify-between gap-4 px-6 py-4 hover:bg-slate-50 dark:hover:bg-slate-700/50 transition-colors group"
+              >
+                <span className="text-sm font-medium text-slate-800 dark:text-slate-200 leading-snug group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">{post.title}</span>
+                <span className="text-xs text-slate-400 shrink-0">{post.date}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+  );
+}

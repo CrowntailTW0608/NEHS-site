@@ -35,6 +35,7 @@ import TextbooksTab from "./tabs/TextbooksTab";
 import KonoTab from "./tabs/KonoTab";
 import SummerClubTab from "./tabs/SummerClubTab";
 import NewUniformTab from "./tabs/NewUniformTab";
+import NutritionTab from "./tabs/NutritionTab";
 
 const hiddenTabItems = [
   { id: "kono", label: "KONO 電子雜誌", icon: Library, type: "tab" as const, hot: true },
@@ -42,15 +43,16 @@ const hiddenTabItems = [
 
 const sidebarItems = [
   { id: "home", label: "校務佈告欄", icon: Home, type: "tab" as const },
+  { id: "bulletin", label: "招生資訊", icon: Newspaper, type: "tab" as const },
   { id: "summer_club", label: "暑期社團活動", icon: Sparkles, type: "tab" as const, hot: true },
   ...(new Date() < new Date("2026-04-24") ? [{ id: "midterm", label: "期中考公告", icon: FileText, type: "tab" as const, hot: true }] : []),
-  { id: "bulletin", label: "招生資訊", icon: Newspaper, type: "tab" as const },
-  { id: "schedule", label: "作息時間表", icon: Clock, type: "tab" as const },
+  { id: "nutrition", label: "營養午餐", icon: Library, type: "tab" as const, hot: true },
   { id: "new_uniform", label: "國小部運動服", icon: Library, type: "tab" as const, hot: true },
+  { id: "textbooks", label: "教科書選用", icon: FileText, type: "tab" as const, hot: true },
+  { id: "schedule", label: "作息時間表", icon: Clock, type: "tab" as const },
   { id: "calendar", label: "行事曆", icon: Calendar, type: "tab" as const },
   { id: "honors", label: "榮譽榜", icon: Trophy, type: "tab" as const },
   { id: "extensions", label: "校內分機", icon: Phone, type: "tab" as const },
-  { id: "textbooks", label: "教科書選用", icon: FileText, type: "tab" as const, hot: true },
   { id: "course_plan", label: "課程計畫", icon: BookOpen, type: "link" as const, url: "https://sites.google.com/nehs.tc.edu.tw/elem/%E8%AA%B2%E7%A8%8B%E8%A8%88%E7%95%AB%E5%85%AC%E9%96%8B%E8%B3%87%E6%96%99" },
   { id: "photos", label: "照片錦集", icon: ImageIcon, type: "link" as const, url: "https://drive.google.com/drive/folders/1AYfxyl38OH3lo7NgCh1wFzGSbFm6QgKZ" },
   { id: "facebook", label: "官方臉書", icon: Facebook, type: "link" as const, url: "https://www.facebook.com/people/%E5%9C%8B%E7%AB%8B%E4%B8%AD%E7%A7%91%E5%AF%A6%E4%B8%AD-%E5%9C%8B%E5%B0%8F%E9%83%A8/61567154196139/?locale=zh_TW" },
@@ -260,6 +262,7 @@ export default function App() {
            activeTab === "midterm" ? <MidtermTab /> :
            activeTab === "schedule" ? <ScheduleTab /> :
            activeTab === "new_uniform" ? <NewUniformTab /> :
+           activeTab === "nutrition" ? <NutritionTab /> :
            activeTab === "calendar" ? <CalendarTab /> :
            activeTab === "honors" ? <HonorsTab viewMode={honorsViewMode} onViewModeChange={setHonorsViewMode} refreshKey={honorsRefreshKey} onLoadingChange={setHonorsLoading} /> :
            activeTab === "extensions" ? <ExtensionsTab /> :

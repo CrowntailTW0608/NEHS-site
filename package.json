@@ -12,7 +12,8 @@
     "lint": "tsc --noEmit",
     "scrape": "tsx scripts/scrape.ts",
     "scrape:honors": "tsx scripts/scrape-honors.ts",
-    "scrape:bulletin": "tsx scripts/scrape-bulletin.ts"
+    "scrape:bulletin": "tsx scripts/scrape-bulletin.ts",
+    "scrape:lunch": "tsx scripts/scrape-lunch.ts"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.14",

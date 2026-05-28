@@ -24,13 +24,13 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Scrape bulletin
-        run: npm run scrape:bulletin
+      - name: Scrape site data
+        run: npm run scrape
 
-      - name: Commit updated bulletin.json
+      - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -f public/bulletin.json
-          git diff --cached --quiet || git commit -m "chore: update bulletin data"
+          git add -f public/bulletin.json public/lunch.json public/honors.json || true
+          git diff --cached --quiet || git commit -m "chore: update scraped data"
           git push
