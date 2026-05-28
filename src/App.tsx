@@ -6,6 +6,7 @@ import {
   Menu,
   Home,
   ChevronLeft,
+  ChevronDown,
   Clock,
   Phone,
   BookOpen,
@@ -53,6 +54,9 @@ const sidebarItems = [
   { id: "calendar", label: "行事曆", icon: Calendar, type: "tab" as const },
   { id: "honors", label: "榮譽榜", icon: Trophy, type: "tab" as const },
   { id: "extensions", label: "校內分機", icon: Phone, type: "tab" as const },
+];
+
+const externalLinkItems = [
   { id: "course_plan", label: "課程計畫", icon: BookOpen, type: "link" as const, url: "https://sites.google.com/nehs.tc.edu.tw/elem/%E8%AA%B2%E7%A8%8B%E8%A8%88%E7%95%AB%E5%85%AC%E9%96%8B%E8%B3%87%E6%96%99" },
   { id: "photos", label: "照片錦集", icon: ImageIcon, type: "link" as const, url: "https://drive.google.com/drive/folders/1AYfxyl38OH3lo7NgCh1wFzGSbFm6QgKZ" },
   { id: "facebook", label: "官方臉書", icon: Facebook, type: "link" as const, url: "https://www.facebook.com/people/%E5%9C%8B%E7%AB%8B%E4%B8%AD%E7%A7%91%E5%AF%A6%E4%B8%AD-%E5%9C%8B%E5%B0%8F%E9%83%A8/61567154196139/?locale=zh_TW" },
@@ -74,6 +78,7 @@ export default function App() {
   const [honorsViewMode, setHonorsViewMode] = useState<"grid" | "list">("grid");
   const [honorsLoading, setHonorsLoading] = useState(false);
   const [honorsRefreshKey, setHonorsRefreshKey] = useState(0);
+  const [isExternalLinksOpen, setIsExternalLinksOpen] = useState(false);
 
   useEffect(() => {
     const url = new URL(window.location.href);
@@ -149,12 +154,8 @@ export default function App() {
               <div key={item.id} className="relative group/nav">
                 <button
                   onClick={() => {
-                    if (item.type === "link") {
-                      window.open(item.url, "_blank");
-                    } else {
-                      setActiveTab(item.id);
-                      if (window.innerWidth < 768) setIsSidebarOpen(false);
-                    }
+                    setActiveTab(item.id);
+                    if (window.innerWidth < 768) setIsSidebarOpen(false);
                   }}
                   className={`
                     w-full flex items-center gap-3 px-3 py-3 rounded-xl transition-all group
@@ -177,13 +178,50 @@ export default function App() {
                           <span className="text-[10px] font-bold leading-none px-1 py-0.5 rounded bg-red-500 text-white">HOT</span>
                         )}
                       </motion.span>
-                      {item.type === "link" && (
-                        <ExternalLink className="w-3 h-3 opacity-50" />
-                      )}
                     </div>
                   )}
                 </button>
-                {/* Collapsed tooltip */}
+                {!isSidebarOpen && (
+                  <div className="pointer-events-none absolute left-full top-1/2 -translate-y-1/2 ml-3 px-2.5 py-1.5 bg-slate-900 dark:bg-slate-100 text-white dark:text-slate-900 text-xs font-medium rounded-lg whitespace-nowrap opacity-0 group-hover/nav:opacity-100 transition-opacity z-50 shadow-lg">
+                    {item.label}
+                  </div>
+                )}
+              </div>
+            ))}
+            <div className="relative group/nav">
+              <button
+                onClick={() => setIsExternalLinksOpen(open => !open)}
+                className="w-full flex items-center gap-3 px-3 py-3 rounded-xl transition-all text-slate-500 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 hover:text-slate-900 dark:hover:text-white"
+                aria-expanded={isExternalLinksOpen}
+              >
+                <Globe className="w-5 h-5 shrink-0" />
+                {isSidebarOpen && (
+                  <div className="flex items-center justify-between w-full">
+                    <span className="font-medium whitespace-nowrap">外部連結</span>
+                    <ChevronDown className={`w-4 h-4 transition-transform ${isExternalLinksOpen ? "rotate-180" : ""}`} />
+                  </div>
+                )}
+              </button>
+              {!isSidebarOpen && (
+                <div className="pointer-events-none absolute left-full top-1/2 -translate-y-1/2 ml-3 px-2.5 py-1.5 bg-slate-900 dark:bg-slate-100 text-white dark:text-slate-900 text-xs font-medium rounded-lg whitespace-nowrap opacity-0 group-hover/nav:opacity-100 transition-opacity z-50 shadow-lg">
+                  外部連結
+                </div>
+              )}
+            </div>
+            {isExternalLinksOpen && externalLinkItems.map((item) => (
+              <div key={item.id} className="relative group/nav ml-4">
+                <button
+                  onClick={() => window.open(item.url, "_blank")}
+                  className="w-full flex items-center gap-3 px-3 py-3 rounded-xl transition-all text-slate-500 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 hover:text-slate-900 dark:hover:text-white"
+                >
+                  <item.icon className="w-5 h-5 shrink-0" />
+                  {isSidebarOpen && (
+                    <div className="flex items-center justify-between w-full">
+                      <span className="font-medium whitespace-nowrap">{item.label}</span>
+                      <ExternalLink className="w-3 h-3 opacity-50" />
+                    </div>
+                  )}
+                </button>
                 {!isSidebarOpen && (
                   <div className="pointer-events-none absolute left-full top-1/2 -translate-y-1/2 ml-3 px-2.5 py-1.5 bg-slate-900 dark:bg-slate-100 text-white dark:text-slate-900 text-xs font-medium rounded-lg whitespace-nowrap opacity-0 group-hover/nav:opacity-100 transition-opacity z-50 shadow-lg">
                     {item.label}
