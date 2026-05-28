@@ -9,12 +9,12 @@ export default function TextbooksTab() {
       <div className="flex items-center justify-between">
         <h2 className="text-3xl font-bold text-slate-900 dark:text-slate-100 flex items-center gap-3">
           <FileText className="w-8 h-8 text-slate-400" />
-          教科書選用
+          教科書選用(114-第2學期)
         </h2>
         <div className="flex items-center gap-2">
           <span className="text-xs text-slate-400 leading-relaxed">
             更新時間{" "}<br className="sm:hidden" />
-            2026/3/23 12:00{" "}<br className="sm:hidden" />
+            2026/5/28 12:00{" "}<br className="sm:hidden" />
             （請以官網為主）
           </span>
           <a
@@ -30,14 +30,24 @@ export default function TextbooksTab() {
       <div className="flex items-center gap-3 bg-blue-50 dark:bg-blue-900/20 border border-blue-100 dark:border-blue-800/50 rounded-2xl px-4 py-3">
         <Download className="w-4 h-4 text-blue-600 dark:text-blue-400 shrink-0" />
         <span className="text-sm text-blue-800 dark:text-blue-300">PDF 無法在行動裝置顯示時，請</span>
-        <a
-          href={`${import.meta.env.BASE_URL}files/114_國立中科實中國小部_教科書選用版本暨自編教材一覽表.pdf`}
+          <a
+          href={`${import.meta.env.BASE_URL}files/114-2-教科書選用.pdf`}
           target="_blank"
           rel="noopener noreferrer"
           className="text-sm font-bold text-blue-600 dark:text-blue-400 hover:underline"
         >
           點此開啟 PDF
         </a>
+        <span className="text-sm text-slate-500 dark:text-slate-400">（舊檔：</span>
+        <a
+          href={`${import.meta.env.BASE_URL}files/114_國立中科實中國小部_教科書選用版本暨自編教材一覽表.pdf`}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-sm text-blue-600 dark:text-blue-400 hover:underline font-medium"
+        >
+          114-1 教科書選用
+        </a>
+        <span className="text-sm text-slate-500 dark:text-slate-400">）</span>
       </div>
       <div className="relative flex-1" style={{ minHeight: "75vh" }}>
         {!loaded && (
@@ -47,7 +57,7 @@ export default function TextbooksTab() {
           </div>
         )}
         <iframe
-          src={`${import.meta.env.BASE_URL}files/114_國立中科實中國小部_教科書選用版本暨自編教材一覽表.pdf`}
+          src={`${import.meta.env.BASE_URL}files/114-2-教科書選用.pdf`}
           className="w-full h-full rounded-[2rem] border border-slate-200 dark:border-slate-700 shadow-sm"
           title="教科書選用"
           onLoad={() => setLoaded(true)}

@@ -48,7 +48,7 @@ const sidebarItems = [
   { id: "calendar", label: "行事曆", icon: Calendar, type: "tab" as const },
   { id: "honors", label: "榮譽榜", icon: Trophy, type: "tab" as const },
   { id: "extensions", label: "校內分機", icon: Phone, type: "tab" as const },
-  { id: "textbooks", label: "教科書選用", icon: FileText, type: "tab" as const },
+  { id: "textbooks", label: "教科書選用", icon: FileText, type: "tab" as const, hot: true },
   { id: "course_plan", label: "課程計畫", icon: BookOpen, type: "link" as const, url: "https://sites.google.com/nehs.tc.edu.tw/elem/%E8%AA%B2%E7%A8%8B%E8%A8%88%E7%95%AB%E5%85%AC%E9%96%8B%E8%B3%87%E6%96%99" },
   { id: "photos", label: "照片錦集", icon: ImageIcon, type: "link" as const, url: "https://drive.google.com/drive/folders/1AYfxyl38OH3lo7NgCh1wFzGSbFm6QgKZ" },
   { id: "facebook", label: "官方臉書", icon: Facebook, type: "link" as const, url: "https://www.facebook.com/people/%E5%9C%8B%E7%AB%8B%E4%B8%AD%E7%A7%91%E5%AF%A6%E4%B8%AD-%E5%9C%8B%E5%B0%8F%E9%83%A8/61567154196139/?locale=zh_TW" },
