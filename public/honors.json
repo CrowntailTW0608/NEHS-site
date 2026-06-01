@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026/06/01 05:04",
+  "lastUpdated": "2026/06/02 06:33",
   "students": [
     {
       "id": "136",
@@ -598,6 +598,28 @@
       ]
     },
     {
+      "id": "176",
+      "name": "楊O齊",
+      "className": "一年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度推動親子共讀-愛閱家庭活動成功挑戰閱讀小達人關卡",
+          "date": "2026-06-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=51"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第二名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
       "id": "188",
       "name": "薛O勻",
       "className": "一年三班",
@@ -865,21 +887,6 @@
     {
       "id": "181",
       "name": "陳O汯",
-      "className": "一年三班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第二名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
-      "id": "176",
-      "name": "楊O齊",
       "className": "一年三班",
       "seatNumber": 0,
       "honors": [
@@ -2934,6 +2941,78 @@
       ]
     },
     {
+      "id": "35",
+      "name": "楊O銓",
+      "className": "三年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度推動親子共讀-愛閱家庭活動成功挑戰閱讀小達人關卡",
+          "date": "2026-06-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=51"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內國語寫字優等",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度大家快樂跑60公尺",
+          "achievement": "第一名",
+          "date": "2025-11-07",
+          "category": "3年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "name": "邱O臻",
+      "className": "三年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "臺中市114學年度國民中小學原住民族部落話語競賽朗讀-太魯閣語-國小組1-3年級特優",
+          "date": "2026-06-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=50"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內國語演說佳作",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內國語寫字佳作",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        }
+      ]
+    },
+    {
       "id": "2",
       "name": "林O諺",
       "className": "三年二班",
@@ -3399,64 +3478,6 @@
         {
           "title": "114學年度第1學期",
           "achievement": "校內國語字音字形佳作",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        }
-      ]
-    },
-    {
-      "id": "35",
-      "name": "楊O銓",
-      "className": "三年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內國語寫字優等",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
-        }
-      ]
-    },
-    {
-      "id": "58",
-      "name": "邱O臻",
-      "className": "三年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內國語演說佳作",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內國語寫字佳作",
           "date": "2026-01-01",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
