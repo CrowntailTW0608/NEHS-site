@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026/06/03 06:24",
+  "lastUpdated": "2026/06/04 06:29",
   "students": [
     {
       "id": "136",
@@ -598,6 +598,35 @@
       ]
     },
     {
+      "id": "193",
+      "name": "周O瑀",
+      "className": "一年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "榮獲校內閱讀小達人",
+          "date": "2026-06-03",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=52"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        }
+      ]
+    },
+    {
       "id": "176",
       "name": "楊O齊",
       "className": "一年三班",
@@ -829,28 +858,6 @@
           "date": "2025-10-21",
           "category": "1年級",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
-      "id": "193",
-      "name": "周O瑀",
-      "className": "一年三班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
         }
       ]
     },
@@ -2096,6 +2103,98 @@
       ]
     },
     {
+      "id": "46",
+      "name": "黃O植",
+      "className": "三年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "115年第36屆理事長盃全國溜冰錦標賽",
+          "achievement": "115年第36屆理事長盃全國溜冰錦標賽選手菁英-國小女子三年級組200公尺雙人計時賽第二名",
+          "date": "2026-06-03",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=54"
+        },
+        {
+          "title": "115年第36屆理事長盃全國溜冰錦標賽",
+          "achievement": "115年第36屆理事長盃全國溜冰錦標賽選手菁英-國小女子三年級組-500+D爭光賽第四名",
+          "date": "2026-06-03",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=53"
+        },
+        {
+          "title": "台中市市長盃滑輪溜冰錦標賽",
+          "achievement": "台中市市長盃滑輪溜冰錦標賽1000公尺國小菁英組中年級女子第三名",
+          "date": "2026-04-14",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=38"
+        },
+        {
+          "title": "台中市市長盃滑輪溜冰錦標賽",
+          "achievement": "台中市市長盃滑輪溜冰錦標賽500+D公尺爭先賽國小菁英組中年級女子第六名",
+          "date": "2026-04-14",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=38"
+        },
+        {
+          "title": "115年第23屆總統盃全國小學溜冰錦標賽",
+          "achievement": "國小1~3年級女子組2000公尺接力賽第三名",
+          "date": "2026-04-07",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=35"
+        },
+        {
+          "title": "115年第23屆總統盃全國小學溜冰錦標賽",
+          "achievement": "國小三年級女子組200公尺雙人計時賽第二名",
+          "date": "2026-04-07",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=35"
+        },
+        {
+          "title": "114學年度校內英語朗讀比賽",
+          "achievement": "第三名",
+          "date": "2026-03-06",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=29"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "114年臺中市梧棲區區長盃溜冰錦標賽榮獲國小女子菁英乙組200與300公尺計時開放賽第一名",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "114年臺中市議長盃滑輪溜冰競賽榮獲中年級菁英國小女子組第五名",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "參加校慶動態表演表現精彩!",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內國語作文佳作",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度大家快樂跑60公尺",
+          "achievement": "第一名",
+          "date": "2025-11-07",
+          "category": "3年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
+        }
+      ]
+    },
+    {
       "id": "18",
       "name": "周O麟",
       "className": "三年一班",
@@ -2405,84 +2504,6 @@
           "date": "2026-01-19",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "參加校慶動態表演表現精彩!",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內國語作文佳作",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
-        }
-      ]
-    },
-    {
-      "id": "46",
-      "name": "黃O植",
-      "className": "三年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "台中市市長盃滑輪溜冰錦標賽",
-          "achievement": "台中市市長盃滑輪溜冰錦標賽1000公尺國小菁英組中年級女子第三名",
-          "date": "2026-04-14",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=38"
-        },
-        {
-          "title": "台中市市長盃滑輪溜冰錦標賽",
-          "achievement": "台中市市長盃滑輪溜冰錦標賽500+D公尺爭先賽國小菁英組中年級女子第六名",
-          "date": "2026-04-14",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=38"
-        },
-        {
-          "title": "115年第23屆總統盃全國小學溜冰錦標賽",
-          "achievement": "國小1~3年級女子組2000公尺接力賽第三名",
-          "date": "2026-04-07",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=35"
-        },
-        {
-          "title": "115年第23屆總統盃全國小學溜冰錦標賽",
-          "achievement": "國小三年級女子組200公尺雙人計時賽第二名",
-          "date": "2026-04-07",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=35"
-        },
-        {
-          "title": "114學年度校內英語朗讀比賽",
-          "achievement": "第三名",
-          "date": "2026-03-06",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=29"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "114年臺中市梧棲區區長盃溜冰錦標賽榮獲國小女子菁英乙組200與300公尺計時開放賽第一名",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "114年臺中市議長盃滑輪溜冰競賽榮獲中年級菁英國小女子組第五名",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
         },
         {
           "title": "114學年度第1學期",
