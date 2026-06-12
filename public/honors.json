@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026/06/12 06:04",
+  "lastUpdated": "2026/06/13 05:51",
   "students": [
     {
       "id": "124",
@@ -1339,6 +1339,28 @@
       ]
     },
     {
+      "id": "245",
+      "name": "李O嫺",
+      "className": "一年五班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "袋鼠盃數學競賽一年級競賽",
+          "achievement": "榮獲銀獎",
+          "date": "2026-06-04",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
+        },
+        {
+          "title": "",
+          "achievement": "114-2期中定期評量各班成績優異前三名",
+          "date": "2026-04-30",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
+        }
+      ]
+    },
+    {
       "id": "240",
       "name": "方O云",
       "className": "一年五班",
@@ -1458,21 +1480,6 @@
           "date": "2026-01-20",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        }
-      ]
-    },
-    {
-      "id": "245",
-      "name": "李O嫺",
-      "className": "一年五班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114-2期中定期評量各班成績優異前三名",
-          "date": "2026-04-30",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
         }
       ]
     },
