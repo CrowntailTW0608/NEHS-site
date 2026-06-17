@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026/06/17 06:16",
+  "lastUpdated": "2026/06/18 06:03",
   "students": [
     {
       "id": "133",
@@ -15,7 +15,7 @@
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
         },
         {
-          "title": "袋鼠盃數學競賽一年級競賽",
+          "title": "袋鼠盃數學競賽",
           "achievement": "榮獲銅獎",
           "date": "2026-06-04",
           "category": "一般",
@@ -51,7 +51,7 @@
       "seatNumber": 0,
       "honors": [
         {
-          "title": "袋鼠盃數學競賽一年級競賽",
+          "title": "袋鼠盃數學競賽",
           "achievement": "榮獲銀獎",
           "date": "2026-06-04",
           "category": "一般",
@@ -80,7 +80,7 @@
       "seatNumber": 0,
       "honors": [
         {
-          "title": "袋鼠盃數學競賽一年級競賽",
+          "title": "袋鼠盃數學競賽",
           "achievement": "榮獲銀獎",
           "date": "2026-06-04",
           "category": "一般",
@@ -116,7 +116,7 @@
       "seatNumber": 0,
       "honors": [
         {
-          "title": "袋鼠盃數學競賽一年級競賽",
+          "title": "袋鼠盃數學競賽",
           "achievement": "榮獲銅獎",
           "date": "2026-06-04",
           "category": "一般",
@@ -159,7 +159,7 @@
       "seatNumber": 0,
       "honors": [
         {
-          "title": "袋鼠盃數學競賽一年級競賽",
+          "title": "袋鼠盃數學競賽",
           "achievement": "榮獲銅獎",
           "date": "2026-06-04",
           "category": "一般",
@@ -195,7 +195,7 @@
       "seatNumber": 0,
       "honors": [
         {
-          "title": "袋鼠盃數學競賽一年級競賽",
+          "title": "袋鼠盃數學競賽",
           "achievement": "榮獲銅獎",
           "date": "2026-06-04",
           "category": "一般",
@@ -238,7 +238,7 @@
       "seatNumber": 0,
       "honors": [
         {
-          "title": "袋鼠盃數學競賽一年級競賽",
+          "title": "袋鼠盃數學競賽",
           "achievement": "榮獲銅獎",
           "date": "2026-06-04",
           "category": "一般",
@@ -295,7 +295,7 @@
       "seatNumber": 0,
       "honors": [
         {
-          "title": "袋鼠盃數學競賽一年級競賽",
+          "title": "袋鼠盃數學競賽",
           "achievement": "榮獲銅獎",
           "date": "2026-06-04",
           "category": "一般",
@@ -310,7 +310,7 @@
       "seatNumber": 0,
       "honors": [
         {
-          "title": "袋鼠盃數學競賽一年級競賽",
+          "title": "袋鼠盃數學競賽",
           "achievement": "榮獲銅獎",
           "date": "2026-06-04",
           "category": "一般",
@@ -346,7 +346,7 @@
       "seatNumber": 0,
       "honors": [
         {
-          "title": "袋鼠盃數學競賽一年級競賽",
+          "title": "袋鼠盃數學競賽",
           "achievement": "榮獲銅獎",
           "date": "2026-06-04",
           "category": "一般",
@@ -1902,7 +1902,7 @@
       "seatNumber": 0,
       "honors": [
         {
-          "title": "袋鼠盃數學競賽一年級競賽",
+          "title": "袋鼠盃數學競賽",
           "achievement": "榮獲銀獎",
           "date": "2026-06-04",
           "category": "一般",
@@ -2711,6 +2711,105 @@
           "date": "2025-10-21",
           "category": "1年級",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "253",
+      "name": "周O晨",
+      "className": "三年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "榮獲臺中市議長盃水上救生競技錦標暨全民運動會代表選拔",
+          "achievement": "榮獲臺中市議長盃水上救生競技錦標暨全民運動會代表選拔50公尺搭肩乏泳帶人(2人)第二名",
+          "date": "2026-06-17",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=62"
+        },
+        {
+          "title": "榮獲臺中市議長盃水上救生競技錦標暨全民運動會代表選拔",
+          "achievement": "榮獲臺中市議長盃水上救生競技錦標暨全民運動會代表選拔6.5公尺拋繩逃生第二名",
+          "date": "2026-06-17",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=62"
+        },
+        {
+          "title": "榮獲臺中市議長盃水上救生競技錦標暨全民運動會代表選拔",
+          "achievement": "榮獲臺中市議長盃水上救生競技錦標暨全民運動會代表選拔50公尺抬頭蛙第六名",
+          "date": "2026-06-17",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=62"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第一名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "115年度臺中市第五屆朝馬盃游泳比賽",
+          "achievement": "115年度臺中市第五屆朝馬盃游泳比賽25公尺蛙式三年級女子組第一名",
+          "date": "2026-06-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=57"
+        },
+        {
+          "title": "115年度臺中市第五屆朝馬盃游泳比賽",
+          "achievement": "115年度臺中市第五屆朝馬盃游泳比賽25公尺自由式三年級女子組第二名",
+          "date": "2026-06-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=57"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "人氣獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "2025泳渡日月潭，完成3000公尺壯舉",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "音樂王國第27屆學生演奏鋼琴發表表現卓越",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "參加校慶動態表演表現精彩!",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內國語朗讀佳作",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內國語字音字形優等",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
         }
       ]
     },
@@ -3667,84 +3766,6 @@
         {
           "title": "114學年度第1學期",
           "achievement": "參加校慶動態表演表現精彩!",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        }
-      ]
-    },
-    {
-      "id": "253",
-      "name": "周O晨",
-      "className": "三年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第一名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "115年度臺中市第五屆朝馬盃游泳比賽",
-          "achievement": "115年度臺中市第五屆朝馬盃游泳比賽25公尺蛙式三年級女子組第一名",
-          "date": "2026-06-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=57"
-        },
-        {
-          "title": "115年度臺中市第五屆朝馬盃游泳比賽",
-          "achievement": "115年度臺中市第五屆朝馬盃游泳比賽25公尺自由式三年級女子組第二名",
-          "date": "2026-06-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=57"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "人氣獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "2025泳渡日月潭，完成3000公尺壯舉",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "音樂王國第27屆學生演奏鋼琴發表表現卓越",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "參加校慶動態表演表現精彩!",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內國語朗讀佳作",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內國語字音字形優等",
           "date": "2026-01-01",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
@@ -4820,7 +4841,7 @@
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
         },
         {
-          "title": "袋鼠盃數學競賽一年級競賽",
+          "title": "袋鼠盃數學競賽",
           "achievement": "榮獲銅獎",
           "date": "2026-06-04",
           "category": "一般",
