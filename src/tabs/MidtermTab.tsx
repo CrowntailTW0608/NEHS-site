@@ -6,32 +6,32 @@ type Cell = { subject: string; publisher: string; range: string } | null;
 const grades = ["一年級", "二年級", "三年級", "四年級"];
 
 const slots: { date: string; period: string; cells: Record<string, Cell> }[] = [
-  { date: "4/22(三)", period: "第一節", cells: {
-    "一年級": { subject: "國語", publisher: "翰林", range: "第1~6課+統整1、2" },
-    "二年級": { subject: "國語", publisher: "翰林", range: "第1~6課+統整1、2" },
-    "三年級": { subject: "國語", publisher: "翰林", range: "第1~6課+統整1、2" },
-    "四年級": { subject: "國語", publisher: "翰林", range: "第1~6課+統整1、2" },
+  { date: "6/23(二)", period: "第一節", cells: {
+    "一年級": { subject: "國語", publisher: "翰林", range: "第7~12課+統整3、4" },
+    "二年級": { subject: "國語", publisher: "翰林", range: "第7~12課+統整3、4" },
+    "三年級": { subject: "國語", publisher: "翰林", range: "第7~12課+統整3、4" },
+    "四年級": { subject: "國語", publisher: "翰林", range: "第7~12課+統整3、4" },
   }},
-  { date: "4/22(三)", period: "第二節", cells: {
+  { date: "6/23(二)", period: "第二節", cells: {
     "一年級": null, "二年級": null,
-    "三年級": { subject: "自然", publisher: "翰林", range: "第1-2單元" },
-    "四年級": { subject: "自然", publisher: "翰林", range: "第1-2單元" },
+    "三年級": { subject: "自然", publisher: "翰林", range: "第3-4單元" },
+    "四年級": { subject: "自然", publisher: "翰林", range: "第3-4單元" },
   }},
-  { date: "4/22(三)", period: "第三節", cells: {
+  { date: "6/23(二)", period: "第三節", cells: {
     "一年級": null, "二年級": null,
-    "三年級": { subject: "英語", publisher: "Buzz", range: "U5-U6+R5-6" },
-    "四年級": { subject: "英語", publisher: "Buzz", range: "U5-U6+R5-6" },
+    "三年級": { subject: "英語", publisher: "Buzz", range: "U7-U8+R7-8" },
+    "四年級": { subject: "英語", publisher: "Buzz", range: "U7-U8+R7-8" },
   }},
-  { date: "4/23(四)", period: "第一節", cells: {
-    "一年級": { subject: "數學", publisher: "康軒", range: "第1-5單元" },
-    "二年級": { subject: "數學", publisher: "康軒", range: "第1-5單元" },
-    "三年級": { subject: "數學", publisher: "康軒", range: "第1-4單元" },
-    "四年級": { subject: "數學", publisher: "康軒", range: "第1-5單元" },
+  { date: "6/24(三)", period: "第一節", cells: {
+    "一年級": { subject: "數學", publisher: "康軒", range: "第6-9單元" },
+    "二年級": { subject: "數學", publisher: "康軒", range: "第6-10單元" },
+    "三年級": { subject: "數學", publisher: "康軒", range: "第5-9單元" },
+    "四年級": { subject: "數學", publisher: "康軒", range: "第6-10單元" },
   }},
-  { date: "4/23(四)", period: "第二節", cells: {
+  { date: "6/24(三)", period: "第二節", cells: {
     "一年級": null, "二年級": null,
-    "三年級": { subject: "社會", publisher: "南一", range: "第1-2單元" },
-    "四年級": { subject: "社會", publisher: "南一", range: "第1-2單元" },
+    "三年級": { subject: "社會", publisher: "南一", range: "第3-4單元" },
+    "四年級": { subject: "社會", publisher: "南一", range: "第3-4單元" },
   }},
 ];
 
@@ -49,12 +49,12 @@ export default function MidtermTab() {
       <div className="flex items-center justify-between">
         <h2 className="text-3xl font-bold text-slate-900 dark:text-slate-100 flex items-center gap-3">
           <FileText className="w-8 h-8 text-slate-400" />
-          期中考公告
+          期末考公告
         </h2>
         <div className="flex items-center gap-3">
           <span className="text-xs text-slate-400 leading-relaxed">
             更新時間{" "}<br className="sm:hidden" />
-            2026/04/09 04:51{" "}<br className="sm:hidden" />
+            2026/06/21 更新{" "}<br className="sm:hidden" />
             （請以官網為主）
           </span>
           <a
@@ -70,7 +70,7 @@ export default function MidtermTab() {
 
       <div className="bg-amber-50 dark:bg-amber-900/20 border border-amber-200 dark:border-amber-800 rounded-2xl px-5 py-3 text-sm text-amber-800 dark:text-amber-300 flex items-center gap-2">
         <Calendar className="w-4 h-4 shrink-0" />
-        <span>114學年度第二學期期中定期評量｜<strong>115/04/22(三)～04/23(四)</strong>｜一至四年級，考完後正常上課</span>
+        <span>114學年度第二學期期末定期評量｜<strong>115/06/23(二)～06/24(三)</strong>｜一至四年級，考完後正常上課</span>
       </div>
 
       <div className="rounded-2xl border border-slate-200 dark:border-slate-700 overflow-x-auto">
@@ -87,7 +87,7 @@ export default function MidtermTab() {
             <tbody>
               {slots.map((slot, si) => {
                 const isNewDate = si === 0 || slots[si - 1].date !== slot.date;
-                const dateColor = slot.date.includes("22") ? "bg-blue-500" : "bg-violet-500";
+                const dateColor = slot.date.includes("23") ? "bg-blue-500" : "bg-violet-500";
                 return (
                   <Fragment key={si}>
                     {isNewDate && (
