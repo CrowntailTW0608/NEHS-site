@@ -45,7 +45,7 @@ const hiddenTabItems = [
 const sidebarItems = [
   { id: "home", label: "校務佈告欄", icon: Home, type: "tab" as const },
   { id: "bulletin", label: "招生資訊", icon: Newspaper, type: "tab" as const },
-  { id: "summer_club", label: "暑期社團活動", icon: Sparkles, type: "tab" as const, hot: true },
+  // { id: "summer_club", label: "暑期社團活動", icon: Sparkles, type: "tab" as const, hot: true },
   ...(new Date() < new Date("2026-06-28") ? [{ id: "midterm", label: "期末考公告", icon: FileText, type: "tab" as const, hot: true }] : []),
   { id: "nutrition", label: "營養午餐", icon: Library, type: "tab" as const, hot: true },
   { id: "new_uniform", label: "國小部運動服", icon: Library, type: "tab" as const, hot: true },
