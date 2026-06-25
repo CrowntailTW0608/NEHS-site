@@ -1,6 +1,393 @@
 {
-  "lastUpdated": "2026/06/25 05:25",
+  "lastUpdated": "2026/06/26 05:47",
   "students": [
+    {
+      "id": "125",
+      "name": "蔡O諾",
+      "className": "一年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "袋鼠盃數學競賽",
+          "achievement": "榮獲銅獎",
+          "date": "2026-06-04",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "優秀獎(團體)",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第二名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "134",
+      "name": "張O惠",
+      "className": "一年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "袋鼠盃數學競賽",
+          "achievement": "榮獲銀獎",
+          "date": "2026-06-04",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        }
+      ]
+    },
+    {
+      "id": "136",
+      "name": "詹O甯",
+      "className": "一年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "袋鼠盃數學競賽",
+          "achievement": "榮獲銅獎",
+          "date": "2026-06-04",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
+        },
+        {
+          "title": "",
+          "achievement": "114-2期中定期評量各班成績優異前三名",
+          "date": "2026-04-30",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "優秀獎(團體)",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第二名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "138",
+      "name": "陳O婕",
+      "className": "一年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "袋鼠盃數學競賽",
+          "achievement": "榮獲銅獎",
+          "date": "2026-06-04",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
+        },
+        {
+          "title": "",
+          "achievement": "114-2期中定期評量各班成績優異前三名",
+          "date": "2026-04-30",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "優秀獎(團體)",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        }
+      ]
+    },
+    {
+      "id": "139",
+      "name": "林O凝",
+      "className": "一年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "袋鼠盃數學競賽",
+          "achievement": "榮獲銅獎",
+          "date": "2026-06-04",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
+        },
+        {
+          "title": "",
+          "achievement": "114-2期中定期評量各班成績優異前三名",
+          "date": "2026-04-30",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "優秀獎(團體)",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        }
+      ]
+    },
+    {
+      "id": "131",
+      "name": "趙O熏",
+      "className": "一年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "優秀獎(團體)",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        }
+      ]
+    },
+    {
+      "id": "132",
+      "name": "陳O希",
+      "className": "一年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        },
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "135",
+      "name": "陳O希",
+      "className": "一年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "優秀獎(團體)",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        }
+      ]
+    },
+    {
+      "id": "127",
+      "name": "吳O澔",
+      "className": "一年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "袋鼠盃數學競賽",
+          "achievement": "榮獲銅獎",
+          "date": "2026-06-04",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "優秀獎(團體)",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第二名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
     {
       "id": "133",
       "name": "林O彤",
@@ -74,42 +461,6 @@
       ]
     },
     {
-      "id": "134",
-      "name": "張O惠",
-      "className": "一年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "袋鼠盃數學競賽",
-          "achievement": "榮獲銀獎",
-          "date": "2026-06-04",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        }
-      ]
-    },
-    {
       "id": "122",
       "name": "陳O佑",
       "className": "一年一班",
@@ -153,142 +504,6 @@
       ]
     },
     {
-      "id": "125",
-      "name": "蔡O諾",
-      "className": "一年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "袋鼠盃數學競賽",
-          "achievement": "榮獲銅獎",
-          "date": "2026-06-04",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "優秀獎(團體)",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第二名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
-      "id": "127",
-      "name": "吳O澔",
-      "className": "一年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "袋鼠盃數學競賽",
-          "achievement": "榮獲銅獎",
-          "date": "2026-06-04",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "優秀獎(團體)",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第二名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
-      "id": "136",
-      "name": "詹O甯",
-      "className": "一年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "袋鼠盃數學競賽",
-          "achievement": "榮獲銅獎",
-          "date": "2026-06-04",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
-        },
-        {
-          "title": "",
-          "achievement": "114-2期中定期評量各班成績優異前三名",
-          "date": "2026-04-30",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "優秀獎(團體)",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第二名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
       "id": "137",
       "name": "張O甄",
       "className": "一年一班",
@@ -300,78 +515,6 @@
           "date": "2026-06-04",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
-        }
-      ]
-    },
-    {
-      "id": "138",
-      "name": "陳O婕",
-      "className": "一年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "袋鼠盃數學競賽",
-          "achievement": "榮獲銅獎",
-          "date": "2026-06-04",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
-        },
-        {
-          "title": "",
-          "achievement": "114-2期中定期評量各班成績優異前三名",
-          "date": "2026-04-30",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "優秀獎(團體)",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        }
-      ]
-    },
-    {
-      "id": "139",
-      "name": "林O凝",
-      "className": "一年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "袋鼠盃數學競賽",
-          "achievement": "榮獲銅獎",
-          "date": "2026-06-04",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
-        },
-        {
-          "title": "",
-          "achievement": "114-2期中定期評量各班成績優異前三名",
-          "date": "2026-04-30",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "優秀獎(團體)",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
         }
       ]
     },
@@ -430,50 +573,6 @@
           "date": "2025-10-21",
           "category": "1年級",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
-      "id": "131",
-      "name": "趙O熏",
-      "className": "一年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "優秀獎(團體)",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        }
-      ]
-    },
-    {
-      "id": "135",
-      "name": "陳O希",
-      "className": "一年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "優秀獎(團體)",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
         }
       ]
     },
@@ -668,17 +767,275 @@
       ]
     },
     {
-      "id": "132",
-      "name": "陳O希",
-      "className": "一年一班",
+      "id": "182",
+      "name": "林O立",
+      "className": "一年三班",
       "seatNumber": 0,
       "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年級團體賽第三名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "114-2期中定期評量各班成績優異前三名",
+          "date": "2026-04-30",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        }
+      ]
+    },
+    {
+      "id": "184",
+      "name": "許O晴",
+      "className": "一年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年級團體賽第三名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
         {
           "title": "114學年度大家快樂跑40公尺",
           "achievement": "第一名",
           "date": "2025-10-21",
           "category": "1年級",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "188",
+      "name": "薛O勻",
+      "className": "一年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年級團體賽第三名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "中華民國語文研究協會舉辦中投區國語文競賽獲獎",
+          "achievement": "中華民國語文研究協會舉辦中投區國語文競賽一年級組榮獲特優",
+          "date": "2026-05-21",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=49"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "193",
+      "name": "周O瑀",
+      "className": "一年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        },
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年級團體賽第三名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "榮獲校內閱讀小達人",
+          "date": "2026-06-03",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=52"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        }
+      ]
+    },
+    {
+      "id": "194",
+      "name": "林O汶",
+      "className": "一年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年級團體賽第三名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "114-2期中定期評量各班成績優異前三名",
+          "date": "2026-04-30",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        }
+      ]
+    },
+    {
+      "id": "176",
+      "name": "楊O齊",
+      "className": "一年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年級團體賽第三名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度推動親子共讀-愛閱家庭活動成功挑戰閱讀小達人關卡",
+          "date": "2026-06-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=51"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第二名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "183",
+      "name": "蔡O翰",
+      "className": "一年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年級團體賽第三名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
         }
       ]
     },
@@ -760,35 +1117,6 @@
           "date": "2026-05-08",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        }
-      ]
-    },
-    {
-      "id": "176",
-      "name": "楊O齊",
-      "className": "一年三班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年級團體賽第三名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度推動親子共讀-愛閱家庭活動成功挑戰閱讀小達人關卡",
-          "date": "2026-06-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=51"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第二名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
         }
       ]
     },
@@ -889,72 +1217,6 @@
       ]
     },
     {
-      "id": "182",
-      "name": "林O立",
-      "className": "一年三班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年級團體賽第三名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "114-2期中定期評量各班成績優異前三名",
-          "date": "2026-04-30",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        }
-      ]
-    },
-    {
-      "id": "183",
-      "name": "蔡O翰",
-      "className": "一年三班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年級團體賽第三名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        }
-      ]
-    },
-    {
-      "id": "184",
-      "name": "許O晴",
-      "className": "一年三班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年級團體賽第三名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
       "id": "185",
       "name": "陳O鈞",
       "className": "一年三班",
@@ -1003,35 +1265,6 @@
           "date": "2026-03-10",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
-      "id": "188",
-      "name": "薛O勻",
-      "className": "一年三班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年級團體賽第三名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "中華民國語文研究協會舉辦中投區國語文競賽獲獎",
-          "achievement": "中華民國語文研究協會舉辦中投區國語文競賽一年級組榮獲特優",
-          "date": "2026-05-21",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=49"
         },
         {
           "title": "114學年度大家快樂跑40公尺",
@@ -1145,78 +1378,6 @@
       ]
     },
     {
-      "id": "193",
-      "name": "周O瑀",
-      "className": "一年三班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年級團體賽第三名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "榮獲校內閱讀小達人",
-          "date": "2026-06-03",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=52"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        }
-      ]
-    },
-    {
-      "id": "194",
-      "name": "林O汶",
-      "className": "一年三班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年級團體賽第三名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "114-2期中定期評量各班成績優異前三名",
-          "date": "2026-04-30",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        }
-      ]
-    },
-    {
       "id": "195",
       "name": "王O恩",
       "className": "一年三班",
@@ -1254,127 +1415,18 @@
       ]
     },
     {
-      "id": "148",
-      "name": "陳O瑾",
-      "className": "一年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年個人賽男子組第二名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年級團體賽第二名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
-      "id": "154",
-      "name": "陳O瑋",
-      "className": "一年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年個人賽男子組第三名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年級團體賽第二名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
-      "id": "149",
-      "name": "紀O展",
-      "className": "一年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年個人賽男子組第五名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年級團體賽第二名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "台中市市長盃滑輪溜冰錦標賽亞軍",
-          "date": "2026-04-21",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=39"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
-      "id": "146",
-      "name": "徐O鈞",
-      "className": "一年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年級團體賽第二名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        }
-      ]
-    },
-    {
       "id": "147",
       "name": "陳O騏",
       "className": "一年二班",
       "seatNumber": 0,
       "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
         {
           "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
           "achievement": "低年級團體賽第二名",
@@ -1420,11 +1472,277 @@
       ]
     },
     {
+      "id": "149",
+      "name": "紀O展",
+      "className": "一年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年個人賽男子組第五名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年級團體賽第二名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "台中市市長盃滑輪溜冰錦標賽亞軍",
+          "date": "2026-04-21",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=39"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "151",
+      "name": "張O勛",
+      "className": "一年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年級團體賽第二名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        }
+      ]
+    },
+    {
+      "id": "163",
+      "name": "鄭O",
+      "className": "一年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年級團體賽第二名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "114-2期中定期評量各班成績優異前三名",
+          "date": "2026-04-30",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第二學期寒假作業優秀名單",
+          "date": "2026-03-10",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第二名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "169",
+      "name": "詹O喬",
+      "className": "一年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年級團體賽第二名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第二名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "148",
+      "name": "陳O瑾",
+      "className": "一年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年個人賽男子組第二名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年級團體賽第二名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "152",
+      "name": "程O博",
+      "className": "一年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年級團體賽第二名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第二學期寒假作業優秀名單",
+          "date": "2026-03-10",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
+        }
+      ]
+    },
+    {
+      "id": "166",
+      "name": "黃O芸",
+      "className": "一年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年級團體賽第二名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        }
+      ]
+    },
+    {
       "id": "150",
       "name": "林O維",
       "className": "一年二班",
       "seatNumber": 0,
       "honors": [
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
         {
           "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
           "achievement": "低年級團體賽第二名",
@@ -1449,8 +1767,37 @@
       ]
     },
     {
-      "id": "151",
-      "name": "張O勛",
+      "id": "154",
+      "name": "陳O瑋",
+      "className": "一年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年個人賽男子組第三名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年級團體賽第二名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "146",
+      "name": "徐O鈞",
       "className": "一年二班",
       "seatNumber": 0,
       "honors": [
@@ -1460,13 +1807,6 @@
           "date": "2026-05-08",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
         }
       ]
     },
@@ -1604,59 +1944,8 @@
       ]
     },
     {
-      "id": "163",
-      "name": "鄭O",
-      "className": "一年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年級團體賽第二名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "114-2期中定期評量各班成績優異前三名",
-          "date": "2026-04-30",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第二學期寒假作業優秀名單",
-          "date": "2026-03-10",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第二名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
       "id": "165",
       "name": "王O伃",
-      "className": "一年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年級團體賽第二名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        }
-      ]
-    },
-    {
-      "id": "166",
-      "name": "黃O芸",
       "className": "一年二班",
       "seatNumber": 0,
       "honors": [
@@ -1750,57 +2039,6 @@
       ]
     },
     {
-      "id": "169",
-      "name": "詹O喬",
-      "className": "一年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年級團體賽第二名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第二名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
-      "id": "152",
-      "name": "程O博",
-      "className": "一年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年級團體賽第二名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第二學期寒假作業優秀名單",
-          "date": "2026-03-10",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
-        }
-      ]
-    },
-    {
       "id": "164",
       "name": "何O希",
       "className": "一年二班",
@@ -1823,17 +2061,31 @@
       ]
     },
     {
-      "id": "227",
-      "name": "施O恩",
+      "id": "232",
+      "name": "劉O允",
       "className": "一年五班",
       "seatNumber": 0,
       "honors": [
         {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年個人賽男子組第一名",
-          "date": "2026-05-08",
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
           "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
         },
         {
           "title": "114學年度大家快樂跑40公尺",
@@ -1845,24 +2097,24 @@
       ]
     },
     {
-      "id": "236",
-      "name": "李O綺",
+      "id": "233",
+      "name": "張O緁",
       "className": "一年五班",
       "seatNumber": 0,
       "honors": [
         {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年個人賽女子組第一名",
-          "date": "2026-05-08",
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
           "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
         },
         {
-          "title": "",
-          "achievement": "114學年度第二學期寒假作業優秀名單",
-          "date": "2026-03-10",
+          "title": "中華民國語文研究協會舉辦中投區國語文競賽獲獎",
+          "achievement": "中華民國語文研究協會舉辦中投區國語文競賽一年級組榮獲特優",
+          "date": "2026-05-21",
           "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=49"
         },
         {
           "title": "",
@@ -1872,48 +2124,54 @@
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
         },
         {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第二名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "國語文教育中心舉辦注音符號比賽入選獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
         }
       ]
     },
     {
-      "id": "244",
-      "name": "楊O寧",
+      "id": "239",
+      "name": "周O孜",
       "className": "一年五班",
       "seatNumber": 0,
       "honors": [
         {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年個人賽女子組第二名",
-          "date": "2026-05-08",
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
           "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        }
-      ]
-    },
-    {
-      "id": "245",
-      "name": "李O嫺",
-      "className": "一年五班",
-      "seatNumber": 0,
-      "honors": [
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
         {
-          "title": "袋鼠盃數學競賽",
-          "achievement": "榮獲銀獎",
-          "date": "2026-06-04",
+          "title": "114學年度期末才藝秀",
+          "achievement": "優秀獎",
+          "date": "2026-01-20",
           "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
         },
         {
           "title": "",
-          "achievement": "114-2期中定期評量各班成績優異前三名",
-          "date": "2026-04-30",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
           "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
         }
       ]
     },
@@ -1923,6 +2181,20 @@
       "className": "一年五班",
       "seatNumber": 0,
       "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
         {
           "title": "臺中市線上閱讀認證系統",
           "achievement": "榮獲紅嘴黑鵯等級",
@@ -1954,17 +2226,82 @@
       ]
     },
     {
-      "id": "233",
-      "name": "張O緁",
+      "id": "245",
+      "name": "李O嫺",
       "className": "一年五班",
       "seatNumber": 0,
       "honors": [
         {
-          "title": "中華民國語文研究協會舉辦中投區國語文競賽獲獎",
-          "achievement": "中華民國語文研究協會舉辦中投區國語文競賽一年級組榮獲特優",
-          "date": "2026-05-21",
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
           "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=49"
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "袋鼠盃數學競賽",
+          "achievement": "榮獲銀獎",
+          "date": "2026-06-04",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
+        },
+        {
+          "title": "",
+          "achievement": "114-2期中定期評量各班成績優異前三名",
+          "date": "2026-04-30",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
+        }
+      ]
+    },
+    {
+      "id": "226",
+      "name": "何O駩",
+      "className": "一年五班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        }
+      ]
+    },
+    {
+      "id": "236",
+      "name": "李O綺",
+      "className": "一年五班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年個人賽女子組第一名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第二學期寒假作業優秀名單",
+          "date": "2026-03-10",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
         },
         {
           "title": "",
@@ -1974,18 +2311,70 @@
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
         },
         {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第二名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "238",
+      "name": "卓O穎",
+      "className": "一年五班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
           "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
         },
         {
-          "title": "114學年度第1學期",
-          "achievement": "國語文教育中心舉辦注音符號比賽入選獎",
-          "date": "2026-01-01",
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第二名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "227",
+      "name": "施O恩",
+      "className": "一年五班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年個人賽男子組第一名",
+          "date": "2026-05-08",
           "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "244",
+      "name": "楊O寧",
+      "className": "一年五班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年個人賽女子組第二名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
         }
       ]
     },
@@ -2059,35 +2448,6 @@
           "date": "2026-01-20",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        }
-      ]
-    },
-    {
-      "id": "239",
-      "name": "周O孜",
-      "className": "一年五班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "優秀獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
         }
       ]
     },
@@ -2238,28 +2598,6 @@
       ]
     },
     {
-      "id": "232",
-      "name": "劉O允",
-      "className": "一年五班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
       "id": "241",
       "name": "吳O",
       "className": "一年五班",
@@ -2290,17 +2628,190 @@
       ]
     },
     {
-      "id": "238",
-      "name": "卓O穎",
-      "className": "一年五班",
+      "id": "202",
+      "name": "莊O喨",
+      "className": "一年四班",
       "seatNumber": 0,
       "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        },
+        {
+          "title": "",
+          "achievement": "台中市清水區區長盃圍棋公開賽第三名",
+          "date": "2026-04-14",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=37"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "特色獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "清水紫雲巖第47屆觀音盃美術寫生比賽國小一年級組入選",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-10-21",
+          "category": "1年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "204",
+      "name": "林O翰",
+      "className": "一年四班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        }
+      ]
+    },
+    {
+      "id": "210",
+      "name": "鄧O宣",
+      "className": "一年四班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        }
+      ]
+    },
+    {
+      "id": "200",
+      "name": "蔡O羲",
+      "className": "一年四班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "",
+          "achievement": "114-2期中定期評量各班成績優異前三名",
+          "date": "2026-04-30",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
+        },
+        {
+          "title": "",
+          "achievement": "超越盃全國數學競賽榮獲優學獎",
+          "date": "2026-02-26",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=27"
+        },
         {
           "title": "114學年度大家快樂跑40公尺",
           "achievement": "第二名",
           "date": "2025-10-21",
           "category": "1年級",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
+        }
+      ]
+    },
+    {
+      "id": "208",
+      "name": "吳O安",
+      "className": "一年四班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "",
+          "achievement": "114-2期中定期評量各班成績優異前三名",
+          "date": "2026-04-30",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第二學期寒假作業優秀名單",
+          "date": "2026-03-10",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        }
+      ]
+    },
+    {
+      "id": "215",
+      "name": "蔡O嬡",
+      "className": "一年四班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "卓越盃閱讀金質獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
         }
       ]
     },
@@ -2391,71 +2902,6 @@
       ]
     },
     {
-      "id": "200",
-      "name": "蔡O羲",
-      "className": "一年四班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114-2期中定期評量各班成績優異前三名",
-          "date": "2026-04-30",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
-        },
-        {
-          "title": "",
-          "achievement": "超越盃全國數學競賽榮獲優學獎",
-          "date": "2026-02-26",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=27"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第二名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
-        }
-      ]
-    },
-    {
-      "id": "208",
-      "name": "吳O安",
-      "className": "一年四班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114-2期中定期評量各班成績優異前三名",
-          "date": "2026-04-30",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第二學期寒假作業優秀名單",
-          "date": "2026-03-10",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        }
-      ]
-    },
-    {
       "id": "209",
       "name": "林O涵",
       "className": "一年四班",
@@ -2467,49 +2913,6 @@
           "date": "2026-04-30",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
-        }
-      ]
-    },
-    {
-      "id": "202",
-      "name": "莊O喨",
-      "className": "一年四班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "台中市清水區區長盃圍棋公開賽第三名",
-          "date": "2026-04-14",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=37"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "特色獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "清水紫雲巖第47屆觀音盃美術寫生比賽國小一年級組入選",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-10-21",
-          "category": "1年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=4"
         }
       ]
     },
@@ -2584,28 +2987,6 @@
           "date": "2026-01-20",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        }
-      ]
-    },
-    {
-      "id": "215",
-      "name": "蔡O嬡",
-      "className": "一年四班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "卓越盃閱讀金質獎",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
         }
       ]
     },
@@ -2715,11 +3096,329 @@
       ]
     },
     {
+      "id": "115",
+      "name": "張O瑀",
+      "className": "三年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年個人賽男子組第四名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第一名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "榮獲115年臺中市仁仁游泳基金會品學兼優獎學金",
+          "date": "2026-05-13",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=45"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "Cool English英閱王比賽榮獲英閱王獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內國語寫字特優",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "Cool English 口說王比賽榮獲口說王獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度大家快樂跑60公尺",
+          "achievement": "第二名",
+          "date": "2025-11-07",
+          "category": "3年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "周O麟",
+      "className": "三年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第一名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "臺中市線上閱讀認證系統",
+          "achievement": "榮獲白耳畫眉等級",
+          "date": "2026-06-04",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=55"
+        },
+        {
+          "title": "中華民國語文研究協會舉辦中投區國語文競賽獲獎",
+          "achievement": "中華民國語文研究協會舉辦中投區國語文競賽三年級組榮獲特優",
+          "date": "2026-05-21",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=49"
+        },
+        {
+          "title": "",
+          "achievement": "第21屆全國菁英盃學習能力競賽榮獲國小三年級組數學第三名",
+          "date": "2026-05-21",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=48"
+        },
+        {
+          "title": "",
+          "achievement": "114-2期中定期評量各班成績優異前三名",
+          "date": "2026-04-30",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第二學期寒假作業優秀名單",
+          "date": "2026-03-10",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
+        },
+        {
+          "title": "超越盃全國數學競賽榮獲優學獎",
+          "achievement": "超越盃全國中文閱讀素養競賽榮獲三年級菁英獎",
+          "date": "2026-02-26",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=27"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "全國美術比賽臺中市初賽中年級組佳作",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "期中定評成績優異同學",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "第20屆全國菁英盃學習能力競賽榮獲三年級組第二名!",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "參加校慶動態表演表現精彩!",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內國語朗讀優等",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內國語字音字形佳作",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        }
+      ]
+    },
+    {
+      "id": "120",
+      "name": "蘇O巧",
+      "className": "三年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第一名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "114-2期中定期評量各班成績優異前三名",
+          "date": "2026-04-30",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第二學期寒假作業優秀名單",
+          "date": "2026-03-10",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "參加校慶動態表演表現精彩!",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內閩南語演說優等",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內閩南語朗讀優等",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內國語作文特優",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內國語字音字形佳作",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        }
+      ]
+    },
+    {
       "id": "65",
       "name": "鍾O誼",
       "className": "三年一班",
       "seatNumber": 0,
       "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
         {
           "title": "臺中市114學年度國民小學英語朗讀比賽丙組第二名",
           "achievement": "臺中市114學年度國民小學英語朗讀比賽丙組榮獲第二名",
@@ -2765,6 +3464,171 @@
         {
           "title": "114學年度第1學期",
           "achievement": "參加校慶動態表演表現精彩!",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        }
+      ]
+    },
+    {
+      "id": "116",
+      "name": "張O怡",
+      "className": "三年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第一名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "115年苗栗縣體育會理事長盃足球錦標賽榮獲三年級第二名",
+          "date": "2026-06-10",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=58"
+        },
+        {
+          "title": "",
+          "achievement": "114-2期中定期評量各班成績優異前三名",
+          "date": "2026-04-30",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "人氣獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "參加校慶動態表演表現精彩!",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內國語作文佳作",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度大家快樂跑60公尺",
+          "achievement": "第一名",
+          "date": "2025-11-07",
+          "category": "3年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
+        }
+      ]
+    },
+    {
+      "id": "117",
+      "name": "郭O霖",
+      "className": "三年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第一名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        }
+      ]
+    },
+    {
+      "id": "95",
+      "name": "莊O漾",
+      "className": "三年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第一名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "黃O瑄",
+      "className": "三年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年個人賽女子組第一名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第一名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "114第一學期定考成績進步前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內國語演說佳作",
           "date": "2026-01-01",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
@@ -2967,113 +3831,6 @@
           "date": "2025-11-07",
           "category": "3年級",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
-        }
-      ]
-    },
-    {
-      "id": "115",
-      "name": "張O瑀",
-      "className": "三年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年個人賽男子組第四名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第一名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "榮獲115年臺中市仁仁游泳基金會品學兼優獎學金",
-          "date": "2026-05-13",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=45"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "Cool English英閱王比賽榮獲英閱王獎",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內國語寫字特優",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "Cool English 口說王比賽榮獲口說王獎",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "name": "黃O瑄",
-      "className": "三年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年個人賽女子組第一名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第一名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "114第一學期定考成績進步前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內國語演說佳作",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
         }
       ]
     },
@@ -3325,305 +4082,6 @@
           "date": "2026-05-08",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        }
-      ]
-    },
-    {
-      "id": "117",
-      "name": "郭O霖",
-      "className": "三年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第一名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        }
-      ]
-    },
-    {
-      "id": "18",
-      "name": "周O麟",
-      "className": "三年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第一名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "臺中市線上閱讀認證系統",
-          "achievement": "榮獲白耳畫眉等級",
-          "date": "2026-06-04",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=55"
-        },
-        {
-          "title": "中華民國語文研究協會舉辦中投區國語文競賽獲獎",
-          "achievement": "中華民國語文研究協會舉辦中投區國語文競賽三年級組榮獲特優",
-          "date": "2026-05-21",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=49"
-        },
-        {
-          "title": "",
-          "achievement": "第21屆全國菁英盃學習能力競賽榮獲國小三年級組數學第三名",
-          "date": "2026-05-21",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=48"
-        },
-        {
-          "title": "",
-          "achievement": "114-2期中定期評量各班成績優異前三名",
-          "date": "2026-04-30",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第二學期寒假作業優秀名單",
-          "date": "2026-03-10",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
-        },
-        {
-          "title": "超越盃全國數學競賽榮獲優學獎",
-          "achievement": "超越盃全國中文閱讀素養競賽榮獲三年級菁英獎",
-          "date": "2026-02-26",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=27"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "全國美術比賽臺中市初賽中年級組佳作",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "期中定評成績優異同學",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "第20屆全國菁英盃學習能力競賽榮獲三年級組第二名!",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "參加校慶動態表演表現精彩!",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內國語朗讀優等",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內國語字音字形佳作",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        }
-      ]
-    },
-    {
-      "id": "95",
-      "name": "莊O漾",
-      "className": "三年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第一名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        }
-      ]
-    },
-    {
-      "id": "120",
-      "name": "蘇O巧",
-      "className": "三年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第一名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "114-2期中定期評量各班成績優異前三名",
-          "date": "2026-04-30",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第二學期寒假作業優秀名單",
-          "date": "2026-03-10",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "參加校慶動態表演表現精彩!",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內閩南語演說優等",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內閩南語朗讀優等",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內國語作文特優",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內國語字音字形佳作",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        }
-      ]
-    },
-    {
-      "id": "116",
-      "name": "張O怡",
-      "className": "三年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第一名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "115年苗栗縣體育會理事長盃足球錦標賽榮獲三年級第二名",
-          "date": "2026-06-10",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=58"
-        },
-        {
-          "title": "",
-          "achievement": "114-2期中定期評量各班成績優異前三名",
-          "date": "2026-04-30",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "人氣獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "參加校慶動態表演表現精彩!",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內國語作文佳作",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
         }
       ]
     },
@@ -3895,6 +4353,384 @@
       ]
     },
     {
+      "id": "252",
+      "name": "何O謙",
+      "className": "三年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第三名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "114學年度大家快樂跑60公尺",
+          "achievement": "第二名",
+          "date": "2025-11-07",
+          "category": "3年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
+        }
+      ]
+    },
+    {
+      "id": "118",
+      "name": "劉O言",
+      "className": "三年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第三名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "特色獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "",
+          "achievement": "114第一學期定考成績進步前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "參加校慶動態表演表現精彩!",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度大家快樂跑60公尺",
+          "achievement": "第一名",
+          "date": "2025-11-07",
+          "category": "3年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
+        }
+      ]
+    },
+    {
+      "id": "114",
+      "name": "吳O綾",
+      "className": "三年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第三名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "114學年度大家快樂跑60公尺",
+          "achievement": "第一名",
+          "date": "2025-11-07",
+          "category": "3年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "林O諺",
+      "className": "三年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第三名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "114-2期中定期評量各班成績優異前三名",
+          "date": "2026-04-30",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
+        },
+        {
+          "title": "臺中市豐原區體育會理長盃滑輪溜冰邀請賽",
+          "achievement": "國小三年級男子組150公尺計時第三名",
+          "date": "2026-03-09",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=30"
+        },
+        {
+          "title": "臺中市豐原區體育會理長盃滑輪溜冰邀請賽",
+          "achievement": "國小三年級男子組300公尺計時第四名",
+          "date": "2026-03-09",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=30"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "114年臺中市議長盃滑輪溜冰錦標賽200公尺乙組國小男子三年級組第五名及400公尺計時表現",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內國語作文佳作",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度大家快樂跑60公尺",
+          "achievement": "第二名",
+          "date": "2025-11-07",
+          "category": "3年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "name": "洪O妤",
+      "className": "三年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第三名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "特色獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "期中定評成績優異同學",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內國語演說佳作",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內國語朗讀優等",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內國語朗讀佳作",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度大家快樂跑60公尺",
+          "achievement": "第二名",
+          "date": "2025-11-07",
+          "category": "3年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "name": "江O晨",
+      "className": "三年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第三名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "參加校慶動態表演表現精彩!",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內閩南語朗讀優等",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內國語作文特優",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        }
+      ]
+    },
+    {
+      "id": "119",
+      "name": "蕭O晞",
+      "className": "三年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第三名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "114-2期中定期評量各班成績優異前三名",
+          "date": "2026-04-30",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第二學期寒假作業優秀名單",
+          "date": "2026-03-10",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "期中定評成績優異同學",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "參加校慶動態表演表現精彩!",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        }
+      ]
+    },
+    {
       "id": "58",
       "name": "邱O臻",
       "className": "三年二班",
@@ -4160,63 +4996,6 @@
       ]
     },
     {
-      "id": "2",
-      "name": "林O諺",
-      "className": "三年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第三名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "114-2期中定期評量各班成績優異前三名",
-          "date": "2026-04-30",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
-        },
-        {
-          "title": "臺中市豐原區體育會理長盃滑輪溜冰邀請賽",
-          "achievement": "國小三年級男子組150公尺計時第三名",
-          "date": "2026-03-09",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=30"
-        },
-        {
-          "title": "臺中市豐原區體育會理長盃滑輪溜冰邀請賽",
-          "achievement": "國小三年級男子組300公尺計時第四名",
-          "date": "2026-03-09",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=30"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "114年臺中市議長盃滑輪溜冰錦標賽200公尺乙組國小男子三年級組第五名及400公尺計時表現",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內國語作文佳作",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
-        }
-      ]
-    },
-    {
       "id": "24",
       "name": "王O宇",
       "className": "三年二班",
@@ -4232,28 +5011,6 @@
         {
           "title": "114學年度大家快樂跑60公尺",
           "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
-        }
-      ]
-    },
-    {
-      "id": "252",
-      "name": "何O謙",
-      "className": "三年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第三名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第二名",
           "date": "2025-11-07",
           "category": "3年級",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
@@ -4316,170 +5073,6 @@
           "date": "2026-05-08",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        }
-      ]
-    },
-    {
-      "id": "60",
-      "name": "洪O妤",
-      "className": "三年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第三名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "特色獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "期中定評成績優異同學",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內國語演說佳作",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內國語朗讀優等",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內國語朗讀佳作",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
-        }
-      ]
-    },
-    {
-      "id": "118",
-      "name": "劉O言",
-      "className": "三年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第三名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "特色獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "",
-          "achievement": "114第一學期定考成績進步前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "參加校慶動態表演表現精彩!",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
-        }
-      ]
-    },
-    {
-      "id": "56",
-      "name": "江O晨",
-      "className": "三年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第三名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "參加校慶動態表演表現精彩!",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內閩南語朗讀優等",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內國語作文特優",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
         }
       ]
     },
@@ -4641,28 +5234,6 @@
       ]
     },
     {
-      "id": "114",
-      "name": "吳O綾",
-      "className": "三年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第三名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
-        }
-      ]
-    },
-    {
       "id": "57",
       "name": "呂O夢",
       "className": "三年二班",
@@ -4756,14 +5327,36 @@
       ]
     },
     {
-      "id": "119",
-      "name": "蕭O晞",
+      "id": "61",
+      "name": "陳O綸",
       "className": "三年二班",
       "seatNumber": 0,
       "honors": [
         {
+          "title": "114學年度第1學期",
+          "achievement": "校內國語字音字形佳作",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "賴O宇",
+      "className": "二年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
           "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第三名",
+          "achievement": "低年級團體賽第一名",
           "date": "2026-05-08",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
@@ -4777,17 +5370,17 @@
         },
         {
           "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
+          "achievement": "人氣獎",
           "date": "2026-01-20",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
         },
         {
-          "title": "",
-          "achievement": "114學年度第二學期寒假作業優秀名單",
-          "date": "2026-03-10",
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-20",
           "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
         },
         {
           "title": "",
@@ -4811,26 +5404,11 @@
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
         },
         {
-          "title": "114學年度第1學期",
-          "achievement": "參加校慶動態表演表現精彩!",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        }
-      ]
-    },
-    {
-      "id": "61",
-      "name": "陳O綸",
-      "className": "三年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內國語字音字形佳作",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第二名",
+          "date": "2025-11-07",
+          "category": "2年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
         }
       ]
     },
@@ -4840,6 +5418,20 @@
       "className": "二年一班",
       "seatNumber": 0,
       "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
         {
           "title": "全國奧林匹克數理競賽",
           "achievement": "全國奧林匹克數理競賽二年級組奧數銀質獎",
@@ -4934,6 +5526,243 @@
       ]
     },
     {
+      "id": "54",
+      "name": "陳O蓁",
+      "className": "二年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年級團體賽第一名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "",
+          "achievement": "114第一學期定考成績進步前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        }
+      ]
+    },
+    {
+      "id": "73",
+      "name": "施O彤",
+      "className": "二年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年個人賽女子組第四名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年級團體賽第一名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "114-2期中定期評量各班成績優異前三名",
+          "date": "2026-04-30",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-11-07",
+          "category": "2年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
+        }
+      ]
+    },
+    {
+      "id": "91",
+      "name": "陳O心",
+      "className": "二年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年級團體賽第一名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "name": "林O綱",
+      "className": "二年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年級團體賽第一名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第二學期寒假作業優秀名單",
+          "date": "2026-03-10",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-11-07",
+          "category": "2年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
+        }
+      ]
+    },
+    {
+      "id": "103",
+      "name": "陳O廷",
+      "className": "二年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年級團體賽第一名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "期中定評成績優異同學",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        }
+      ]
+    },
+    {
+      "id": "108",
+      "name": "陳O羽",
+      "className": "二年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "低年級團體賽第一名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        }
+      ]
+    },
+    {
       "id": "21",
       "name": "李O錞",
       "className": "二年一班",
@@ -4981,149 +5810,6 @@
           "date": "2026-05-08",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        }
-      ]
-    },
-    {
-      "id": "73",
-      "name": "施O彤",
-      "className": "二年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年個人賽女子組第四名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年級團體賽第一名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "114-2期中定期評量各班成績優異前三名",
-          "date": "2026-04-30",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "2年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
-        }
-      ]
-    },
-    {
-      "id": "50",
-      "name": "林O綱",
-      "className": "二年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年級團體賽第一名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第二學期寒假作業優秀名單",
-          "date": "2026-03-10",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "2年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
-        }
-      ]
-    },
-    {
-      "id": "17",
-      "name": "賴O宇",
-      "className": "二年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年級團體賽第一名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "114-2期中定期評量各班成績優異前三名",
-          "date": "2026-04-30",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "人氣獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "期中定評成績優異同學",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "2年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
         }
       ]
     },
@@ -5301,35 +5987,6 @@
       ]
     },
     {
-      "id": "103",
-      "name": "陳O廷",
-      "className": "二年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年級團體賽第一名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "期中定評成績優異同學",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        }
-      ]
-    },
-    {
       "id": "30",
       "name": "蔡O騏",
       "className": "二年一班",
@@ -5374,21 +6031,6 @@
       ]
     },
     {
-      "id": "108",
-      "name": "陳O羽",
-      "className": "二年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年級團體賽第一名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        }
-      ]
-    },
-    {
       "id": "76",
       "name": "劉O實",
       "className": "二年一班",
@@ -5400,42 +6042,6 @@
           "date": "2026-05-08",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        }
-      ]
-    },
-    {
-      "id": "54",
-      "name": "陳O蓁",
-      "className": "二年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年級團體賽第一名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "",
-          "achievement": "114第一學期定考成績進步前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
         }
       ]
     },
@@ -5487,28 +6093,6 @@
           "date": "2025-11-07",
           "category": "2年級",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
-        }
-      ]
-    },
-    {
-      "id": "91",
-      "name": "陳O心",
-      "className": "二年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "低年級團體賽第一名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
         }
       ]
     },
@@ -5585,6 +6169,20 @@
       "seatNumber": 0,
       "honors": [
         {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
           "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
           "achievement": "低年個人賽男子組第四名",
           "date": "2026-05-08",
@@ -5622,11 +6220,222 @@
       ]
     },
     {
+      "id": "104",
+      "name": "蔡O緹",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "",
+          "achievement": "114-2期中定期評量各班成績優異前三名",
+          "date": "2026-04-30",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "name": "楊O嫙",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "name": "楊O睿",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-11-07",
+          "category": "2年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
+        }
+      ]
+    },
+    {
+      "id": "111",
+      "name": "陳O寧",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "name": "張O宥",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "廖O綾",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        },
+        {
+          "title": "",
+          "achievement": "114第一學期定考成績進步前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "張O芯",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        },
+        {
+          "title": "",
+          "achievement": "114第一學期定考成績進步前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
+        },
+        {
+          "title": "114學年度大家快樂跑40公尺",
+          "achievement": "第一名",
+          "date": "2025-11-07",
+          "category": "2年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "陳O斐",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        }
+      ]
+    },
+    {
       "id": "102",
       "name": "陳O庭",
       "className": "二年二班",
       "seatNumber": 0,
       "honors": [
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
         {
           "title": "",
           "achievement": "115年臺中市市長盃跆拳道錦標賽品勢國小男子低年級黃帶E組第三名",
@@ -5680,28 +6489,6 @@
       ]
     },
     {
-      "id": "104",
-      "name": "蔡O緹",
-      "className": "二年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114-2期中定期評量各班成績優異前三名",
-          "date": "2026-04-30",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        }
-      ]
-    },
-    {
       "id": "48",
       "name": "沈O寬",
       "className": "二年二班",
@@ -5720,64 +6507,6 @@
           "date": "2025-11-07",
           "category": "2年級",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
-        }
-      ]
-    },
-    {
-      "id": "43",
-      "name": "楊O睿",
-      "className": "二年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "2年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
-        }
-      ]
-    },
-    {
-      "id": "44",
-      "name": "楊O嫙",
-      "className": "二年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
         }
       ]
     },
@@ -5912,43 +6641,6 @@
       ]
     },
     {
-      "id": "16",
-      "name": "廖O綾",
-      "className": "二年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114第一學期定考成績進步前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
-        }
-      ]
-    },
-    {
-      "id": "7",
-      "name": "張O芯",
-      "className": "二年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114第一學期定考成績進步前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
-        },
-        {
-          "title": "114學年度大家快樂跑40公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "2年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
-        }
-      ]
-    },
-    {
       "id": "25",
       "name": "王O煦",
       "className": "二年二班",
@@ -6020,6 +6712,476 @@
           "date": "2025-11-07",
           "category": "2年級",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=5"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "name": "蔡O中",
+      "className": "四年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第二名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "臺中市114學年度國民小學英語歌唱比賽榮獲丙組優等",
+          "date": "2026-06-11",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=59"
+        },
+        {
+          "title": "",
+          "achievement": "114-2期中定期評量各班成績優異前三名",
+          "date": "2026-04-30",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "",
+          "achievement": "114第一學期定考成績進步前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        },
+        {
+          "title": "114學年度大家快樂跑80公尺",
+          "achievement": "第一名",
+          "date": "2025-11-07",
+          "category": "4年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=7"
+        }
+      ]
+    },
+    {
+      "id": "80",
+      "name": "林O頤",
+      "className": "四年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第二名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "臺中市114學年度國民小學英語歌唱比賽榮獲丙組優等",
+          "date": "2026-06-11",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=59"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        }
+      ]
+    },
+    {
+      "id": "87",
+      "name": "周O廷",
+      "className": "四年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第二名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "臺中市114學年度國民小學英語歌唱比賽榮獲丙組優等",
+          "date": "2026-06-11",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=59"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "優秀獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第二學期寒假作業優秀名單",
+          "date": "2026-03-10",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內閩南語演說優等",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內國語字音字形特優",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        }
+      ]
+    },
+    {
+      "id": "81",
+      "name": "孫O玲",
+      "className": "四年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第二名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "臺中市114學年度國民小學英語歌唱比賽榮獲丙組優等",
+          "date": "2026-06-11",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=59"
+        },
+        {
+          "title": "",
+          "achievement": "114-2期中定期評量各班成績優異前三名",
+          "date": "2026-04-30",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內閩南語演說特優",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內國語朗讀特優",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內國語作文佳作",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        }
+      ]
+    },
+    {
+      "id": "88",
+      "name": "陳O璇",
+      "className": "四年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年個人賽女子組第四名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第二名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "臺中市114學年度國民小學英語歌唱比賽榮獲丙組優等",
+          "date": "2026-06-11",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=59"
+        },
+        {
+          "title": "",
+          "achievement": "114-2期中定期評量各班成績優異前三名",
+          "date": "2026-04-30",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
+        },
+        {
+          "title": "114學年度期末才藝秀",
+          "achievement": "入選獎",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "期中定評成績優異同學",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內國語字音字形優等",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "國語文教育中心舉辦錯別字比賽優勝獎",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        }
+      ]
+    },
+    {
+      "id": "66",
+      "name": "吳O埕",
+      "className": "四年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第二名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "臺中市114學年度國民小學英語歌唱比賽榮獲丙組優等",
+          "date": "2026-06-11",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=59"
+        },
+        {
+          "title": "",
+          "achievement": "115年度Cool English英聽王比賽榮獲英聽王獎",
+          "date": "2026-05-14",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=46"
+        }
+      ]
+    },
+    {
+      "id": "68",
+      "name": "林O恩",
+      "className": "四年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第二名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "臺中市114學年度國民小學英語歌唱比賽榮獲丙組優等",
+          "date": "2026-06-11",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=59"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內國語朗讀特優",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內閩南語朗讀特優",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度大家快樂跑80公尺",
+          "achievement": "第二名",
+          "date": "2025-11-07",
+          "category": "4年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=7"
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "name": "蔡O潔",
+      "className": "四年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第二名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "臺中市114學年度國民小學英語歌唱比賽榮獲丙組優等",
+          "date": "2026-06-11",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=59"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "校內國語演說佳作",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        },
+        {
+          "title": "114學年度大家快樂跑80公尺",
+          "achievement": "第二名",
+          "date": "2025-11-07",
+          "category": "4年級",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=7"
         }
       ]
     },
@@ -6227,141 +7389,6 @@
           "date": "2026-01-01",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        }
-      ]
-    },
-    {
-      "id": "88",
-      "name": "陳O璇",
-      "className": "四年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年個人賽女子組第四名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第二名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "臺中市114學年度國民小學英語歌唱比賽榮獲丙組優等",
-          "date": "2026-06-11",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=59"
-        },
-        {
-          "title": "",
-          "achievement": "114-2期中定期評量各班成績優異前三名",
-          "date": "2026-04-30",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "期中定評成績優異同學",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內國語字音字形優等",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "國語文教育中心舉辦錯別字比賽優勝獎",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        }
-      ]
-    },
-    {
-      "id": "38",
-      "name": "蔡O中",
-      "className": "四年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第二名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "臺中市114學年度國民小學英語歌唱比賽榮獲丙組優等",
-          "date": "2026-06-11",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=59"
-        },
-        {
-          "title": "",
-          "achievement": "114-2期中定期評量各班成績優異前三名",
-          "date": "2026-04-30",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "",
-          "achievement": "114第一學期定考成績進步前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        },
-        {
-          "title": "114學年度大家快樂跑80公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "4年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=7"
         }
       ]
     },
@@ -6699,64 +7726,6 @@
       ]
     },
     {
-      "id": "80",
-      "name": "林O頤",
-      "className": "四年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第二名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "臺中市114學年度國民小學英語歌唱比賽榮獲丙組優等",
-          "date": "2026-06-11",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=59"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        }
-      ]
-    },
-    {
-      "id": "66",
-      "name": "吳O埕",
-      "className": "四年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第二名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "臺中市114學年度國民小學英語歌唱比賽榮獲丙組優等",
-          "date": "2026-06-11",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=59"
-        },
-        {
-          "title": "",
-          "achievement": "115年度Cool English英聽王比賽榮獲英聽王獎",
-          "date": "2026-05-14",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=46"
-        }
-      ]
-    },
-    {
       "id": "85",
       "name": "許O禎",
       "className": "四年一班",
@@ -6782,170 +7751,6 @@
           "date": "2026-01-20",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度大家快樂跑80公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "4年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=7"
-        }
-      ]
-    },
-    {
-      "id": "87",
-      "name": "周O廷",
-      "className": "四年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第二名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "臺中市114學年度國民小學英語歌唱比賽榮獲丙組優等",
-          "date": "2026-06-11",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=59"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "優秀獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度期末才藝秀",
-          "achievement": "入選獎",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第二學期寒假作業優秀名單",
-          "date": "2026-03-10",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內閩南語演說優等",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內國語字音字形特優",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        }
-      ]
-    },
-    {
-      "id": "81",
-      "name": "孫O玲",
-      "className": "四年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第二名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "臺中市114學年度國民小學英語歌唱比賽榮獲丙組優等",
-          "date": "2026-06-11",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=59"
-        },
-        {
-          "title": "",
-          "achievement": "114-2期中定期評量各班成績優異前三名",
-          "date": "2026-04-30",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內閩南語演說特優",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內國語朗讀特優",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內國語作文佳作",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        }
-      ]
-    },
-    {
-      "id": "68",
-      "name": "林O恩",
-      "className": "四年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第二名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "臺中市114學年度國民小學英語歌唱比賽榮獲丙組優等",
-          "date": "2026-06-11",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=59"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內國語朗讀特優",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內閩南語朗讀特優",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
         },
         {
           "title": "114學年度大家快樂跑80公尺",
@@ -7126,42 +7931,6 @@
           "date": "2026-01-01",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        }
-      ]
-    },
-    {
-      "id": "39",
-      "name": "蔡O潔",
-      "className": "四年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第二名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "臺中市114學年度國民小學英語歌唱比賽榮獲丙組優等",
-          "date": "2026-06-11",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=59"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "校內國語演說佳作",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑80公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "4年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=7"
         }
       ]
     }
