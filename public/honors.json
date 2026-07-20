@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026/07/20 04:54",
+  "lastUpdated": "2026/07/21 05:14",
   "students": [
     {
       "id": "125",
@@ -2765,6 +2765,13 @@
       "seatNumber": 0,
       "honors": [
         {
+          "title": "",
+          "achievement": "第七屆科普閱讀力大賽三年級區域賽榮獲第五名",
+          "date": "2026-07-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=71"
+        },
+        {
           "title": "115年度Cool English口說高手比賽",
           "achievement": "115年度Cool English口說高手比賽榮獲口說高手獎",
           "date": "2026-06-26",
@@ -2981,13 +2988,6 @@
           "date": "2026-01-01",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
         }
       ]
     },
@@ -3229,13 +3229,6 @@
           "date": "2026-01-01",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
         }
       ]
     },
@@ -3522,13 +3515,6 @@
           "date": "2026-01-01",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
         }
       ]
     },
@@ -3628,13 +3614,6 @@
           "date": "2026-01-01",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
         }
       ]
     },
@@ -3685,13 +3664,6 @@
           "date": "2026-01-01",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
         }
       ]
     },
@@ -3714,13 +3686,6 @@
           "date": "2026-01-01",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
         }
       ]
     },
@@ -3743,13 +3708,6 @@
           "date": "2026-01-19",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
         }
       ]
     },
@@ -3860,13 +3818,6 @@
           "date": "2026-01-01",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
         }
       ]
     },
@@ -4004,13 +3955,6 @@
           "date": "2026-01-01",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
         }
       ]
     },
@@ -4040,13 +3984,6 @@
           "date": "2026-01-01",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
         }
       ]
     },
@@ -4111,13 +4048,6 @@
           "date": "2026-01-01",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
         }
       ]
     },
@@ -4375,13 +4305,6 @@
           "date": "2026-05-08",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
         }
       ]
     },
@@ -4432,13 +4355,6 @@
           "date": "2026-01-01",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
         }
       ]
     },
@@ -4461,13 +4377,6 @@
           "date": "2026-05-08",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
         }
       ]
     },
@@ -4539,13 +4448,6 @@
           "date": "2026-01-01",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
         }
       ]
     },
@@ -4639,13 +4541,6 @@
           "date": "2026-01-01",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
         }
       ]
     },
@@ -4682,13 +4577,6 @@
           "date": "2026-01-01",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
         }
       ]
     },
@@ -4826,13 +4714,6 @@
           "date": "2026-05-08",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
         }
       ]
     },
@@ -4870,13 +4751,6 @@
           "date": "2026-01-01",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
         }
       ]
     },
@@ -4985,13 +4859,6 @@
           "date": "2026-01-01",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑60公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "3年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=6"
         }
       ]
     },
