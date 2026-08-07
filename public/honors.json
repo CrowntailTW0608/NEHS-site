@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026/08/06 05:15",
+  "lastUpdated": "2026/08/07 08:53",
   "students": [
     {
       "id": "125",
@@ -3320,42 +3320,6 @@
       ]
     },
     {
-      "id": "32",
-      "name": "林O羽",
-      "className": "三年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "2026 English Speech Contest",
-          "achievement": "榮獲 English Speech Contest第一名",
-          "date": "2026-06-24",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=63"
-        },
-        {
-          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第一名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "114學年度第一學期期末定考成績優異前三名",
-          "achievement": "114學年度第一學期1期末定考成績優異前三名",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        },
-        {
-          "title": "114學年度第1學期",
-          "achievement": "參加校慶動態表演表現精彩!",
-          "date": "2026-01-01",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        }
-      ]
-    },
-    {
       "id": "253",
       "name": "周O晨",
       "className": "三年一班",
@@ -6151,6 +6115,49 @@
       ]
     },
     {
+      "id": "32",
+      "name": "林O羽",
+      "className": "四年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "115年樂讀盃臺中市中小學英文朗讀比賽榮獲中年級組第二名",
+          "date": "2026-08-06",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=72"
+        },
+        {
+          "title": "2026 English Speech Contest",
+          "achievement": "榮獲 English Speech Contest第一名",
+          "date": "2026-06-24",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=63"
+        },
+        {
+          "title": "國立中科實驗高級中學國小部114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第一名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "114學年度第一學期期末定考成績優異前三名",
+          "achievement": "114學年度第一學期1期末定考成績優異前三名",
+          "date": "2026-01-19",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
+        },
+        {
+          "title": "114學年度第1學期",
+          "achievement": "參加校慶動態表演表現精彩!",
+          "date": "2026-01-01",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
+        }
+      ]
+    },
+    {
       "id": "38",
       "name": "蔡O中",
       "className": "四年一班",
@@ -6211,13 +6218,6 @@
           "date": "2026-01-19",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        },
-        {
-          "title": "114學年度大家快樂跑80公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "4年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=7"
         }
       ]
     },
@@ -6574,13 +6574,6 @@
           "date": "2026-01-01",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑80公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "4年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=7"
         }
       ]
     },
@@ -6617,13 +6610,6 @@
           "date": "2026-01-01",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑80公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "4年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=7"
         }
       ]
     },
@@ -6781,13 +6767,6 @@
           "date": "2026-01-01",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑80公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "4年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=7"
         }
       ]
     },
@@ -6853,13 +6832,6 @@
           "date": "2026-06-11",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=59"
-        },
-        {
-          "title": "114學年度大家快樂跑80公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "4年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=7"
         }
       ]
     },
@@ -6889,13 +6861,6 @@
           "date": "2026-01-19",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
-        },
-        {
-          "title": "114學年度大家快樂跑80公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "4年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=7"
         }
       ]
     },
@@ -6954,13 +6919,6 @@
           "date": "2026-01-01",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=9"
-        },
-        {
-          "title": "114學年度大家快樂跑80公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "4年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=7"
         }
       ]
     },
@@ -7019,13 +6977,6 @@
           "date": "2026-01-20",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度大家快樂跑80公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "4年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=7"
         }
       ]
     },
@@ -7048,13 +6999,6 @@
           "date": "2026-06-11",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=59"
-        },
-        {
-          "title": "114學年度大家快樂跑80公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "4年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=7"
         }
       ]
     },
@@ -7157,13 +7101,6 @@
           "date": "2026-03-10",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
-        },
-        {
-          "title": "114學年度大家快樂跑80公尺",
-          "achievement": "第一名",
-          "date": "2025-11-07",
-          "category": "4年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=7"
         }
       ]
     },
@@ -7193,13 +7130,6 @@
           "date": "2026-01-20",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=34"
-        },
-        {
-          "title": "114學年度大家快樂跑80公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "4年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=7"
         }
       ]
     },
@@ -7323,13 +7253,6 @@
           "date": "2026-01-19",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
-        },
-        {
-          "title": "114學年度大家快樂跑80公尺",
-          "achievement": "第二名",
-          "date": "2025-11-07",
-          "category": "4年級",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=7"
         }
       ]
     },
