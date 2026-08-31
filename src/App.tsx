@@ -58,6 +58,7 @@ const sidebarItems = [
 
 const externalLinkItems = [
   { id: "course_plan", label: "課程計畫", icon: BookOpen, type: "link" as const, url: "https://sites.google.com/nehs.tc.edu.tw/elem/%E8%AA%B2%E7%A8%8B%E8%A8%88%E7%95%AB%E5%85%AC%E9%96%8B%E8%B3%87%E6%96%99" },
+  { id: "after_school_club", label: "課後社團專區", icon: Sparkles, type: "link" as const, url: "https://sites.google.com/nehs.tc.edu.tw/elem5140/" },
   { id: "photos", label: "照片錦集", icon: ImageIcon, type: "link" as const, url: "https://drive.google.com/drive/folders/1AYfxyl38OH3lo7NgCh1wFzGSbFm6QgKZ" },
   { id: "facebook", label: "官方臉書", icon: Facebook, type: "link" as const, url: "https://www.facebook.com/people/%E5%9C%8B%E7%AB%8B%E4%B8%AD%E7%A7%91%E5%AF%A6%E4%B8%AD-%E5%9C%8B%E5%B0%8F%E9%83%A8/61567154196139/?locale=zh_TW" },
   { id: "milk", label: "台中有鈣讚", icon: Globe, type: "link" as const, url: "https://milkgood.tc.edu.tw/" },
