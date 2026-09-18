@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026/09/18 06:44",
+  "lastUpdated": "2026/09/19 06:24",
   "students": [
     {
       "id": "125",
@@ -2378,13 +2378,6 @@
           "date": "2026-01-19",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=16"
-        },
-        {
-          "title": "",
-          "achievement": "卓越盃全國競賽數學一年級金質獎",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=13"
         }
       ]
     },
@@ -5135,6 +5128,21 @@
           "date": "2026-01-19",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=18"
+        }
+      ]
+    },
+    {
+      "id": "213",
+      "name": "李O鋙",
+      "className": "二年四班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "2026多樣地球探險隊榮獲臺中市低年級手繪組佳作",
+          "date": "2026-09-18",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=75"
         }
       ]
     },
