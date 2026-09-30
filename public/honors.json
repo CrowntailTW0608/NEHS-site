@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026/09/30 07:32",
+  "lastUpdated": "2026/10/01 07:34",
   "students": [
     {
       "id": "125",
@@ -4062,13 +4062,6 @@
           "date": "2026-01-20",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        },
-        {
-          "title": "",
-          "achievement": "卓越盃全國競賽數學二年級銅質獎",
-          "date": "2026-01-19",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=19"
         }
       ]
     },
@@ -4970,47 +4963,18 @@
       ]
     },
     {
-      "id": "20",
-      "name": "賴O呈",
-      "className": "五年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "115學年度第一學期暑假作業優秀名單",
-          "date": "2026-09-22",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=76"
-        },
-        {
-          "title": "114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第二名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "臺中市114學年度國民小學英語歌唱比賽榮獲丙組優等",
-          "date": "2026-06-11",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=59"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第一學期總成績各班優異前五名",
-          "date": "2026-01-20",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
-        }
-      ]
-    },
-    {
       "id": "69",
       "name": "邱O祐",
       "className": "五年二班",
       "seatNumber": 0,
       "honors": [
+        {
+          "title": "",
+          "achievement": "115年度Cool English自主學習活動榮獲8月份場次 自學初心者獎",
+          "date": "2026-09-30",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=80"
+        },
         {
           "title": "",
           "achievement": "115學年度第一學期暑假作業優秀名單",
@@ -5059,6 +5023,42 @@
           "date": "2026-03-10",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "賴O呈",
+      "className": "五年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "115學年度第一學期暑假作業優秀名單",
+          "date": "2026-09-22",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=76"
+        },
+        {
+          "title": "114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第二名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "臺中市114學年度國民小學英語歌唱比賽榮獲丙組優等",
+          "date": "2026-06-11",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=59"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第一學期總成績各班優異前五名",
+          "date": "2026-01-20",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=23"
         }
       ]
     },
