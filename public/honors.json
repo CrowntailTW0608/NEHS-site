@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026/10/14 07:39",
+  "lastUpdated": "2026/10/15 07:03",
   "students": [
     {
       "id": "125",
@@ -1002,21 +1002,6 @@
       ]
     },
     {
-      "id": "192",
-      "name": "趙O晞",
-      "className": "一年三班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度班際跳繩競賽",
-          "achievement": "低年級團體賽第三名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        }
-      ]
-    },
-    {
       "id": "195",
       "name": "王O恩",
       "className": "一年三班",
@@ -1028,42 +1013,6 @@
           "date": "2026-05-08",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        }
-      ]
-    },
-    {
-      "id": "147",
-      "name": "陳O騏",
-      "className": "一年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114學年度第二學期總成績各班優異前五名",
-          "date": "2026-06-25",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
-        },
-        {
-          "title": "114學年度班際跳繩競賽",
-          "achievement": "低年級團體賽第二名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "114-2期中定期評量各班成績優異前三名",
-          "date": "2026-04-30",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
-        },
-        {
-          "title": "海月盃全國圍棋運動公開賽",
-          "achievement": "海月盃全國圍棋運動公開賽初選組B第五名",
-          "date": "2026-03-17",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=33"
         }
       ]
     },
@@ -1791,13 +1740,6 @@
           "date": "2026-02-23",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=25"
-        },
-        {
-          "title": "115年臺中市梧棲區區長盃青少年圍棋運動錦標賽",
-          "achievement": "國小組第二名",
-          "date": "2026-02-23",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=24"
         }
       ]
     },
@@ -3853,6 +3795,28 @@
       ]
     },
     {
+      "id": "192",
+      "name": "趙O晞",
+      "className": "二年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "榮獲校內閱讀小達人",
+          "date": "2026-10-14",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=84"
+        },
+        {
+          "title": "114學年度班際跳繩競賽",
+          "achievement": "低年級團體賽第三名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        }
+      ]
+    },
+    {
       "id": "177",
       "name": "吳O諺",
       "className": "二年三班",
@@ -3950,6 +3914,56 @@
           "date": "2026-03-10",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
+        }
+      ]
+    },
+    {
+      "id": "147",
+      "name": "陳O騏",
+      "className": "二年二班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "榮獲校內閱讀小達人",
+          "date": "2026-10-14",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=84"
+        },
+        {
+          "title": "榮獲校內閱讀小達人",
+          "achievement": "榮獲校內閱讀小菁英",
+          "date": "2026-10-14",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=84"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "114學年度班際跳繩競賽",
+          "achievement": "低年級團體賽第二名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "114-2期中定期評量各班成績優異前三名",
+          "date": "2026-04-30",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
+        },
+        {
+          "title": "海月盃全國圍棋運動公開賽",
+          "achievement": "海月盃全國圍棋運動公開賽初選組B第五名",
+          "date": "2026-03-17",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=33"
         }
       ]
     },
