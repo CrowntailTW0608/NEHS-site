@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026/10/15 07:03",
+  "lastUpdated": "2026/10/16 06:57",
   "students": [
     {
       "id": "125",
@@ -1729,21 +1729,6 @@
       ]
     },
     {
-      "id": "224",
-      "name": "陳O俍",
-      "className": "一年五班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "2025卓越盃數學全國競賽",
-          "achievement": "卓越盃全國競賽數學一年級優選獎",
-          "date": "2026-02-23",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=25"
-        }
-      ]
-    },
-    {
       "id": "197",
       "name": "洪O宏",
       "className": "一年四班",
@@ -1869,21 +1854,6 @@
     {
       "id": "204",
       "name": "林O翰",
-      "className": "一年四班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114第二學期定考成績進步前三名",
-          "date": "2026-06-25",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
-        }
-      ]
-    },
-    {
-      "id": "210",
-      "name": "鄧O宣",
       "className": "一年四班",
       "seatNumber": 0,
       "honors": [
@@ -2063,13 +2033,6 @@
           "date": "2026-03-10",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=31"
-        },
-        {
-          "title": "",
-          "achievement": "臺中市卓越盃音樂公開賽國小二年級組小提琴獨奏第一名",
-          "date": "2026-02-24",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=26"
         }
       ]
     },
@@ -4424,6 +4387,28 @@
           "date": "2026-04-30",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
+        }
+      ]
+    },
+    {
+      "id": "210",
+      "name": "鄧O宣",
+      "className": "二年四班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "旋風陀螺極速對決榮獲季軍",
+          "date": "2026-10-15",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=85"
+        },
+        {
+          "title": "",
+          "achievement": "114第二學期定考成績進步前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
         }
       ]
     },
