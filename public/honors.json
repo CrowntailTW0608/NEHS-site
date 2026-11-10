@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026/11/09 07:29",
+  "lastUpdated": "2026/11/10 10:36",
   "students": [
     {
       "id": "125",
@@ -718,13 +718,6 @@
           "date": "2026-06-03",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=52"
-        },
-        {
-          "title": "",
-          "achievement": "台中市市長盃滑輪溜冰錦標賽亞軍",
-          "date": "2026-04-21",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=39"
         }
       ]
     },
@@ -1550,42 +1543,6 @@
           "date": "2026-05-08",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        }
-      ]
-    },
-    {
-      "id": "10",
-      "name": "吳O",
-      "className": "三年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "114學年度班際跳繩競賽",
-          "achievement": "中年個人賽男子組第一名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第一名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "115年苗栗縣體育會理事長盃足球錦標賽榮獲三年級第二名",
-          "date": "2026-06-10",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=58"
-        },
-        {
-          "title": "",
-          "achievement": "115年臺中市市長盃跆拳道錦標賽品勢國小男子中年級藍帶c組第二名",
-          "date": "2026-05-11",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=44"
         }
       ]
     },
@@ -2693,6 +2650,13 @@
       "seatNumber": 0,
       "honors": [
         {
+          "title": "",
+          "achievement": "115年臺中市議長盃全國跆拳道錦標賽品勢國小低年級男子黃帶A組第三名",
+          "date": "2026-11-09",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=99"
+        },
+        {
           "title": "115年臺中市主委盃全國跆拳道錦標賽暨全國少年臺中市跆拳道代表選拔品勢國小低年級男子白帶組第三名",
           "achievement": "115年臺中市主委盃全國跆拳道錦標賽暨全國少年臺中市跆拳道代表選拔品勢國小低年級男子白帶組",
           "date": "2026-11-04",
@@ -3694,6 +3658,49 @@
       ]
     },
     {
+      "id": "10",
+      "name": "吳O",
+      "className": "四年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "115年臺中市議長盃全國跆拳道錦標賽品勢國小中年級男子紅黑帶B組第三名",
+          "date": "2026-11-09",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=98"
+        },
+        {
+          "title": "114學年度班際跳繩競賽",
+          "achievement": "中年個人賽男子組第一名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第一名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "115年苗栗縣體育會理事長盃足球錦標賽榮獲三年級第二名",
+          "date": "2026-06-10",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=58"
+        },
+        {
+          "title": "",
+          "achievement": "115年臺中市市長盃跆拳道錦標賽品勢國小男子中年級藍帶c組第二名",
+          "date": "2026-05-11",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=44"
+        }
+      ]
+    },
+    {
       "id": "18",
       "name": "周O麟",
       "className": "四年一班",
@@ -3967,20 +3974,6 @@
           "date": "2026-06-03",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=53"
-        },
-        {
-          "title": "台中市市長盃滑輪溜冰錦標賽",
-          "achievement": "台中市市長盃滑輪溜冰錦標賽1000公尺國小菁英組中年級女子第三名",
-          "date": "2026-04-14",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=38"
-        },
-        {
-          "title": "台中市市長盃滑輪溜冰錦標賽",
-          "achievement": "台中市市長盃滑輪溜冰錦標賽500+D公尺爭先賽國小菁英組中年級女子第六名",
-          "date": "2026-04-14",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=38"
         }
       ]
     },
