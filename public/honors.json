@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026/11/11 08:28",
+  "lastUpdated": "2026/11/12 09:50",
   "students": [
     {
       "id": "125",
@@ -3643,6 +3643,91 @@
       ]
     },
     {
+      "id": "115",
+      "name": "張O瑀",
+      "className": "四年一班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "臺中市仁仁盃國小水上救生暨游泳錦標賽",
+          "achievement": "臺中市仁仁盃國小水上救生暨游泳錦標賽中年組男子組25公尺抬頭蛙泳第四名",
+          "date": "2026-11-11",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=100"
+        },
+        {
+          "title": "臺中市仁仁盃國小水上救生暨游泳錦標賽",
+          "achievement": "臺中市仁仁盃國小水上救生暨游泳錦標賽中年組男子組50公尺自由式第二名",
+          "date": "2026-11-11",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=100"
+        },
+        {
+          "title": "臺中市仁仁盃國小水上救生暨游泳錦標賽",
+          "achievement": "臺中市仁仁盃國小水上救生暨游泳錦標賽中年組男子組100公尺混合四式第一名",
+          "date": "2026-11-11",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=100"
+        },
+        {
+          "title": "",
+          "achievement": "味丹杯全國書法暨篆刻比賽榮獲國小四年級佳作",
+          "date": "2026-11-05",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=96"
+        },
+        {
+          "title": "",
+          "achievement": "115學年度第一學期暑假作業優秀名單",
+          "date": "2026-09-22",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=76"
+        },
+        {
+          "title": "115年度Cool English英閱王比賽",
+          "achievement": "115年度Cool English英閱王比賽榮獲英閱王獎",
+          "date": "2026-09-16",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=74"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "114學年度班際跳繩競賽",
+          "achievement": "中年個人賽男子組第四名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "114學年度班際跳繩競賽",
+          "achievement": "中年級團體賽第一名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        },
+        {
+          "title": "",
+          "achievement": "榮獲115年臺中市仁仁游泳基金會品學兼優獎學金",
+          "date": "2026-05-13",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=45"
+        }
+      ]
+    },
+    {
       "id": "10",
       "name": "吳O",
       "className": "四年一班",
@@ -3767,70 +3852,6 @@
           "date": "2026-04-30",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=41"
-        }
-      ]
-    },
-    {
-      "id": "115",
-      "name": "張O瑀",
-      "className": "四年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "味丹杯全國書法暨篆刻比賽榮獲國小四年級佳作",
-          "date": "2026-11-05",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=96"
-        },
-        {
-          "title": "",
-          "achievement": "115學年度第一學期暑假作業優秀名單",
-          "date": "2026-09-22",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=76"
-        },
-        {
-          "title": "115年度Cool English英閱王比賽",
-          "achievement": "115年度Cool English英閱王比賽榮獲英閱王獎",
-          "date": "2026-09-16",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=74"
-        },
-        {
-          "title": "",
-          "achievement": "114學年度第二學期總成績各班優異前五名",
-          "date": "2026-06-25",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
-        },
-        {
-          "title": "114-2期末定期評量各班成績優異前三名",
-          "achievement": "各班成績優異前三名",
-          "date": "2026-06-25",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
-        },
-        {
-          "title": "114學年度班際跳繩競賽",
-          "achievement": "中年個人賽男子組第四名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "114學年度班際跳繩競賽",
-          "achievement": "中年級團體賽第一名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "",
-          "achievement": "榮獲115年臺中市仁仁游泳基金會品學兼優獎學金",
-          "date": "2026-05-13",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=45"
         }
       ]
     },
