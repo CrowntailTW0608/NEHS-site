@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026/11/18 10:13",
+  "lastUpdated": "2026/11/19 09:46",
   "students": [
     {
       "id": "134",
@@ -168,6 +168,21 @@
           "date": "2026-06-04",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
+        }
+      ]
+    },
+    {
+      "id": "367",
+      "name": "羅O鈞",
+      "className": "一年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "",
+          "achievement": "115年台中市議長盃全國跆拳道錦標賽-競速踢擊國小男子低年級色帶組5-8級N組第二名",
+          "date": "2026-11-18",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=106"
         }
       ]
     },
@@ -4356,13 +4371,6 @@
           "date": "2026-06-11",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=59"
-        },
-        {
-          "title": "",
-          "achievement": "115年度Cool English英聽王比賽榮獲英聽王獎",
-          "date": "2026-05-14",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=46"
         }
       ]
     },
