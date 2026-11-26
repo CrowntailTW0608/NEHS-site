@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026/11/25 11:25",
+  "lastUpdated": "2026/11/26 10:41",
   "students": [
     {
       "id": "134",
@@ -20,13 +20,6 @@
           "date": "2026-06-25",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
-        },
-        {
-          "title": "袋鼠盃數學競賽",
-          "achievement": "榮獲銀獎",
-          "date": "2026-06-04",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
         }
       ]
     },
@@ -42,13 +35,6 @@
           "date": "2026-06-25",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
-        },
-        {
-          "title": "袋鼠盃數學競賽",
-          "achievement": "榮獲銅獎",
-          "date": "2026-06-04",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
         }
       ]
     },
@@ -64,13 +50,6 @@
           "date": "2026-06-25",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
-        },
-        {
-          "title": "袋鼠盃數學競賽",
-          "achievement": "榮獲銅獎",
-          "date": "2026-06-04",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
         }
       ]
     },
@@ -116,58 +95,6 @@
           "date": "2026-05-08",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "袋鼠盃數學競賽",
-          "achievement": "榮獲銅獎",
-          "date": "2026-06-04",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
-        }
-      ]
-    },
-    {
-      "id": "124",
-      "name": "駱O睿",
-      "className": "一年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "袋鼠盃數學競賽",
-          "achievement": "榮獲銀獎",
-          "date": "2026-06-04",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
-        }
-      ]
-    },
-    {
-      "id": "122",
-      "name": "陳O佑",
-      "className": "一年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "袋鼠盃數學競賽",
-          "achievement": "榮獲銅獎",
-          "date": "2026-06-04",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
-        }
-      ]
-    },
-    {
-      "id": "137",
-      "name": "張O甄",
-      "className": "一年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "袋鼠盃數學競賽",
-          "achievement": "榮獲銅獎",
-          "date": "2026-06-04",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
         }
       ]
     },
@@ -821,13 +748,6 @@
           "date": "2026-06-25",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
-        },
-        {
-          "title": "袋鼠盃數學競賽",
-          "achievement": "榮獲銀獎",
-          "date": "2026-06-04",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
         }
       ]
     },
@@ -910,21 +830,6 @@
           "date": "2026-06-25",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=67"
-        }
-      ]
-    },
-    {
-      "id": "274",
-      "name": "張O碩",
-      "className": "三年一班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "115學年度國小部校內機關王比賽",
-          "achievement": "115學年度國小部校內機關王比賽榮獲優等",
-          "date": "2026-11-24",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=113"
         }
       ]
     },
@@ -1262,6 +1167,42 @@
       ]
     },
     {
+      "id": "29",
+      "name": "蔡O霖",
+      "className": "三年三班",
+      "seatNumber": 0,
+      "honors": [
+        {
+          "title": "115學年度國小部校內機關王比賽",
+          "achievement": "115學年度國小部校內機關王比賽榮獲優等",
+          "date": "2026-11-24",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=113"
+        },
+        {
+          "title": "",
+          "achievement": "114學年度第二學期總成績各班優異前五名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
+        },
+        {
+          "title": "114-2期末定期評量各班成績優異前三名",
+          "achievement": "各班成績優異前三名",
+          "date": "2026-06-25",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
+        },
+        {
+          "title": "114學年度班際跳繩競賽",
+          "achievement": "低年個人賽男子組第四名",
+          "date": "2026-05-08",
+          "category": "一般",
+          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
+        }
+      ]
+    },
+    {
       "id": "17",
       "name": "賴O宇",
       "className": "三年三班",
@@ -1351,13 +1292,6 @@
           "date": "2026-05-08",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "袋鼠盃數學競賽",
-          "achievement": "榮獲銅獎",
-          "date": "2026-06-04",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
         }
       ]
     },
@@ -1830,13 +1764,6 @@
           "date": "2026-06-25",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
-        },
-        {
-          "title": "袋鼠盃數學競賽",
-          "achievement": "榮獲銅獎",
-          "date": "2026-06-04",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
         }
       ]
     },
@@ -1859,13 +1786,6 @@
           "date": "2026-06-25",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
-        },
-        {
-          "title": "袋鼠盃數學競賽",
-          "achievement": "榮獲銅獎",
-          "date": "2026-06-04",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
         }
       ]
     },
@@ -1947,13 +1867,6 @@
           "date": "2026-06-25",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
-        },
-        {
-          "title": "袋鼠盃數學競賽",
-          "achievement": "榮獲銅獎",
-          "date": "2026-06-04",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=56"
         }
       ]
     },
@@ -2745,35 +2658,6 @@
       ]
     },
     {
-      "id": "29",
-      "name": "蔡O霖",
-      "className": "二年二班",
-      "seatNumber": 0,
-      "honors": [
-        {
-          "title": "",
-          "achievement": "114學年度第二學期總成績各班優異前五名",
-          "date": "2026-06-25",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=68"
-        },
-        {
-          "title": "114-2期末定期評量各班成績優異前三名",
-          "achievement": "各班成績優異前三名",
-          "date": "2026-06-25",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
-        },
-        {
-          "title": "114學年度班際跳繩競賽",
-          "achievement": "低年個人賽男子組第四名",
-          "date": "2026-05-08",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        }
-      ]
-    },
-    {
       "id": "43",
       "name": "楊O睿",
       "className": "二年二班",
@@ -2955,13 +2839,6 @@
           "date": "2026-06-25",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=66"
-        },
-        {
-          "title": "臺中市線上閱讀認證系統",
-          "achievement": "榮獲紅嘴黑鵯等級",
-          "date": "2026-06-04",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=55"
         }
       ]
     },
@@ -3782,13 +3659,6 @@
           "date": "2026-05-08",
           "category": "一般",
           "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=60"
-        },
-        {
-          "title": "臺中市線上閱讀認證系統",
-          "achievement": "榮獲白耳畫眉等級",
-          "date": "2026-06-04",
-          "category": "一般",
-          "url": "https://school.tc.edu.tw/open-honor/060323b/view?id=55"
         }
       ]
     },
